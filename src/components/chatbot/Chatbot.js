@@ -750,7 +750,7 @@ Try asking me about your key metrics and performance indicators!`;
 
    try {
     // Real API call to your backend
-    const response = await fetch('http://164.52.221.208:9005/api/chat', {
+    const response = await fetch('/api/chat', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -805,7 +805,7 @@ Try asking me about your key metrics and performance indicators!`;
 };
 const generateFollowUpQuestions = async (botResponse, userQuestion) => {
   try {
-    const response = await fetch('http://164.52.221.208:9005/api/generate-questions', {
+    const response = await fetch('/api/generate-questions', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
