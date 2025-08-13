@@ -1,0 +1,6439 @@
+{
+  "financial_entries": [
+    {
+      "attribute": "GMV Delivered",
+      "value": "128.8 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered",
+      "value": "142.9 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered",
+      "value": "151.7 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered",
+      "value": "151.4 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered",
+      "value": "186.0 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered",
+      "value": "332.3 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered",
+      "value": "279.7 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered",
+      "value": "297.7 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue",
+      "value": "44.1 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue",
+      "value": "45.4 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue",
+      "value": "61.7 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue",
+      "value": "45.8 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue",
+      "value": "46.6 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue",
+      "value": "46.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue",
+      "value": "43.4 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue",
+      "value": "51.2 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Net Revenue",
+      "value": "43.5 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Net Revenue",
+      "value": "44.9 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Net Revenue",
+      "value": "61.2 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Net Revenue",
+      "value": "45.4 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Net Revenue",
+      "value": "46.2 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Net Revenue",
+      "value": "46.2 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Net Revenue",
+      "value": "43.0 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Net Revenue",
+      "value": "50.9 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Station Cost",
+      "value": "40.7 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Cost",
+      "value": "45.5 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Cost",
+      "value": "59.0 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Cost",
+      "value": "44.5 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Cost",
+      "value": "42.9 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Cost",
+      "value": "42.3 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Cost",
+      "value": "39.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Cost",
+      "value": "44.2 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Contribution",
+      "value": "2.8 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Contribution",
+      "value": "-0.7 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Contribution",
+      "value": "2.1 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Contribution",
+      "value": "0.8 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Contribution",
+      "value": "3.2 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Contribution",
+      "value": "3.9 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Contribution",
+      "value": "3.4 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Contribution",
+      "value": "6.6 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "SGNA Cost",
+      "value": "22.2 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "SGNA Cost",
+      "value": "21.4 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "SGNA Cost",
+      "value": "22.3 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "SGNA Cost",
+      "value": "22.1 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "SGNA Cost",
+      "value": "22.7 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "SGNA Cost",
+      "value": "25.1 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "SGNA Cost",
+      "value": "24.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "SGNA Cost",
+      "value": "26.6 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Adjusted EBITDA",
+      "value": "-19.4 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Adjusted EBITDA",
+      "value": "-22.1 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Adjusted EBITDA",
+      "value": "-20.2 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Adjusted EBITDA",
+      "value": "-21.3 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Adjusted EBITDA",
+      "value": "-19.5 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Adjusted EBITDA",
+      "value": "-21.2 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Adjusted EBITDA",
+      "value": "-21.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Adjusted EBITDA",
+      "value": "-19.9 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-19.7 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-22.5 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-20.4 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-21.4 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-19.7 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-21.9 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-21.4 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-22.8 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Other Income",
+      "value": "9.0 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Income"
+    },
+    {
+      "attribute": "Other Income",
+      "value": "9.2 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Income"
+    },
+    {
+      "attribute": "Other Income",
+      "value": "9.0 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Income"
+    },
+    {
+      "attribute": "Other Income",
+      "value": "8.6 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Income"
+    },
+    {
+      "attribute": "Other Income",
+      "value": "8.6 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Income"
+    },
+    {
+      "attribute": "Other Income",
+      "value": "7.6 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Income"
+    },
+    {
+      "attribute": "Other Income",
+      "value": "7.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Income"
+    },
+    {
+      "attribute": "Other Income",
+      "value": "9.1 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Income"
+    },
+    {
+      "attribute": "Depreciation",
+      "value": "1.0 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Depreciation",
+      "value": "1.0 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Depreciation",
+      "value": "1.1 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Depreciation",
+      "value": "1.1 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Depreciation",
+      "value": "1.1 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Depreciation",
+      "value": "1.1 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Depreciation",
+      "value": "1.1 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Depreciation",
+      "value": "1.5 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Profit before Tax",
+      "value": "-11.8 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Profit before Tax",
+      "value": "-14.4 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Profit before Tax",
+      "value": "-12.5 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Profit before Tax",
+      "value": "-13.9 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Profit before Tax",
+      "value": "-12.1 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Profit before Tax",
+      "value": "-15.5 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Profit before Tax",
+      "value": "-15.4 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Profit before Tax",
+      "value": "-15.3 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "GMV Delivered (wo Tax)",
+      "value": "34.6 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (wo Tax)",
+      "value": "35.9 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (wo Tax)",
+      "value": "39.6 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (wo Tax)",
+      "value": "43.5 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (wo Tax)",
+      "value": "39.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (wo Tax)",
+      "value": "44.4 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Product Revenue",
+      "value": "4.8 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Product Revenue",
+      "value": "4.9 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Product Revenue",
+      "value": "5.3 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Product Revenue",
+      "value": "5.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Product Revenue",
+      "value": "5.0 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Product Revenue",
+      "value": "5.7 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Adjusted Revenue",
+      "value": "4.3 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Adjusted Revenue",
+      "value": "4.4 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Adjusted Revenue",
+      "value": "4.8 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Adjusted Revenue",
+      "value": "5.2 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Adjusted Revenue",
+      "value": "4.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Adjusted Revenue",
+      "value": "5.3 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Total Station Cost",
+      "value": "7.1 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Total Station Cost",
+      "value": "6.9 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Total Station Cost",
+      "value": "6.5 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Total Station Cost",
+      "value": "6.6 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Total Station Cost",
+      "value": "6.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Total Station Cost",
+      "value": "6.1 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-2.8 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-2.5 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-1.7 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-1.4 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-1.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-0.8 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Rural Profit",
+      "value": "-10.8 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Rural Profit",
+      "value": "-10.2 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Rural Profit",
+      "value": "-9.80 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Rural Profit",
+      "value": "-9.97 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Rural Profit",
+      "value": "-9.43 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Rural Profit",
+      "value": "-8.84 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "GMV Delivered (wo Tax)",
+      "value": "34.6 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (wo Tax)",
+      "value": "35.9 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (wo Tax)",
+      "value": "39.6 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (wo Tax)",
+      "value": "43.5 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (wo Tax)",
+      "value": "39.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (wo Tax)",
+      "value": "44.4 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Product Revenue",
+      "value": "4.8 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Product Revenue",
+      "value": "4.9 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Product Revenue",
+      "value": "5.3 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Product Revenue",
+      "value": "5.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Product Revenue",
+      "value": "5.0 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Product Revenue",
+      "value": "5.7 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Adjusted Revenue",
+      "value": "4.3 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Adjusted Revenue",
+      "value": "4.4 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Adjusted Revenue",
+      "value": "4.8 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Adjusted Revenue",
+      "value": "5.2 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Adjusted Revenue",
+      "value": "4.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Adjusted Revenue",
+      "value": "5.3 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Total Station Cost",
+      "value": "7.1 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Total Station Cost",
+      "value": "6.9 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Total Station Cost",
+      "value": "6.5 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Total Station Cost",
+      "value": "6.6 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Total Station Cost",
+      "value": "6.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Total Station Cost",
+      "value": "6.1 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-2.8 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-2.5 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-1.7 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-1.4 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-1.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-0.8 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Rural Profit",
+      "value": "-10.8 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Rural Profit",
+      "value": "-10.2 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Rural Profit",
+      "value": "-9.80 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Rural Profit",
+      "value": "-9.97 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Rural Profit",
+      "value": "-9.43 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Rural Profit",
+      "value": "-8.84 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Revenue",
+      "value": "30.6 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue",
+      "value": "38.3 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue",
+      "value": "35.5 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue",
+      "value": "41.5 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Operating Costs",
+      "value": "28 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Operating Costs",
+      "value": "35.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Operating Costs",
+      "value": "33.4 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Operating Costs",
+      "value": "38.1 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Hired Manpower",
+      "value": "6 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Hired Manpower",
+      "value": "7.24 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Hired Manpower",
+      "value": "6.68 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Hired Manpower",
+      "value": "7.71 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "2.9 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "2.6 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "2.0 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "3.4 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Operating Profit",
+      "value": "3 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Operating Profit",
+      "value": "2.5 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Operating Profit",
+      "value": "2.0 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Operating Profit",
+      "value": "3.2 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Logistics Profit",
+      "value": "0.56 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Logistics Profit",
+      "value": "-1.1 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Logistics Profit",
+      "value": "-1.7 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Logistics Profit",
+      "value": "-0.7 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "GMV Delivered (Without Tax)",
+      "value": "166 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (Without Tax)",
+      "value": "92 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (Without Tax)",
+      "value": "288.8 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (Without Tax)",
+      "value": "240.1 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered (Without Tax)",
+      "value": "253.2 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Product Cost",
+      "value": "165 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Product Cost",
+      "value": "91 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Product Cost",
+      "value": "287.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Product Cost",
+      "value": "238.7 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Product Cost",
+      "value": "251.4 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Product Margin",
+      "value": "1.5 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Product Margin",
+      "value": "1.0 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Product Margin",
+      "value": "1.1 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Product Margin",
+      "value": "1.3 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Product Margin",
+      "value": "1.8 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Gross Margin",
+      "value": "0 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Gross Margin",
+      "value": "0.75 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Gross Margin",
+      "value": "0.9 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Gross Margin",
+      "value": "1.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Gross Margin",
+      "value": "1.7 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net operating Margin",
+      "value": "-0 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net operating Margin",
+      "value": "0.71 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net operating Margin",
+      "value": "0.93 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net operating Margin",
+      "value": "1.21 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net operating Margin",
+      "value": "1.72 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Comex Profit",
+      "value": "0 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Comex Profit",
+      "value": "-0.63 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Comex Profit",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Comex Profit",
+      "value": "0.5 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Comex Profit",
+      "value": "1.0 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "GMV Delivered w/o tax",
+      "value": "28.2 ₹ Cr",
+      "time_period": "Apr-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered w/o tax",
+      "value": "30.9 ₹ Cr",
+      "time_period": "May-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered w/o tax",
+      "value": "32.6 ₹ Cr",
+      "time_period": "Jun-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered w/o tax",
+      "value": "32.4 ₹ Cr",
+      "time_period": "Jul-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered w/o tax",
+      "value": "31.9 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered w/o tax",
+      "value": "27.8 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered w/o tax",
+      "value": "31.1 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered w/o tax",
+      "value": "31.6 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered w/o tax",
+      "value": "35.1 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered w/o tax",
+      "value": "43.0 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered w/o tax",
+      "value": "38.9 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GMV Delivered w/o tax",
+      "value": "43.6 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Net Margin",
+      "value": "2.8 ₹ Cr",
+      "time_period": "Apr-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Margin",
+      "value": "3.5 ₹ Cr",
+      "time_period": "May-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Margin",
+      "value": "3.9 ₹ Cr",
+      "time_period": "Jun-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Margin",
+      "value": "4.0 ₹ Cr",
+      "time_period": "Jul-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Margin",
+      "value": "4.2 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Margin",
+      "value": "3.7 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Margin",
+      "value": "3.9 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Margin",
+      "value": "3.9 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Margin",
+      "value": "4.2 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Margin",
+      "value": "5.2 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Margin",
+      "value": "4.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Net Margin",
+      "value": "5.3 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-2.59 ₹ Cr",
+      "time_period": "Apr-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-2.402 ₹ Cr",
+      "time_period": "May-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-2.0 ₹ Cr",
+      "time_period": "Jun-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-2.0 ₹ Cr",
+      "time_period": "Jul-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-1.8 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-2.1 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-2.1 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-1.9 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-1.2 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-1.4 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-1.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Station Profit",
+      "value": "-0.8 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Kirana Revenue",
+      "value": "4.9 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana Revenue",
+      "value": "4.6 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana Revenue",
+      "value": "4.8 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana Revenue",
+      "value": "4.9 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana Revenue",
+      "value": "5.3 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana Revenue",
+      "value": "5.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana Revenue",
+      "value": "5.0 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana Revenue",
+      "value": "5.7 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex Revenue",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex Revenue",
+      "value": "0.6 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex Revenue",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex Revenue",
+      "value": "0.8 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex Revenue",
+      "value": "1.0 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex Revenue",
+      "value": "0.9 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex Revenue",
+      "value": "1.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex Revenue",
+      "value": "1.7 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "E-comm Revenue",
+      "value": "37.7 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "E-comm Revenue",
+      "value": "39.0 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "E-comm Revenue",
+      "value": "54.9 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "E-comm Revenue",
+      "value": "38.9 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "E-comm Revenue",
+      "value": "38.8 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "E-comm Revenue",
+      "value": "38.3 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "E-comm Revenue",
+      "value": "35.5 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "E-comm Revenue",
+      "value": "41.5 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "SaaS Revenue",
+      "value": "1.1 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "SaaS Revenue",
+      "value": "1.2 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "SaaS Revenue",
+      "value": "1.8 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "SaaS Revenue",
+      "value": "1.3 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "SaaS Revenue",
+      "value": "1.5 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "SaaS Revenue",
+      "value": "1.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "SaaS Revenue",
+      "value": "1.7 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "SaaS Revenue",
+      "value": "2.3 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Salary Costs",
+      "value": "14.2 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Salary Costs",
+      "value": "13.6 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Salary Costs",
+      "value": "13.6 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Salary Costs",
+      "value": "14.1 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Salary Costs",
+      "value": "14.20 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Salary Costs",
+      "value": "14.91 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Salary Costs",
+      "value": "15.61 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Salary Costs",
+      "value": "14.30 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Indirect Costs",
+      "value": "4.8 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Indirect Costs",
+      "value": "4.5 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Indirect Costs",
+      "value": "5.3 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Indirect Costs",
+      "value": "5.1 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Indirect Costs",
+      "value": "4.69 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Indirect Costs",
+      "value": "5.93 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Indirect Costs",
+      "value": "4.93 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Indirect Costs",
+      "value": "7.84 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ESOP Cost",
+      "value": "1.3 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ESOP Cost",
+      "value": "1.3 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ESOP Cost",
+      "value": "1.3 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ESOP Cost",
+      "value": "1.0 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ESOP Cost",
+      "value": "1.29 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ESOP Cost",
+      "value": "1.87 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ESOP Cost",
+      "value": "1.87 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ESOP Cost",
+      "value": "1.87 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Business Overheads",
+      "value": "1.8 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Business Overheads",
+      "value": "1.9 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Business Overheads",
+      "value": "2.0 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Business Overheads",
+      "value": "1.8 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Business Overheads",
+      "value": "2.39 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Business Overheads",
+      "value": "2.23 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Business Overheads",
+      "value": "2.04 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Business Overheads",
+      "value": "2.40 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC Costs/ CRC Costs",
+      "value": "1.6 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC Costs/ CRC Costs",
+      "value": "1.5 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC Costs/ CRC Costs",
+      "value": "1.6 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC Costs/ CRC Costs",
+      "value": "1.4 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC Costs/ CRC Costs",
+      "value": "1.48 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC Costs/ CRC Costs",
+      "value": "1.51 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC Costs/ CRC Costs",
+      "value": "1.43 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC Costs/ CRC Costs",
+      "value": "1.42 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Kirana GMV",
+      "value": "33.9 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana GMV",
+      "value": "32.0 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana GMV",
+      "value": "34.6 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana GMV",
+      "value": "35.9 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana GMV",
+      "value": "39.6 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana GMV",
+      "value": "43.5 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana GMV",
+      "value": "39.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana GMV",
+      "value": "44.4 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex GMV",
+      "value": "94.8 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex GMV",
+      "value": "110.9 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex GMV",
+      "value": "117.2 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex GMV",
+      "value": "115.6 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex GMV",
+      "value": "146.4 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex GMV",
+      "value": "288.8 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex GMV",
+      "value": "240.1 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Comex GMV",
+      "value": "253.2 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Kirana Contribution",
+      "value": "-2.2 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Kirana Contribution",
+      "value": "-2.6 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Kirana Contribution",
+      "value": "-2.8 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Kirana Contribution",
+      "value": "-2.5 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Kirana Contribution",
+      "value": "-1.7 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Kirana Contribution",
+      "value": "-1.4 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Kirana Contribution",
+      "value": "-1.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Kirana Contribution",
+      "value": "-0.8 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Comex Contribution",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Comex Contribution",
+      "value": "0.6 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Comex Contribution",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Comex Contribution",
+      "value": "0.8 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Comex Contribution",
+      "value": "1.0 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Comex Contribution",
+      "value": "0.9 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Comex Contribution",
+      "value": "1.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Comex Contribution",
+      "value": "1.7 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "E-comm Contribution",
+      "value": "3.6 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "E-comm Contribution",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "E-comm Contribution",
+      "value": "3.0 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "E-comm Contribution",
+      "value": "1.2 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "E-comm Contribution",
+      "value": "2.4 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "E-comm Contribution",
+      "value": "2.6 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "E-comm Contribution",
+      "value": "2.0 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "E-comm Contribution",
+      "value": "3.4 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "HM sales",
+      "value": "24.7 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "HM sales",
+      "value": "31.6 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "HM sales",
+      "value": "34.7 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "HM sales",
+      "value": "38.5 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "HM sales",
+      "value": "35.0 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "HM sales",
+      "value": "38.7 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "WH Ops Cost",
+      "value": "2.8 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "WH Ops Cost",
+      "value": "2.8 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "WH Ops Cost",
+      "value": "2.9 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "WH Ops Cost",
+      "value": "2.9 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "WH Ops Cost",
+      "value": "2.8 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "WH Ops Cost",
+      "value": "2.9 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "SE Cost",
+      "value": "2.7 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "SE Cost",
+      "value": "2.4 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "SE Cost",
+      "value": "2.2 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "SE Cost",
+      "value": "2.2 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "SE Cost",
+      "value": "2.1 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "SE Cost",
+      "value": "2.1 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC/CRC Cost (Active only)",
+      "value": "1.6 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC/CRC Cost (Active only)",
+      "value": "1.4 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC/CRC Cost (Active only)",
+      "value": "1.5 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC/CRC Cost (Active only)",
+      "value": "1.5 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC/CRC Cost (Active only)",
+      "value": "1.4 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "CFC/CRC Cost (Active only)",
+      "value": "1.4 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Segment Profit",
+      "value": "-4.3 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Segment Profit",
+      "value": "-3.9 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Segment Profit",
+      "value": "-3.2 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Segment Profit",
+      "value": "-2.9 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Segment Profit",
+      "value": "-3.0 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Segment Profit",
+      "value": "-2.3 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "B2B Rural Manpower & Allocated Costs",
+      "value": "6.2 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "B2B Rural Manpower & Allocated Costs",
+      "value": "6.1 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "B2B Rural Manpower & Allocated Costs",
+      "value": "6.4 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "B2B Rural Manpower & Allocated Costs",
+      "value": "6.3 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "B2B Rural Manpower & Allocated Costs",
+      "value": "6.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "B2B Rural Manpower & Allocated Costs",
+      "value": "5.8 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Sugar GMV",
+      "value": "158 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Sugar GMV",
+      "value": "86 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Sugar GMV",
+      "value": "233.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Sugar GMV",
+      "value": "195.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Sugar GMV",
+      "value": "172.2 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Oil GMV",
+      "value": "4.55 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Oil GMV",
+      "value": "4.55 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Oil GMV",
+      "value": "55.1 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Oil GMV",
+      "value": "44.8 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Oil GMV",
+      "value": "81.1 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Sugar Product Cost",
+      "value": "158 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Sugar Product Cost",
+      "value": "85 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Sugar Product Cost",
+      "value": "232.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Sugar Product Cost",
+      "value": "194.1 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Sugar Product Cost",
+      "value": "170.7 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Oil Product Cost",
+      "value": "5 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Oil Product Cost",
+      "value": "5 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Oil Product Cost",
+      "value": "55.0 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Oil Product Cost",
+      "value": "44.7 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Oil Product Cost",
+      "value": "80.7 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Sugar Product Margin",
+      "value": "0 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Sugar Product Margin",
+      "value": "1 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Sugar Product Margin",
+      "value": "1.0 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Sugar Product Margin",
+      "value": "1.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Sugar Product Margin",
+      "value": "1.4 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Oil Product Margin",
+      "value": "0 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Oil Product Margin",
+      "value": "0 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Oil Product Margin",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Oil Product Margin",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Oil Product Margin",
+      "value": "0.4 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Profit/Loss"
+    },
+    {
+      "attribute": "Wholesale GMV",
+      "value": "152 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Wholesale GMV",
+      "value": "58 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Wholesale GMV",
+      "value": "182.1 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Wholesale GMV",
+      "value": "157.5 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Wholesale GMV",
+      "value": "93.5 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Bulk GMV",
+      "value": "14 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Bulk GMV",
+      "value": "33 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Bulk GMV",
+      "value": "106.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Bulk GMV",
+      "value": "82.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Bulk GMV",
+      "value": "159.7 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Liquidation Expense",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Liquidation Expense",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Liquidation Expense",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Liquidation Expense",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Liquidation Expense",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Liquidation Expense",
+      "value": "0.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Liquidation Expense",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Liquidation Expense",
+      "value": "0.4 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Closing Station & CRC Cost",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Closing Station & CRC Cost",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Closing Station & CRC Cost",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Closing Station & CRC Cost",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Closing Station & CRC Cost",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Closing Station & CRC Cost",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Closing Station & CRC Cost",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Closing Station & CRC Cost",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ER Manpower (Severance)",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ER Manpower (Severance)",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ER Manpower (Severance)",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ER Manpower (Severance)",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ER Manpower (Severance)",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ER Manpower (Severance)",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ER Manpower (Severance)",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ER Manpower (Severance)",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Receivables Provision",
+      "value": "0 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Receivables Provision",
+      "value": "0 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Receivables Provision",
+      "value": "0 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Receivables Provision",
+      "value": "0 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Receivables Provision",
+      "value": "0 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Receivables Provision",
+      "value": "0 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Receivables Provision",
+      "value": "0 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Receivables Provision",
+      "value": "1.1 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "GST- Disallowance",
+      "value": "0 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "GST- Disallowance",
+      "value": "0 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "GST- Disallowance",
+      "value": "0 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "GST- Disallowance",
+      "value": "0 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "GST- Disallowance",
+      "value": "0 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "GST- Disallowance",
+      "value": "0 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "GST- Disallowance",
+      "value": "0 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "GST- Disallowance",
+      "value": "1.3 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Gratuity Cost",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Gratuity Cost",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Gratuity Cost",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Gratuity Cost",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Gratuity Cost",
+      "value": "0.10 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Gratuity Cost",
+      "value": "0.12 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Gratuity Cost",
+      "value": "0.12 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Gratuity Cost",
+      "value": "0.12 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Direct Costs",
+      "value": "0.6 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Direct Costs",
+      "value": "0.5 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Direct Costs",
+      "value": "0.5 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Direct Costs",
+      "value": "0.5 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Direct Costs",
+      "value": "0.4 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Direct Costs",
+      "value": "0.5 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Direct Costs",
+      "value": "0.4 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Other Direct Costs",
+      "value": "0.4 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Marketing Cost",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Marketing Cost",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Marketing Cost",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Marketing Cost",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Marketing Cost",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Marketing Cost",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Marketing Cost",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Marketing Cost",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Inward Freight",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Inward Freight",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Inward Freight",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Inward Freight",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Inward Freight",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Inward Freight",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Inward Freight",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Inward Freight",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "LE (leave Encahment)",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "LE (leave Encahment)",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Sep-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "LE (leave Encahment)",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "LE (leave Encahment)",
+      "value": "0.0 ₹ Cr",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "LE (leave Encahment)",
+      "value": "0.03 ₹ Cr",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "LE (leave Encahment)",
+      "value": "0.03 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "LE (leave Encahment)",
+      "value": "0.03 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "LE (leave Encahment)",
+      "value": "0.03 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Inv_Consol PL",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Comex Manpower & Allocated Costs",
+      "value": "0 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Comex Manpower & Allocated Costs",
+      "value": "1.33 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Comex Manpower & Allocated Costs",
+      "value": "0.8 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Comex Manpower & Allocated Costs",
+      "value": "0.8 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Comex Manpower & Allocated Costs",
+      "value": "0.7 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Transportation Cost",
+      "value": "1 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Transportation Cost",
+      "value": "0.24 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Transportation Cost",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Transportation Cost",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Transportation Cost",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Number of Stores",
+      "value": "107,146",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Stores",
+      "value": "110,340",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Stores",
+      "value": "108,517",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Stores",
+      "value": "106,219",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Stores",
+      "value": "101,555",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Stores",
+      "value": "105,937",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Stores per Station",
+      "value": "710",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Stores per Station",
+      "value": "716",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Stores per Station",
+      "value": "709",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Stores per Station",
+      "value": "728",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Stores per Station",
+      "value": "710",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Stores per Station",
+      "value": "741",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "GMV per Store (INR Rs.)",
+      "value": "3,225.00",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "GMV per Store (INR Rs.)",
+      "value": "3,252.28",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "GMV per Store (INR Rs.)",
+      "value": "3,648.11",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "GMV per Store (INR Rs.)",
+      "value": "4,097.55",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "GMV per Store (INR Rs.)",
+      "value": "3,904.27",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "GMV per Store (INR Rs.)",
+      "value": "4,194.20",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Active Stations (>0 GMV)",
+      "value": "151",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Active Stations (>0 GMV)",
+      "value": "154",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Active Stations (>0 GMV)",
+      "value": "153",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Active Stations (>0 GMV)",
+      "value": "146",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Active Stations (>0 GMV)",
+      "value": "143",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Active Stations (>0 GMV)",
+      "value": "143",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Orders per store",
+      "value": "2.49",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Orders per store",
+      "value": "2.43",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Orders per store",
+      "value": "2.56",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Orders per store",
+      "value": "2.64",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Orders per store",
+      "value": "2.36",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Orders per store",
+      "value": "2.44",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Invoices",
+      "value": "232,666",
+      "time_period": "Oct-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Invoices",
+      "value": "234,937",
+      "time_period": "Nov-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Invoices",
+      "value": "243,831",
+      "time_period": "Dec-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Invoices",
+      "value": "247,488",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Invoices",
+      "value": "219,794",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Invoices",
+      "value": "242,348",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Rural",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "BAU GMV Delivered w/o tax",
+      "value": "13.6 ₹ Cr",
+      "time_period": "Apr-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "BAU GMV Delivered w/o tax",
+      "value": "15.1 ₹ Cr",
+      "time_period": "May-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "BAU GMV Delivered w/o tax",
+      "value": "15.5 ₹ Cr",
+      "time_period": "Jun-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "BAU GMV Delivered w/o tax",
+      "value": "15.0 ₹ Cr",
+      "time_period": "Jul-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "BAU GMV Delivered w/o tax",
+      "value": "14.7 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "HM GMV Delivered w/o tax",
+      "value": "14.6 ₹ Cr",
+      "time_period": "Apr-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "HM GMV Delivered w/o tax",
+      "value": "15.8 ₹ Cr",
+      "time_period": "May-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "HM GMV Delivered w/o tax",
+      "value": "17.1 ₹ Cr",
+      "time_period": "Jun-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "HM GMV Delivered w/o tax",
+      "value": "17.4 ₹ Cr",
+      "time_period": "Jul-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "HM GMV Delivered w/o tax",
+      "value": "17.3 ₹ Cr",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "BAU Gross Margin % to GMV",
+      "value": "11.1%",
+      "time_period": "Apr-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "BAU Gross Margin % to GMV",
+      "value": "11.0%",
+      "time_period": "May-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "BAU Gross Margin % to GMV",
+      "value": "12.9%",
+      "time_period": "Jun-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "BAU Gross Margin % to GMV",
+      "value": "13.0%",
+      "time_period": "Jul-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "BAU Gross Margin % to GMV",
+      "value": "13.6%",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "HM Gross Margin % to GMV",
+      "value": "12.9%",
+      "time_period": "Apr-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "HM Gross Margin % to GMV",
+      "value": "13.6%",
+      "time_period": "May-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "HM Gross Margin % to GMV",
+      "value": "14.7%",
+      "time_period": "Jun-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "HM Gross Margin % to GMV",
+      "value": "14.7%",
+      "time_period": "Jul-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "HM Gross Margin % to GMV",
+      "value": "14.9%",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "BAU Net Margin % to GMV",
+      "value": "9.3%",
+      "time_period": "Apr-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "BAU Net Margin % to GMV",
+      "value": "10.3%",
+      "time_period": "May-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "BAU Net Margin % to GMV",
+      "value": "11.0%",
+      "time_period": "Jun-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "BAU Net Margin % to GMV",
+      "value": "11.5%",
+      "time_period": "Jul-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "BAU Net Margin % to GMV",
+      "value": "12.1%",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "HM Net Margin % to GMV",
+      "value": "10.8%",
+      "time_period": "Apr-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "HM Net Margin % to GMV",
+      "value": "12.4%",
+      "time_period": "May-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "HM Net Margin % to GMV",
+      "value": "12.8%",
+      "time_period": "Jun-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "HM Net Margin % to GMV",
+      "value": "12.8%",
+      "time_period": "Jul-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "HM Net Margin % to GMV",
+      "value": "13.9%",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Margin"
+    },
+    {
+      "attribute": "BAU Number of Stations",
+      "value": "48",
+      "time_period": "Apr-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "BAU Number of Stations",
+      "value": "46",
+      "time_period": "May-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "BAU Number of Stations",
+      "value": "46",
+      "time_period": "Jun-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "BAU Number of Stations",
+      "value": "47",
+      "time_period": "Jul-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "BAU Number of Stations",
+      "value": "47",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "HM Number of Stations",
+      "value": "77",
+      "time_period": "Apr-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "HM Number of Stations",
+      "value": "77",
+      "time_period": "May-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "HM Number of Stations",
+      "value": "76",
+      "time_period": "Jun-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "HM Number of Stations",
+      "value": "76",
+      "time_period": "Jul-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "HM Number of Stations",
+      "value": "76",
+      "time_period": "Aug-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Kirana Models",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Hired Vehicle Cost",
+      "value": "2 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Hired Vehicle Cost",
+      "value": "3.35 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Hired Vehicle Cost",
+      "value": "3.23 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Hired Vehicle Cost",
+      "value": "3.62 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Variable Cost",
+      "value": "15 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Variable Cost",
+      "value": "19.90 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Variable Cost",
+      "value": "18.08 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Variable Cost",
+      "value": "21.12 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ER Manpower Cost",
+      "value": "1 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ER Manpower Cost",
+      "value": "0.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ER Manpower Cost",
+      "value": "0.7 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "ER Manpower Cost",
+      "value": "0.9 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Maintainance cost",
+      "value": "3 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Maintainance cost",
+      "value": "3.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Maintainance cost",
+      "value": "3.8 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Station Maintainance cost",
+      "value": "4.2 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Loss provision",
+      "value": "0.60 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Loss provision",
+      "value": "0.8 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Loss provision",
+      "value": "0.9 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Loss provision",
+      "value": "0.5 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Business Overhead",
+      "value": "0.05 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Business Overhead",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Business Overhead",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Business Overhead",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Logistics Manpower & Allocated Costs",
+      "value": "2 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Logistics Manpower & Allocated Costs",
+      "value": "3.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Logistics Manpower & Allocated Costs",
+      "value": "3.7 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Logistics Manpower & Allocated Costs",
+      "value": "3.9 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Salary Cost",
+      "value": "3.0 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Salary Cost",
+      "value": "3.1 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Salary Cost",
+      "value": "3.1 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Allocated costs",
+      "value": "0.7 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Allocated costs",
+      "value": "0.6 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Allocated costs",
+      "value": "0.8 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Logistics",
+      "data_type": "Cost"
+    },
+    {
+      "attribute": "Number of Active Suppliers",
+      "value": "117",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Active Suppliers",
+      "value": "101",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Active Suppliers",
+      "value": "127",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Active Suppliers",
+      "value": "127",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Active Suppliers",
+      "value": "104",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Active Customers",
+      "value": "551",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Active Customers",
+      "value": "311",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Active Customers",
+      "value": "304",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Active Customers",
+      "value": "290",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Active Customers",
+      "value": "224",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Orders collected",
+      "value": "1,885",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Orders collected",
+      "value": "932",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Orders collected",
+      "value": "1,025",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Orders collected",
+      "value": "1,237",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Orders collected",
+      "value": "710",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Orders delivered",
+      "value": "2,047",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Orders delivered",
+      "value": "814",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Orders delivered",
+      "value": "1,463",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Orders delivered",
+      "value": "905",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Orders delivered",
+      "value": "886",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Orders per customer",
+      "value": "3.7",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Orders per customer",
+      "value": "2.6",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Orders per customer",
+      "value": "4.8",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Orders per customer",
+      "value": "3.1",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Orders per customer",
+      "value": "4.0",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Average Order Value",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Average Order Value",
+      "value": "0.1 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Average Order Value",
+      "value": "0.2 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Average Order Value",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Average Order Value",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "GMV per customer",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Feb-23",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "GMV per customer",
+      "value": "0.3 ₹ Cr",
+      "time_period": "Feb-24",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "GMV per customer",
+      "value": "1.0 ₹ Cr",
+      "time_period": "Jan-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "GMV per customer",
+      "value": "0.8 ₹ Cr",
+      "time_period": "Feb-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "GMV per customer",
+      "value": "1.1 ₹ Cr",
+      "time_period": "Mar-25",
+      "company": "ER",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Comex",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Total GMV",
+      "value": "2,818.0 ₹ Lakhs",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Total GMV",
+      "value": "4,356.8 ₹ Lakhs",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Total Margin",
+      "value": "244.4 ₹ Lakhs",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Gross Margin"
+    },
+    {
+      "attribute": "Total Margin",
+      "value": "411.8 ₹ Lakhs",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Gross Margin"
+    },
+    {
+      "attribute": "Average Take Rate",
+      "value": "8.7%",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Percentage"
+    },
+    {
+      "attribute": "Average Take Rate",
+      "value": "9.5%",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Percentage"
+    },
+    {
+      "attribute": "Total Warehouse Cost",
+      "value": "474.3 ₹ Lakhs",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Operating Expense"
+    },
+    {
+      "attribute": "Total Warehouse Cost",
+      "value": "507.9 ₹ Lakhs",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Operating Expense"
+    },
+    {
+      "attribute": "Total CRC Cost",
+      "value": "157.0 ₹ Lakhs",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Operating Expense"
+    },
+    {
+      "attribute": "Total CRC Cost",
+      "value": "121.9 ₹ Lakhs",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Operating Expense"
+    },
+    {
+      "attribute": "Total Profit",
+      "value": "-436.0 ₹ Lakhs",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Net Profit"
+    },
+    {
+      "attribute": "Total Profit",
+      "value": "-224.4 ₹ Lakhs",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Net Profit"
+    },
+    {
+      "attribute": "Number of Stations",
+      "value": "125",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Number of Stations",
+      "value": "143",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Stations > 25L+ HM GMV",
+      "value": "37",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Stations > 25L+ HM GMV",
+      "value": "64",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "CRC P&L",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Travel, Food & Lodging Expense",
+      "value": "1.4 ₹ Crore",
+      "time_period": "Jun-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Other Indirect Costs",
+      "data_type": "Operating Expense"
+    },
+    {
+      "attribute": "Travel, Food & Lodging Expense",
+      "value": "1.4 ₹ Crore",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Other Indirect Costs",
+      "data_type": "Operating Expense"
+    },
+    {
+      "attribute": "Office Rent",
+      "value": "0.5 ₹ Crore",
+      "time_period": "Jun-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Other Indirect Costs",
+      "data_type": "Operating Expense"
+    },
+    {
+      "attribute": "Office Rent",
+      "value": "0.5 ₹ Crore",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Other Indirect Costs",
+      "data_type": "Operating Expense"
+    },
+    {
+      "attribute": "Legal & Professional Fees",
+      "value": "0.6 ₹ Crore",
+      "time_period": "Jun-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Other Indirect Costs",
+      "data_type": "Operating Expense"
+    },
+    {
+      "attribute": "Legal & Professional Fees",
+      "value": "1.2 ₹ Crore",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Other Indirect Costs",
+      "data_type": "Operating Expense"
+    },
+    {
+      "attribute": "Tech Expenses",
+      "value": "0.8 ₹ Crore",
+      "time_period": "Jun-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Other Indirect Costs",
+      "data_type": "Operating Expense"
+    },
+    {
+      "attribute": "Tech Expenses",
+      "value": "1.6 ₹ Crore",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Other Indirect Costs",
+      "data_type": "Operating Expense"
+    },
+    {
+      "attribute": "Cash and Bank (including Mutual Funds)",
+      "value": "1,444 ₹ Crore",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Key BS Items",
+      "data_type": "Asset"
+    },
+    {
+      "attribute": "Cash and Bank (including Mutual Funds)",
+      "value": "1,327 ₹ Crore",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Key BS Items",
+      "data_type": "Asset"
+    },
+    {
+      "attribute": "Investments (Net of unrealized)",
+      "value": "569 ₹ Crore",
+      "time_period": "Mar-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Key BS Items",
+      "data_type": "Asset"
+    },
+    {
+      "attribute": "Investments (Net of unrealized)",
+      "value": "645 ₹ Crore",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Key BS Items",
+      "data_type": "Asset"
+    },
+    {
+      "attribute": "Capex additions",
+      "value": "0.4 ₹ Crore",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Key BS Items",
+      "data_type": "Capital Expenditure"
+    },
+    {
+      "attribute": "Capex additions",
+      "value": "2.5 ₹ Crore",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Key BS Items",
+      "data_type": "Capital Expenditure"
+    },
+    {
+      "attribute": "Average HM GMV per Station",
+      "value": "20 ₹ Lakhs",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Month on Month Metrics B2B",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Average HM GMV per Station",
+      "value": "30 ₹ Lakhs",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Month on Month Metrics B2B",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Stores per station",
+      "value": "638",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Month on Month Metrics B2B",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Stores per station",
+      "value": "741",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Month on Month Metrics B2B",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "HM GMV per Store per month",
+      "value": "3,120 ₹",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Month on Month Metrics B2B",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "HM GMV per Store per month",
+      "value": "4,006 ₹",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Month on Month Metrics B2B",
+      "data_type": "Operational Metric"
+    },
+    {
+      "attribute": "Blended Take Rate",
+      "value": "10.8%",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Month on Month Metrics B2B",
+      "data_type": "Percentage"
+    },
+    {
+      "attribute": "Blended Take Rate",
+      "value": "11.7%",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Month on Month Metrics B2B",
+      "data_type": "Percentage"
+    },
+    {
+      "attribute": "Private Label Mix",
+      "value": "13%",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Month on Month Metrics B2B",
+      "data_type": "Percentage"
+    },
+    {
+      "attribute": "Private Label Mix",
+      "value": "18%",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Month on Month Metrics B2B",
+      "data_type": "Percentage"
+    },
+    {
+      "attribute": "CRC Level Burn",
+      "value": "-14.8%",
+      "time_period": "Apr-24",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Month on Month Metrics B2B",
+      "data_type": "Percentage"
+    },
+    {
+      "attribute": "CRC Level Burn",
+      "value": "-6.2%",
+      "time_period": "Mar-25",
+      "company": "CRC",
+      "source_file": "ER Investor MIS March-25.xlsx",
+      "source_section": "Month on Month Metrics B2B",
+      "data_type": "Percentage"
+    }
+  ]
+}

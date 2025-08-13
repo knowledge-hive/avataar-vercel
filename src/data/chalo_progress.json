@@ -1,0 +1,3751 @@
+{
+  "financial_entries": [
+    {
+      "attribute": "Gross Contribution",
+      "value": "2.139982 ₹ Cr",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "2.448274 ₹ Cr",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "2.592276 ₹ Cr",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "2.793754 ₹ Cr",
+      "time_period": "Jul 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "3.114111 ₹ Cr",
+      "time_period": "Aug 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "3.088918 ₹ Cr",
+      "time_period": "Sept 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "2.415929 ₹ Cr",
+      "time_period": "Oct 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "2.281461 ₹ Cr",
+      "time_period": "Nov 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "3.090558 ₹ Cr",
+      "time_period": "Dec 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "3.176242 ₹ Cr",
+      "time_period": "Jan 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "3.147758 ₹ Cr",
+      "time_period": "Feb 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "3.040803 ₹ Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "3.146096 ₹ Cr",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "3.64793 ₹ Cr",
+      "time_period": "May 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "4.369974 ₹ Cr",
+      "time_period": "Jun 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "5.30039 ₹ Cr",
+      "time_period": "July 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "5.814844 ₹ Cr",
+      "time_period": "Aug 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "6.101916 ₹ Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "6.886518 ₹ Cr",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "6.875164 ₹ Cr",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "7.246865 ₹ Cr",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "7.362439 ₹ Cr",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "6.952254 ₹ Cr",
+      "time_period": "Feb 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Contribution",
+      "value": "6.974084 ₹ Cr",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Cash Balance of Mar 2025 includes Fixed Deposits and EMDs",
+      "value": "₹ 52.41Cr",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "0.719787 Cr",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.117378 Cr",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.22201 Cr",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.19745 Cr",
+      "time_period": "Jul 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.136077 Cr",
+      "time_period": "Aug 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.217636 Cr",
+      "time_period": "Sept 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.393931 Cr",
+      "time_period": "Oct 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.375903 Cr",
+      "time_period": "Nov 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.659344 Cr",
+      "time_period": "Dec 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.538992 Cr",
+      "time_period": "Jan 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.567805 Cr",
+      "time_period": "Feb 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.55811 Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.839992 Cr",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.718069 Cr",
+      "time_period": "May 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "1.692992 Cr",
+      "time_period": "June 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "2.052504 Cr",
+      "time_period": "July 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "2.070308 Cr",
+      "time_period": "Aug 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "2.262631 Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "2.287406 Cr",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "2.284405 Cr",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "2.489924 Cr",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "2.694617 Cr",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "2.258894 Cr",
+      "time_period": "Feb 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Revenue",
+      "value": "2.499393 Cr",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Crew Costs & Incentives",
+      "value": "0.124063 Cr",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Crew Costs & Incentives",
+      "value": "0.133798 Cr",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Tech and Infra Cost",
+      "value": "0.0015 Cr",
+      "time_period": "21.87",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Tech and Infra Cost",
+      "value": "0.00145 Cr",
+      "time_period": "19.08",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Tech and Infra Cost",
+      "value": "0.00145 Cr",
+      "time_period": "22.4",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Admin Costs",
+      "value": "0.023325 Cr",
+      "time_period": "22",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Admin Costs",
+      "value": "0.328274 Cr",
+      "time_period": "22.4",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Admin Costs",
+      "value": "0.270867 Cr",
+      "time_period": "22.5",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Admin Costs",
+      "value": "0.279155 Cr",
+      "time_period": "22.6",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Admin Costs",
+      "value": "0.020902 Cr",
+      "time_period": "22.7",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Admin Costs",
+      "value": "0.085825 Cr",
+      "time_period": "22.8",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Admin Costs",
+      "value": "0.021457 Cr",
+      "time_period": "22.9",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Admin Costs",
+      "value": "0.034731 Cr",
+      "time_period": "23.6",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Admin Costs",
+      "value": "0.079185 Cr",
+      "time_period": "21.87",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Admin Costs",
+      "value": "0.1006 Cr",
+      "time_period": "19.08",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Admin Costs",
+      "value": "0.082545 Cr",
+      "time_period": "21.55",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Admin Costs",
+      "value": "0.084024 Cr",
+      "time_period": "22.4",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Admin Costs",
+      "value": "0.091279 Cr",
+      "time_period": "Unknown",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Electric Buses",
+      "value": "71.928976 Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Electric Buses",
+      "value": "117.08855 Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Electric Buses",
+      "value": "117.29 Cr",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Electric Buses",
+      "value": "116.30304 Cr",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Electric Buses",
+      "value": "115.317065 Cr",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Electric Buses",
+      "value": "114.3 Cr",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Electric Buses",
+      "value": "113.31 Cr",
+      "time_period": "Feb 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Electric Buses",
+      "value": "112.33 Cr",
+      "time_period": "Mar 25",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Other Fixed Assets (ETIMs, GPS, Camera etc)",
+      "value": "72.387831 Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Other Fixed Assets (ETIMs, GPS, Camera etc)",
+      "value": "81.543555 Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Other Fixed Assets (ETIMs, GPS, Camera etc)",
+      "value": "81.68 Cr",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Other Fixed Assets (ETIMs, GPS, Camera etc)",
+      "value": "86.623709 Cr",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Other Fixed Assets (ETIMs, GPS, Camera etc)",
+      "value": "87.990858 Cr",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Other Fixed Assets (ETIMs, GPS, Camera etc)",
+      "value": "88.832639 Cr",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Other Fixed Assets (ETIMs, GPS, Camera etc)",
+      "value": "90.52 Cr",
+      "time_period": "Feb 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Other Fixed Assets (ETIMs, GPS, Camera etc)",
+      "value": "94.44 Cr",
+      "time_period": "Mar 25",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Loan to Body Corporate",
+      "value": "57.0761 Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Loan to Body Corporate",
+      "value": "58.601735 Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Loan to Body Corporate",
+      "value": "58.801735 Cr",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Loan to Body Corporate",
+      "value": "58.801735 Cr",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Loan to Body Corporate",
+      "value": "58.801735 Cr",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Loan to Body Corporate",
+      "value": "58.801735 Cr",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Loan to Body Corporate",
+      "value": "58.801735 Cr",
+      "time_period": "Feb 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Loan to Body Corporate",
+      "value": "58.801735 Cr",
+      "time_period": "Mar 25",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - ASTC Assam State Transport Corporation",
+      "value": "0.84075 Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - ASTC Assam State Transport Corporation",
+      "value": "0.057387 Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - ASTC Assam State Transport Corporation",
+      "value": "0.053961 Cr",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - ASTC Assam State Transport Corporation",
+      "value": "0.094328 Cr",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - ASTC Assam State Transport Corporation",
+      "value": "0.172277 Cr",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - ASTC Assam State Transport Corporation",
+      "value": "0.155674 Cr",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - ASTC Assam State Transport Corporation",
+      "value": "0.205414 Cr",
+      "time_period": "Feb 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - ASTC Assam State Transport Corporation",
+      "value": "0.22028 Cr",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Collection agency Buses",
+      "value": "11.356704 Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Collection agency Buses",
+      "value": "11.850856 Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Collection agency Buses",
+      "value": "11.632044 Cr",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Collection agency Buses",
+      "value": "12.152151 Cr",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Collection agency Buses",
+      "value": "10.344207 Cr",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Collection agency Buses",
+      "value": "10.216505 Cr",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Collection agency Buses",
+      "value": "10.480076 Cr",
+      "time_period": "Feb 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Collection agency Buses",
+      "value": "9.337331 Cr",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Nafees Buses",
+      "value": "1.54336 Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Nafees Buses",
+      "value": "1.54336 Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Nafees Buses",
+      "value": "1.54336 Cr",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Nafees Buses",
+      "value": "1.54336 Cr",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Nafees Buses",
+      "value": "1.54336 Cr",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Nafees Buses",
+      "value": "1.54336 Cr",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Nafees Buses",
+      "value": "1.54336 Cr",
+      "time_period": "Feb 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Trade Receivables - AiCTSL Pass Subsidy - For Nafees Buses",
+      "value": "1.54336 Cr",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Telangana State Road Transport Corp Ltd",
+      "value": "0 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Telangana State Road Transport Corp Ltd",
+      "value": "1 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Telangana State Road Transport Corp Ltd",
+      "value": "2 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Telangana State Road Transport Corp Ltd",
+      "value": "3.775197 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Telangana State Road Transport Corp Ltd",
+      "value": "4.775197 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Telangana State Road Transport Corp Ltd",
+      "value": "5.775197 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Telangana State Road Transport Corp Ltd",
+      "value": "2.01032 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Others",
+      "value": "4.009892 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Others",
+      "value": "0.81244 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Others",
+      "value": "0.865612 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Others",
+      "value": "1.033286 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Others",
+      "value": "1.50544 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Others",
+      "value": "1.067672 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Others",
+      "value": "1.071556 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Others",
+      "value": "0.983386 Cr",
+      "time_period": "Not Provided",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Total Receivables (Assam)",
+      "value": "0.205414 Cr",
+      "time_period": "Opening Balance",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Total Receivables (Assam)",
+      "value": "0.09 Cr",
+      "time_period": "For the month",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Total Receivables (Assam)",
+      "value": "0.079116 Cr",
+      "time_period": "Received",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Total Receivables (Assam)",
+      "value": "0.216298 Cr",
+      "time_period": "Closing",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Total Receivables (Aurangabad)",
+      "value": "0.256241 Cr",
+      "time_period": "Opening Balance",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Total Receivables (Aurangabad)",
+      "value": "0.53 Cr",
+      "time_period": "For the month",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Total Receivables (Aurangabad)",
+      "value": "0.030574 Cr",
+      "time_period": "Received",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - Intercity",
+      "value": "5.91136 Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - Intercity",
+      "value": "5.574274 Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - Intercity",
+      "value": "5.574274 Cr",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - Intercity",
+      "value": "5.574274 Cr",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - Intercity",
+      "value": "5.574274 Cr",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - Intercity",
+      "value": "5.574274 Cr",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - Intercity",
+      "value": "5.574274 Cr",
+      "time_period": "Feb 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - Intercity",
+      "value": "5.574274 Cr",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - MAA",
+      "value": "9.455575 Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - MAA",
+      "value": "9.55 Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - MAA",
+      "value": "9.564656 Cr",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - MAA",
+      "value": "9.564656 Cr",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - MAA",
+      "value": "9.564656 Cr",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - MAA",
+      "value": "9.564656 Cr",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - MAA",
+      "value": "9.564656 Cr",
+      "time_period": "Feb 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Supplier and Operators - MAA",
+      "value": "9.564656 Cr",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Suppliers - Total",
+      "value": "7.15461 Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Suppliers - Total",
+      "value": "3.230473 Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Suppliers - Total",
+      "value": "3.566663 Cr",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Suppliers - Total",
+      "value": "3.1 Cr",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Suppliers - Total",
+      "value": "3.3 Cr",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Suppliers - Total",
+      "value": "3.7 Cr",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Suppliers - Total",
+      "value": "4.11 Cr",
+      "time_period": "Feb 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Advance to Suppliers - Total",
+      "value": "4.11 Cr",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Total Advance to Supplier and Operators",
+      "value": "22.521545 Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Total Advance to Supplier and Operators",
+      "value": "18.354747 Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Total Advance to Supplier and Operators",
+      "value": "18.705593 Cr",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Total Advance to Supplier and Operators",
+      "value": "18.23893 Cr",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Total Advance to Supplier and Operators",
+      "value": "18.43893 Cr",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Total Advance to Supplier and Operators",
+      "value": "18.83893 Cr",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Total Advance to Supplier and Operators",
+      "value": "19.24893 Cr",
+      "time_period": "Unknown",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-10.265049 Cr",
+      "time_period": "2024-04-01 00:00:00",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-9.01727 Cr",
+      "time_period": "2024-05-01 00:00:00",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-19.282319 Cr",
+      "time_period": "YTD May-24",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-8.351812 Cr",
+      "time_period": "2024-06-01 00:00:00",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-7.7871 Cr",
+      "time_period": "2024-07-01 00:00:00",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-7.130195 Cr",
+      "time_period": "2024-08-01 00:00:00",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-7.202591 Cr",
+      "time_period": "2024-09-01 00:00:00",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-7.603167 Cr",
+      "time_period": "2024-10-01 00:00:00",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-6.726165 Cr",
+      "time_period": "2024-11-01 00:00:00",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-6.266396 Cr",
+      "time_period": "2024-12-01 00:00:00",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-5.666342 Cr",
+      "time_period": "2025-01-01 00:00:00",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-7.293656 Cr",
+      "time_period": "2025-02-01 00:00:00",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-7.86206 Cr",
+      "time_period": "Mar-25",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA",
+      "value": "-91.171803 Cr",
+      "time_period": "YTD F25",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Lease Liability adjustment1",
+      "value": "4.46 Cr",
+      "time_period": "2024-10-01 00:00:00",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Lease Liability adjustment1",
+      "value": "7.2261 Cr",
+      "time_period": "2024-11-01 00:00:00",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "178.23906 ₹ Lacs",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "171.25582 ₹ Lacs",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "172.58542 ₹ Lacs",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "194.54422 ₹ Lacs",
+      "time_period": "Jul 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "195.40386 ₹ Lacs",
+      "time_period": "Aug 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "195.99348 ₹ Lacs",
+      "time_period": "Sept 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "189.715207 ₹ Lacs",
+      "time_period": "Oct 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "180.467908 ₹ Lacs",
+      "time_period": "Nov 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "189.388879 ₹ Lacs",
+      "time_period": "Dec 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "220.135388 ₹ Lacs",
+      "time_period": "Jan 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "217.821137 ₹ Lacs",
+      "time_period": "Feb 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "232.230036 ₹ Lacs",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "263.560842 ₹ Lacs",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "321.897414 ₹ Lacs",
+      "time_period": "May 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "393.703066 ₹ Lacs",
+      "time_period": "Jun 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "610.04295 ₹ Lacs",
+      "time_period": "July 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "789.128348 ₹ Lacs",
+      "time_period": "Aug 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "753.332624 ₹ Lacs",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "860.249729 ₹ Lacs",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "853.522349 ₹ Lacs",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "898.176061 ₹ Lacs",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "1001.435032 ₹ Lacs",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "924.303298 ₹ Lacs",
+      "time_period": "Feb 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Crew Costs & Incentives",
+      "value": "5 ₹ Lacs",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Operational Buses",
+      "value": "3281 #",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "GC",
+      "value": "14.127599 ₹ Lacs",
+      "time_period": "FY-23",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "GC",
+      "value": "10.22554 ₹ Lacs",
+      "time_period": "Q1-25",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Bus costs (rental / operator payout / others)",
+      "value": "0 ₹ Lacs",
+      "time_period": "FY-23",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Bus costs (rental / operator payout / others)",
+      "value": "0 ₹ Lacs",
+      "time_period": "Q1-25",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Bus costs (rental / operator payout / others)",
+      "value": "0 ₹ Lacs",
+      "time_period": "Jan-2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Bus costs (rental / operator payout / others)",
+      "value": "0 ₹ Lacs",
+      "time_period": "Feb-2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Bus costs (rental / operator payout / others)",
+      "value": "0 ₹ Lacs",
+      "time_period": "Mar-2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Bus costs (rental / operator payout / others)",
+      "value": "0 ₹ Lacs",
+      "time_period": "Apr-2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Bus costs (rental / operator payout / others)",
+      "value": "0 ₹ Lacs",
+      "time_period": "May-2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Bus costs (rental / operator payout / others)",
+      "value": "0 ₹ Lacs",
+      "time_period": "Jun-2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Bus costs (rental / operator payout / others)",
+      "value": "0 ₹ Lacs",
+      "time_period": "Jul-2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Bus costs (rental / operator payout / others)",
+      "value": "0 ₹ Lacs",
+      "time_period": "Aug-2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Bus costs (rental / operator payout / others)",
+      "value": "0 ₹ Lacs",
+      "time_period": "Sep-2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Bus costs (rental / operator payout / others)",
+      "value": "0 ₹ Lacs",
+      "time_period": "Oct-2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Operating EBITDA",
+      "value": "14.127599 ₹ Lacs",
+      "time_period": "FY-23",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Operational Buses",
+      "value": "97 #",
+      "time_period": "FY-23",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Public Markets",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "570.695178 ₹ Lacs",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "630.198659 ₹ Lacs",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "584.236197 ₹ Lacs",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "612.805873 ₹ Lacs",
+      "time_period": "Jul 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "649.128345 ₹ Lacs",
+      "time_period": "Aug 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "616.122449 ₹ Lacs",
+      "time_period": "Sept 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "437.77222 ₹ Lacs",
+      "time_period": "Oct 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "380.437803 ₹ Lacs",
+      "time_period": "Nov 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "504.972317 ₹ Lacs",
+      "time_period": "Dec 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "452.822952 ₹ Lacs",
+      "time_period": "Jan 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "472.306029 ₹ Lacs",
+      "time_period": "Feb 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "399.941976 ₹ Lacs",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "368.381066 ₹ Lacs",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "370.636032 ₹ Lacs",
+      "time_period": "May 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "305.501846 ₹ Lacs",
+      "time_period": "Jun 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "227.435702 ₹ Lacs",
+      "time_period": "July 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "235.516685 ₹ Lacs",
+      "time_period": "Aug 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "232.227924 ₹ Lacs",
+      "time_period": "Sept 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "210.719468 ₹ Lacs",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "232.671928 ₹ Lacs",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "220.269342 ₹ Lacs",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "230.377627 ₹ Lacs",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Crew Costs & Incentives",
+      "value": "2.45976 ₹ Lacs",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Crew Costs & Incentives",
+      "value": "2.627261 ₹ Lacs",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - Private Markets",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "1.56 ₹ Lacs",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "2.97075 ₹ Lacs",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "5.58713 ₹ Lacs",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "7.09389 ₹ Lacs",
+      "time_period": "Jul 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "9.26419 ₹ Lacs",
+      "time_period": "Aug 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "10.262081 ₹ Lacs",
+      "time_period": "Sept 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "12.5731 ₹ Lacs",
+      "time_period": "Oct 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "14.34575 ₹ Lacs",
+      "time_period": "Nov 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "14.45795 ₹ Lacs",
+      "time_period": "Dec 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "16.7358 ₹ Lacs",
+      "time_period": "Jan 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "19.1844 ₹ Lacs",
+      "time_period": "Feb 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "20.04375 ₹ Lacs",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "21.051 ₹ Lacs",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "22.64725 ₹ Lacs",
+      "time_period": "May 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "32.31555 ₹ Lacs",
+      "time_period": "Jun 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "33.65355 ₹ Lacs",
+      "time_period": "July 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "35.7185 ₹ Lacs",
+      "time_period": "Aug 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "37.38187 ₹ Lacs",
+      "time_period": "Sept 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "41.462 ₹ Lacs",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "50.18746 ₹ Lacs",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "52.43998 ₹ Lacs",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "51.07813 ₹ Lacs",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross Take",
+      "value": "54.58313 ₹ Lacs",
+      "time_period": "Feb 2025",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Operating EBITDA",
+      "value": "361.878 ₹ Lacs",
+      "time_period": "Unknown",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS - March 2025-w.md",
+      "source_section": "CT - International",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "ARR (Annual Recurring Revenue)",
+      "value": "$23 Mn",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Business Performance Update",
+      "data_type": "Revenue",
+      "notes": "1.8x growth from April 2024"
+    },
+    {
+      "attribute": "Total buses on platform",
+      "value": "30,000",
+      "time_period": "Mar 2025",
+      "company": "Chalo", 
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Operational Highlights",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Chalo Tech Annualized GC",
+      "value": "$11 Mn",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf", 
+      "source_section": "Operational Highlights",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Chalo Tech GC per bus",
+      "value": "$41.3",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Operational Highlights", 
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Operating EBITDA %",
+      "value": "56%",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Operational Highlights",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Manila buses",
+      "value": "2,607",
+      "time_period": "Mar 2025", 
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Operational Highlights",
+      "data_type": "Operations",
+      "notes": "with 80 digital audit buses, 2.5x growth from April 2024"
+    },
+    {
+      "attribute": "Premium Bus ARR",
+      "value": "$3.75 Mn",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Operational Highlights", 
+      "data_type": "Revenue",
+      "notes": "1.4x from April 24, burn at all time low of annualized -$3 Mn"
+    },
+    {
+      "attribute": "New markets revenue ARR",
+      "value": "$9.4 Mn",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Operational Highlights",
+      "data_type": "Revenue", 
+      "notes": "potential to contribute ARR $11 Mn+"
+    },
+    {
+      "attribute": "Cash balance",
+      "value": "$12.92 Mn",
+      "time_period": "Current Quarter JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf", 
+      "source_section": "Financial and operating performance",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Debt",
+      "value": "$6.78 Mn",
+      "time_period": "Current Quarter JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "ARR forecast for Dec 25",
+      "value": "$35 Mn",
+      "time_period": "Dec 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Projections",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Total Buses",
+      "value": "13,462",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Chalo Tech MIS",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Total Buses",
+      "value": "13,543",
+      "time_period": "May 2023", 
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Chalo Tech MIS",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Total Buses",
+      "value": "13,649",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx", 
+      "source_section": "Chalo Tech MIS",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Operational Buses",
+      "value": "6,269",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Chalo Tech MIS", 
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Operational Buses",
+      "value": "6,270",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Chalo Tech MIS",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Operational Buses", 
+      "value": "6,446",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Chalo Tech MIS",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Signed Buses under Implementation",
+      "value": "300",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Chalo Tech MIS",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Signed Buses under Implementation",
+      "value": "300", 
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Chalo Tech MIS",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Signed Buses under Implementation",
+      "value": "300",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Chalo Tech MIS", 
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Live Buses",
+      "value": "6,893",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Chalo Tech MIS",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Live Buses",
+      "value": "6,973",
+      "time_period": "May 2023",
+      "company": "Chalo", 
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Chalo Tech MIS",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Live Buses",
+      "value": "6,903",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Chalo Tech MIS",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Gross Contribution per bus",
+      "value": "₹6,522",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Gross Contribution per bus", 
+      "value": "₹7,510",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Consolidated Key Metrics", 
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Gross Contribution per bus",
+      "value": "₹8,031",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Operating EBIDTA",
+      "value": "0.538 ₹ Cr",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Operating EBIDTA",
+      "value": "0.916 ₹ Cr",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx", 
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Operating EBIDTA",
+      "value": "1.074 ₹ Cr",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Consolidated Key Metrics", 
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Operating EBIDTA % of GC",
+      "value": "25.9%",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Operating EBIDTA % of GC",
+      "value": "38.5%",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Operating EBIDTA % of GC",
+      "value": "42.5%",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Corporate EBITDA",
+      "value": "-6.175 ₹ Cr",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Corporate EBITDA",
+      "value": "-6.461 ₹ Cr",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Corporate EBITDA",
+      "value": "-6.308 ₹ Cr",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx", 
+      "source_section": "Consolidated Key Metrics",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Cash & Cash Equivalent",
+      "value": "156.27 ₹ Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Cash & Cash Equivalent",
+      "value": "115.62 ₹ Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Balance Sheet", 
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Cash & Cash Equivalent",
+      "value": "120.74 ₹ Cr",
+      "time_period": "Oct 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Cash & Cash Equivalent",
+      "value": "109.90 ₹ Cr",
+      "time_period": "Nov 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Total Rides",
+      "value": "128 Mn",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Consumer Metrics",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Total Rides",
+      "value": "131 Mn",
+      "time_period": "Jul 2023",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Consumer Metrics",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Total Rides",
+      "value": "170 Mn",
+      "time_period": "Oct 2023",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Consumer Metrics",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Total Rides",
+      "value": "164 Mn",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Consumer Metrics",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Total App Sessions",
+      "value": "46 Mn",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Consumer Metrics",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Total App Sessions",
+      "value": "56 Mn",
+      "time_period": "Jul 2023",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Consumer Metrics",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Total App Sessions",
+      "value": "67 Mn",
+      "time_period": "Oct 2023",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Consumer Metrics",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Total App Sessions",
+      "value": "58 Mn",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Consumer Metrics",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Digital Rides",
+      "value": "15 Mn",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Consumer Metrics",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Digital Rides",
+      "value": "18 Mn",
+      "time_period": "Jul 2023",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Consumer Metrics",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Digital Rides",
+      "value": "23 Mn",
+      "time_period": "Oct 2023",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Consumer Metrics",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Digital Rides",
+      "value": "21 Mn",
+      "time_period": "Jan 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Consumer Metrics",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Chalo Paying Buses - Public Markets",
+      "value": "3,907",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Public and Private buses",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Chalo Paying Buses - Public Markets",
+      "value": "6,084",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Public and Private buses",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Chalo Paying Buses - Public Markets",
+      "value": "15,882",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Public and Private buses",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Chalo Paying Buses - Private Markets",
+      "value": "4,034",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Public and Private buses",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Chalo Paying Buses - Private Markets",
+      "value": "4,390",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Public and Private buses",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Chalo Paying Buses - Private Markets",
+      "value": "5,240",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Public and Private buses",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Revenue (Current Quarter JFM'25) - Actual",
+      "value": "$5.64 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue (Current Quarter JFM'25) - Vs Plan",
+      "value": "$6.84 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue (Current Quarter JFM'25) - Vs Prior Yr",
+      "value": "$3.15 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue (Year-to-date Apr'24-Mar'25) - Actual",
+      "value": "$18.57 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue (Year-to-date Apr'24-Mar'25) - Vs Plan",
+      "value": "$20.43 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Revenue (Year-to-date Apr'24-Mar'25) - Vs Prior Yr",
+      "value": "$12.94 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross contribution (Current Quarter JFM'25) - Actual",
+      "value": "$2.24 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross contribution (Current Quarter JFM'25) - Vs Plan",
+      "value": "$3.99 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross contribution (Current Quarter JFM'25) - Vs Prior Yr",
+      "value": "$0.43 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross contribution (Year-to-date Apr'24-Mar'25) - Actual",
+      "value": "$6.73 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross contribution (Year-to-date Apr'24-Mar'25) - Vs Plan",
+      "value": "$9.37 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross contribution (Year-to-date Apr'24-Mar'25) - Vs Prior Yr",
+      "value": "$1.74 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Gross contribution % of Rev (Current Quarter JFM'25) - Actual",
+      "value": "40%",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Gross contribution % of Rev (Current Quarter JFM'25) - Vs Plan",
+      "value": "58%",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Gross contribution % of Rev (Current Quarter JFM'25) - Vs Prior Yr",
+      "value": "14%",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Gross contribution % of Rev (Year-to-date Apr'24-Mar'25) - Actual",
+      "value": "36%",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Gross contribution % of Rev (Year-to-date Apr'24-Mar'25) - Vs Plan",
+      "value": "46%",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Gross contribution % of Rev (Year-to-date Apr'24-Mar'25) - Vs Prior Yr",
+      "value": "13%",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "City EBITDA (Current Quarter JFM'25) - Actual",
+      "value": "$0.84 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "City EBITDA (Current Quarter JFM'25) - Vs Plan",
+      "value": "$2.26 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "City EBITDA (Current Quarter JFM'25) - Vs Prior Yr",
+      "value": "-$0.44 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "City EBITDA (Year-to-date Apr'24-Mar'25) - Actual",
+      "value": "$1.82 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "City EBITDA (Year-to-date Apr'24-Mar'25) - Vs Plan",
+      "value": "$3.43 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "City EBITDA (Year-to-date Apr'24-Mar'25) - Vs Prior Yr",
+      "value": "-$1.64 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Opex (Current Quarter JFM'25) - Actual",
+      "value": "$2.99 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Opex (Current Quarter JFM'25) - Vs Plan",
+      "value": "$5.18 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Opex (Current Quarter JFM'25) - Vs Prior Yr",
+      "value": "$3.07 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Opex (Year-to-date Apr'24-Mar'25) - Actual",
+      "value": "$12.19 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Opex (Year-to-date Apr'24-Mar'25) - Vs Plan",
+      "value": "$12.03 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Opex (Year-to-date Apr'24-Mar'25) - Vs Prior Yr",
+      "value": "$11.44 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "EBITDA (Current Quarter JFM'25) - Actual",
+      "value": "-$2.15 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA (Current Quarter JFM'25) - Vs Plan",
+      "value": "-$2.92 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA (Current Quarter JFM'25) - Vs Prior Yr",
+      "value": "-$3.51 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA (Year-to-date Apr'24-Mar'25) - Actual",
+      "value": "-$10.37 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA (Year-to-date Apr'24-Mar'25) - Vs Plan",
+      "value": "-$8.60 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBITDA (Year-to-date Apr'24-Mar'25) - Vs Prior Yr",
+      "value": "-$13.08 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Operating cash burn/surplus (Current Quarter JFM'25) - Actual",
+      "value": "-$2.41 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Operating cash burn/surplus (Current Quarter JFM'25) - Vs Plan",
+      "value": "-$2.92 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Operating cash burn/surplus (Current Quarter JFM'25) - Vs Prior Yr",
+      "value": "-$3.64 M",
+      "time_period": "JFM'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Operating cash burn/surplus (Year-to-date Apr'24-Mar'25) - Actual",
+      "value": "-$10.93 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Operating cash burn/surplus (Year-to-date Apr'24-Mar'25) - Vs Plan",
+      "value": "-$8.60 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Operating cash burn/surplus (Year-to-date Apr'24-Mar'25) - Vs Prior Yr",
+      "value": "-$13.94 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Operating cash burn/surplus (Year-to-date Apr'24-Mar'25) - Vs Prior Yr",
+      "value": "-$13.94 M",
+      "time_period": "Apr'24-Mar'25",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Financial and operating performance",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Chalo Tech Annualized GC - Apr 2024",
+      "value": "$4.7 Mn",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Chalo Tech - Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Chalo Tech Annualized GC - Jun 2024",
+      "value": "$6.6 Mn",
+      "time_period": "Jun 2024",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Chalo Tech - Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Chalo Tech Annualized GC - Sep 2024",
+      "value": "$9.2 Mn",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Chalo Tech - Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Chalo Tech Annualized GC - Dec 2024",
+      "value": "$10.9 Mn",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Chalo Tech - Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Chalo Tech Annualized GC - Mar 2025",
+      "value": "$10.5 Mn",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Chalo Tech - Key Metrics",
+      "data_type": "Revenue"
+    },
+    {
+      "attribute": "Chalo Tech Op EBITDA % - Apr 2024",
+      "value": "54%",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Chalo Tech - Key Metrics",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Chalo Tech Op EBITDA % - Jun 2024",
+      "value": "49%",
+      "time_period": "Jun 2024",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Chalo Tech - Key Metrics",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Chalo Tech Op EBITDA % - Sep 2024",
+      "value": "48%",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Chalo Tech - Key Metrics",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Chalo Tech Op EBITDA % - Dec 2024",
+      "value": "48%",
+      "time_period": "Dec 2024",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Chalo Tech - Key Metrics",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Chalo Tech Op EBITDA % - Mar 2025",
+      "value": "56%",
+      "time_period": "Mar 2025",
+      "company": "Chalo",
+      "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "source_section": "Chalo Tech - Key Metrics",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Premium Bus Total Buses",
+      "value": "100",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Operations"
+    },
+    {
+      "attribute": "Premium Bus SSK%",
+      "value": "16.5%",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Premium Bus SSK%",
+      "value": "19.0%",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Premium Bus SSK%",
+      "value": "20.6%",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Revenue Per Bus Per Day",
+      "value": "₹3,272",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Revenue Per Bus Per Day",
+      "value": "₹5,079",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Revenue Per Bus Per Day",
+      "value": "₹5,555",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Metrics"
+    },
+    {
+      "attribute": "Premium Bus Gross Contribution %",
+      "value": "-155.2%",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Premium Bus Gross Contribution %",
+      "value": "-77.9%",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Premium Bus Gross Contribution %",
+      "value": "-107.2%",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Premium Bus Operating EBITDA",
+      "value": "-1.598 ₹ Cr",
+      "time_period": "Apr 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Premium Bus Operating EBITDA",
+      "value": "-1.452 ₹ Cr",
+      "time_period": "May 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Premium Bus Operating EBITDA",
+      "value": "-2.423 ₹ Cr",
+      "time_period": "Jun 2023",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Premium Bus MIS",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBTDA (Cash Flow)",
+      "value": "-10.265 ₹ Cr",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBTDA (Cash Flow)",
+      "value": "-9.017 ₹ Cr",
+      "time_period": "May 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "EBTDA (Cash Flow) YTD",
+      "value": "-19.282 ₹ Cr",
+      "time_period": "YTD May-24",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Operating expenses of Vogo and Shuttl",
+      "value": "-4 ₹ Cr",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Operating expenses of Vogo and Shuttl",
+      "value": "-0.604 ₹ Cr",
+      "time_period": "May 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Expenses"
+    },
+    {
+      "attribute": "Operating profit before changes in working capital",
+      "value": "-14.265 ₹ Cr",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Operating profit before changes in working capital",
+      "value": "-9.621 ₹ Cr",
+      "time_period": "May 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Profitability"
+    },
+    {
+      "attribute": "Changes in working Capital",
+      "value": "-0.781 ₹ Cr",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Changes in working Capital",
+      "value": "-4.237 ₹ Cr",
+      "time_period": "May 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Net cash used in operating activities",
+      "value": "-15.046 ₹ Cr",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Net cash used in operating activities",
+      "value": "-13.857 ₹ Cr",
+      "time_period": "May 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Capital Expenditure",
+      "value": "-7.5 ₹ Cr",
+      "time_period": "Apr 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Capital Expenditure",
+      "value": "-1.909 ₹ Cr",
+      "time_period": "May 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Cash Flow Statement",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Tax Credits (GST & Income Tax)",
+      "value": "13.347 ₹ Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Tax Credits (GST & Income Tax)",
+      "value": "16.749 ₹ Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Security deposits",
+      "value": "8.014 ₹ Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Security deposits",
+      "value": "12.642 ₹ Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Others (Accrued Interest, Fuel wallets etc)",
+      "value": "5.587 ₹ Cr",
+      "time_period": "Mar 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    },
+    {
+      "attribute": "Others (Accrued Interest, Fuel wallets etc)",
+      "value": "2.487 ₹ Cr",
+      "time_period": "Sep 2024",
+      "company": "Chalo",
+      "source_file": "Chalo Group MIS  March 2025w.xlsx",
+      "source_section": "Balance Sheet",
+      "data_type": "Other"
+    }
+  ],
+  "metadata": {
+    "files_processed": [
+      "Chalo Group MIS - March 2025-w.md"
+    ],
+    "sections_processed": 28,
+    "last_updated": "2025-08-08T17:30:56.378513",
+    "total_entries": 273
+  }
+}

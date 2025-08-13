@@ -1,0 +1,3407 @@
+[{
+  "metadata": {
+    "company_name": "interface.ai",
+    "sheet_name": "CY interface.ai Jun-25",
+    "version": "V2.2",
+    "data_date": "June 2025",
+    "currency": "USD",
+    "reporting_periods": [
+      "AMJ-23", "JAS-23", "OND-23", "JFM-24", 
+      "AMJ-24", "JAS-24", "OND-24", "JFM-25", "AMJ-25"
+    ],
+    "period_type": "quarterly",
+    "total_periods": 9
+  },
+  "financial_data": {
+    "arr_metrics": {
+      "signed_arr_total": {
+        "unit": "US$ M",
+        "values": {
+          "AMJ-23": 23.1, "JAS-23": 23.4, "OND-23": 24.5, "JFM-24": 25.5,
+          "AMJ-24": 26.0, "JAS-24": 27.0, "OND-24": 26.6, "JFM-25": 26.49, "AMJ-25": 26.72
+        }
+      },
+      "signed_arr_license": {
+        "unit": "US$ M",
+        "values": {
+          "AMJ-23": 15.7, "JAS-23": 16.2, "OND-23": 17.0, "JFM-24": 17.8,
+          "AMJ-24": 18.2, "JAS-24": 19.2, "OND-24": 19.6, "JFM-25": 19.56, "AMJ-25": 18.94
+        }
+      },
+      "signed_arr_usage": {
+        "unit": "US$ M",
+        "values": {
+          "AMJ-23": 7.4, "JAS-23": 7.2, "OND-23": 7.5, "JFM-24": 7.7,
+          "AMJ-24": 7.8, "JAS-24": 7.9, "OND-24": 7.0, "JFM-25": 6.93, "AMJ-25": 7.78
+        }
+      },
+      "live_arr_total": {
+        "unit": "US$ M",
+        "values": {
+          "AMJ-23": 9.5, "JAS-23": 11.6, "OND-23": 14.5, "JFM-24": 16.1,
+          "AMJ-24": 17.9, "JAS-24": 18.5, "OND-24": 19.0, "JFM-25": 20.22, "AMJ-25": 20.26
+        }
+      },
+      "live_arr_license": {
+        "unit": "US$ M",
+        "values": {
+          "AMJ-23": 6.9, "JAS-23": 8.1, "OND-23": 10.1, "JFM-24": 11.1,
+          "AMJ-24": 12.5, "JAS-24": 13.4, "OND-24": 13.8, "JFM-25": 14.62, "AMJ-25": 15.26
+        }
+      },
+      "live_arr_usage": {
+        "unit": "US$ M",
+        "values": {
+          "AMJ-23": 2.6, "JAS-23": 3.5, "OND-23": 4.4, "JFM-24": 4.9,
+          "AMJ-24": 5.3, "JAS-24": 5.1, "OND-24": 5.2, "JFM-25": 5.60, "AMJ-25": 5.00
+        }
+      }
+    },
+    "growth_metrics": {
+      "live_arr_growth_qoq": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": 18, "JAS-23": 21, "OND-23": 25, "JFM-24": 11,
+          "AMJ-24": 11, "JAS-24": 4, "OND-24": 3, "JFM-25": 6, "AMJ-25": 0
+        }
+      },
+      "live_arr_growth_yoy": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": 193, "JAS-23": 155, "OND-23": 141, "JFM-24": 101,
+          "AMJ-24": 81, "JAS-24": 66, "OND-24": 37, "JFM-25": 31, "AMJ-25": 22
+        }
+      },
+      "revenue_growth_qoq": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": 20, "JAS-23": 35, "OND-23": 19, "JFM-24": 25,
+          "AMJ-24": 2, "JAS-24": 10, "OND-24": 18, "JFM-25": 40, "AMJ-25": -52
+        }
+      },
+      "revenue_growth_ltm": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": 157, "JAS-23": 179, "OND-23": 170, "JFM-24": 157,
+          "AMJ-24": 137, "JAS-24": 105, "OND-24": 87, "JFM-25": 79, "AMJ-25": 49
+        }
+      }
+    },
+    "revenue_metrics": {
+      "revenue": {
+        "unit": "US$ M",
+        "values": {
+          "AMJ-23": 2.1, "JAS-23": 2.8, "OND-23": 3.4, "JFM-24": 4.2,
+          "AMJ-24": 4.3, "JAS-24": 4.7, "OND-24": 5.6, "JFM-25": 7.81, "AMJ-25": 3.79
+        }
+      },
+      "blended_gross_margin": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": 60, "JAS-23": 62, "OND-23": 60, "JFM-24": 61,
+          "AMJ-24": 59, "JAS-24": 60, "OND-24": 68, "JFM-25": 77, "AMJ-25": 52
+        }
+      },
+      "revenue_per_employee": {
+        "unit": "USD thousands",
+        "values": {
+          "AMJ-23": 55, "JAS-23": 72, "OND-23": 83, "JFM-24": 98,
+          "AMJ-24": 100, "JAS-24": 109, "OND-24": 120, "JFM-25": 155, "AMJ-25": 91
+        }
+      }
+    },
+    "profitability_metrics": {
+      "adjusted_ebitda": {
+        "unit": "US$ M",
+        "values": {
+          "AMJ-23": -0.12, "JAS-23": 0.11, "OND-23": -0.23, "JFM-24": 0.13,
+          "AMJ-24": -0.24, "JAS-24": -2.13, "OND-24": 0.13, "JFM-25": 2.34, "AMJ-25": -1.85
+        }
+      },
+      "adjusted_ebitda_margin": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": -6, "JAS-23": 4, "OND-23": -7, "JFM-24": 3,
+          "AMJ-24": -6, "JAS-24": -45, "OND-24": 2, "JFM-25": 30, "AMJ-25": -49
+        }
+      },
+      "adjusted_ebitda_margin_ltm": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": -2, "JAS-23": -2, "OND-23": -4, "JFM-24": -1,
+          "AMJ-24": -2, "JAS-24": -15, "OND-24": -11, "JFM-25": 0, "AMJ-25": -7
+        }
+      }
+    },
+    "customer_metrics": {
+      "booked_live_arr_ratio": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": 41, "JAS-23": 49, "OND-23": 59, "JFM-24": 63,
+          "AMJ-24": 69, "JAS-24": 69, "OND-24": 71, "JFM-25": 76, "AMJ-25": 76
+        }
+      },
+      "nrr_signed_arr_ttm": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": 122, "JAS-23": 110, "OND-23": 104, "JFM-24": 106,
+          "AMJ-24": 106, "JAS-24": 107, "OND-24": 103, "JFM-25": 99, "AMJ-25": 97
+        }
+      },
+      "nrr_live_arr_ttm": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": 258, "JAS-23": 249, "OND-23": 224, "JFM-24": 184,
+          "AMJ-24": 177, "JAS-24": 152, "OND-24": 125, "JFM-25": 122, "AMJ-25": 108
+        }
+      },
+      "signed_arr_churn_ttm": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": 0, "JAS-23": -2, "OND-23": -2, "JFM-24": -2,
+          "AMJ-24": -2, "JAS-24": 0, "OND-24": 0, "JFM-25": -1, "AMJ-25": -6
+        }
+      },
+      "signed_customer_churn_ttm": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": 0, "JAS-23": 0, "OND-23": 0, "JFM-24": 3,
+          "AMJ-24": 3, "JAS-24": 1, "OND-24": 1, "JFM-25": 6, "AMJ-25": 15
+        }
+      }
+    },
+    "efficiency_metrics": {
+      "ltv_cac_ratio_ttm": {
+        "unit": "ratio",
+        "values": {
+          "AMJ-23": 6.7, "JAS-23": 7.1, "OND-23": 8.8, "JFM-24": 8.8,
+          "AMJ-24": 4.8, "JAS-24": 4.9, "OND-24": 4.0, "JFM-25": 3.2, "AMJ-25": 3.2
+        }
+      },
+      "cac_payback_period_ttm": {
+        "unit": "months",
+        "values": {
+          "AMJ-23": 14, "JAS-23": 12, "OND-23": 10, "JFM-24": 10,
+          "AMJ-24": 18, "JAS-24": 17, "OND-24": 19, "JFM-25": 23, "AMJ-25": 33
+        }
+      },
+      "magic_number": {
+        "unit": "absolute",
+        "values": {
+          "AMJ-23": 6.30, "JAS-23": 0.86, "OND-23": 1.95, "JFM-24": 1.33,
+          "AMJ-24": 0.59, "JAS-24": 1.01, "OND-24": -0.41, "JFM-25": -0.11, "AMJ-25": 0.16
+        }
+      },
+      "magic_number_ltm": {
+        "unit": "absolute",
+        "values": {
+          "AMJ-23": 6.86, "JAS-23": 4.49, "OND-23": 2.61, "JFM-24": 2.35,
+          "AMJ-24": 1.14, "JAS-24": 1.13, "OND-24": 0.59, "JFM-25": 0.24, "AMJ-25": 0.15
+        }
+      },
+      "rule_of_40": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": 155, "JAS-23": 177, "OND-23": 166, "JFM-24": 156,
+          "AMJ-24": 136, "JAS-24": 91, "OND-24": 76, "JFM-25": 79, "AMJ-25": 42
+        }
+      }
+    },
+    "cash_flow_metrics": {
+      "cash_runway": {
+        "unit": "months",
+        "values": {
+          "AMJ-23": 0.9, "JAS-23": null, "OND-23": 4.4, "JFM-24": 3.2,
+          "AMJ-24": 2.6, "JAS-24": 35.9, "OND-24": 173.0, "JFM-25": null, "AMJ-25": 62.0
+        }
+      },
+      "burn_multiple": {
+        "unit": "ratio",
+        "values": {
+          "AMJ-23": -3.9, "JAS-23": 10.2, "OND-23": -19.8, "JFM-24": -5.7,
+          "AMJ-24": -4.3, "JAS-24": -0.4, "OND-24": -1.5, "JFM-25": 4.1, "AMJ-25": 0.0
+        }
+      }
+    },
+    "operational_metrics": {
+      "dso_days": {
+        "unit": "days",
+        "values": {
+          "AMJ-23": 40, "JAS-23": 44, "OND-23": 50, "JFM-24": 49,
+          "AMJ-24": 52, "JAS-24": 46, "OND-24": 39, "JFM-25": 29, "AMJ-25": 46
+        }
+      },
+      "ar_over_90_days": {
+        "unit": "percentage",
+        "values": {
+          "AMJ-23": 36, "JAS-23": 33, "OND-23": 31, "JFM-24": 42,
+          "AMJ-24": 43, "JAS-24": 35, "OND-24": 18, "JFM-25": 31, "AMJ-25": 52
+        }
+      }
+    }
+  }
+},
+{
+  "metadata": {
+    "company_name": "interface.ai",
+    "sheet_name": "CY interface.ai Jun-25 Income Statement",
+    "version": "V2.2",
+    "data_date": "June 2025",
+    "currency": "USD",
+    "reporting_periods": {
+      "monthly": ["Jul-24", "Aug-24", "Sep-24", "Oct-24", "Nov-24", "Dec-24", "Jan-25", "Feb-25", "Mar-25", "Apr-25", "May-25", "Jun-25"],
+      "quarterly": ["AMJ-24", "JAS-24", "OND-24", "JFM-25", "AMJ-25"],
+      "annual": ["FY'23", "FY'24", "FY'25", "FY'26"]
+    },
+    "period_type": "multi_period",
+    "total_periods": {
+      "monthly": 12,
+      "quarterly": 5,
+      "annual": 4
+    }
+  },
+  "income_statement": {
+    "revenue": {
+      "license_revenue": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 1.06, "Aug-24": 1.08, "Sep-24": 1.12, "Oct-24": 1.16, "Nov-24": 1.15, "Dec-24": 1.15,
+          "Jan-25": 1.15, "Feb-25": 1.18, "Mar-25": 1.22, "Apr-25": 1.28, "May-25": 1.28, "Jun-25": 1.27
+        },
+        "quarterly": {
+          "AMJ-24": 3.03, "JAS-24": 3.25, "OND-24": 3.46, "JFM-25": 3.55, "AMJ-25": 3.83
+        },
+        "annual": {
+          "FY'23": 2.89, "FY'24": 5.74, "FY'25": 7.38, "FY'26": null
+        }
+      },
+      "usage_revenue": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.48, "Aug-24": 0.46, "Sep-24": 0.43, "Oct-24": 0.45, "Nov-24": 0.39, "Dec-24": 0.43,
+          "Jan-25": 0.43, "Feb-25": 0.42, "Mar-25": 0.47, "Apr-25": 0.41, "May-25": 0.42, "Jun-25": 0.42
+        },
+        "quarterly": {
+          "AMJ-24": 1.36, "JAS-24": 1.37, "OND-24": 1.28, "JFM-25": 1.32, "AMJ-25": 1.25
+        },
+        "annual": {
+          "FY'23": 1.14, "FY'24": 2.54, "FY'25": 2.57, "FY'26": null
+        }
+      },
+      "plug_revenue": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": -0.00, "Aug-24": -0.02, "Sep-24": 0.10, "Oct-24": 0.03, "Nov-24": 0.43, "Dec-24": 0.37,
+          "Jan-25": 0.98, "Feb-25": 2.01, "Mar-25": -0.05, "Apr-25": -0.07, "May-25": -0.41, "Jun-25": -0.81
+        },
+        "quarterly": {
+          "AMJ-24": -0.10, "JAS-24": 0.07, "OND-24": 0.83, "JFM-25": 2.94, "AMJ-25": -1.30
+        },
+        "annual": {
+          "FY'23": -0.19, "FY'24": 0.22, "FY'25": 1.65, "FY'26": null
+        }
+      },
+      "total_revenue": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 1.54, "Aug-24": 1.52, "Sep-24": 1.65, "Oct-24": 1.64, "Nov-24": 1.97, "Dec-24": 1.96,
+          "Jan-25": 2.56, "Feb-25": 3.61, "Mar-25": 1.64, "Apr-25": 1.62, "May-25": 1.29, "Jun-25": 0.88
+        },
+        "quarterly": {
+          "AMJ-24": 4.29, "JAS-24": 4.70, "OND-24": 5.56, "JFM-25": 7.81, "AMJ-25": 3.79
+        },
+        "annual": {
+          "FY'23": 3.84, "FY'24": 8.50, "FY'25": 11.60, "FY'26": null
+        }
+      }
+    },
+    "cost_of_sales": {
+      "total_cost_of_sales": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.58, "Aug-24": 0.69, "Sep-24": 0.61, "Oct-24": 0.56, "Nov-24": 0.66, "Dec-24": 0.58,
+          "Jan-25": 0.61, "Feb-25": 0.57, "Mar-25": 0.63, "Apr-25": 0.63, "May-25": 0.66, "Jun-25": 0.54
+        },
+        "quarterly": {
+          "AMJ-24": 1.75, "JAS-24": 1.88, "OND-24": 1.80, "JFM-25": 1.81, "AMJ-25": 1.83
+        },
+        "annual": {
+          "FY'23": 1.45, "FY'24": 3.40, "FY'25": 3.64, "FY'26": null
+        }
+      },
+      "salaries_wages": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.21, "Aug-24": 0.27, "Sep-24": 0.20, "Oct-24": 0.22, "Nov-24": 0.28, "Dec-24": 0.18,
+          "Jan-25": 0.23, "Feb-25": 0.25, "Mar-25": 0.28, "Apr-25": 0.28, "May-25": 0.33, "Jun-25": 0.22
+        },
+        "quarterly": {
+          "AMJ-24": 0.71, "JAS-24": 0.68, "OND-24": 0.68, "JFM-25": 0.77, "AMJ-25": 0.84
+        },
+        "annual": {
+          "FY'23": 0.54, "FY'24": 1.33, "FY'25": 1.60, "FY'26": null
+        }
+      },
+      "server_cost": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.34, "Aug-24": 0.38, "Sep-24": 0.35, "Oct-24": 0.29, "Nov-24": 0.31, "Dec-24": 0.32,
+          "Jan-25": 0.34, "Feb-25": 0.31, "Mar-25": 0.34, "Apr-25": 0.33, "May-25": 0.28, "Jun-25": 0.28
+        },
+        "quarterly": {
+          "AMJ-24": 0.94, "JAS-24": 1.07, "OND-24": 0.92, "JFM-25": 0.99, "AMJ-25": 0.89
+        },
+        "annual": {
+          "FY'23": 0.88, "FY'24": 1.96, "FY'25": 1.87, "FY'26": null
+        }
+      },
+      "aws_cost": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.15, "Aug-24": 0.16, "Sep-24": 0.15, "Oct-24": 0.13, "Nov-24": 0.12, "Dec-24": 0.13,
+          "Jan-25": 0.22, "Feb-25": 0.14, "Mar-25": 0.16, "Apr-25": 0.16, "May-25": 0.17, "Jun-25": 0.16
+        },
+        "quarterly": {
+          "AMJ-24": 0.37, "JAS-24": 0.45, "OND-24": 0.38, "JFM-25": 0.52, "AMJ-25": 0.50
+        },
+        "annual": {
+          "FY'23": 0.16, "FY'24": 0.64, "FY'25": 1.02, "FY'26": null
+        }
+      },
+      "twilio_cost": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.20, "Aug-24": 0.22, "Sep-24": 0.20, "Oct-24": 0.16, "Nov-24": 0.19, "Dec-24": 0.19,
+          "Jan-25": 0.12, "Feb-25": 0.18, "Mar-25": 0.18, "Apr-25": 0.16, "May-25": 0.11, "Jun-25": 0.12
+        },
+        "quarterly": {
+          "AMJ-24": 0.57, "JAS-24": 0.62, "OND-24": 0.54, "JFM-25": 0.47, "AMJ-25": 0.39
+        },
+        "annual": {
+          "FY'23": 0.72, "FY'24": 1.32, "FY'25": 0.86, "FY'26": null
+        }
+      },
+      "software_subscription": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.03, "Aug-24": 0.05, "Sep-24": 0.05, "Oct-24": 0.04, "Nov-24": 0.07, "Dec-24": 0.08,
+          "Jan-25": 0.04, "Feb-25": 0.01, "Mar-25": 0.01, "Apr-25": 0.02, "May-25": 0.04, "Jun-25": 0.04
+        },
+        "quarterly": {
+          "AMJ-24": 0.10, "JAS-24": 0.13, "OND-24": 0.19, "JFM-25": 0.06, "AMJ-25": 0.10
+        },
+        "annual": {
+          "FY'23": 0.02, "FY'24": 0.12, "FY'25": 0.16, "FY'26": null
+        }
+      }
+    },
+    "gross_profit": {
+      "gross_profit": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.95, "Aug-24": 0.83, "Sep-24": 1.04, "Oct-24": 1.08, "Nov-24": 1.31, "Dec-24": 1.37,
+          "Jan-25": 1.95, "Feb-25": 3.04, "Mar-25": 1.01, "Apr-25": 0.99, "May-25": 0.63, "Jun-25": 0.34
+        },
+        "quarterly": {
+          "AMJ-24": 2.53, "JAS-24": 2.82, "OND-24": 3.76, "JFM-25": 6.00, "AMJ-25": 1.96
+        },
+        "annual": {
+          "FY'23": 2.39, "FY'24": 5.09, "FY'25": 7.96, "FY'26": null
+        }
+      },
+      "gross_margin": {
+        "unit": "percentage",
+        "monthly": {
+          "Jul-24": 62, "Aug-24": 55, "Sep-24": 63, "Oct-24": 66, "Nov-24": 66, "Dec-24": 70,
+          "Jan-25": 76, "Feb-25": 84, "Mar-25": 62, "Apr-25": 61, "May-25": 49, "Jun-25": 38
+        },
+        "quarterly": {
+          "AMJ-24": 59, "JAS-24": 60, "OND-24": 68, "JFM-25": 77, "AMJ-25": 52
+        },
+        "annual": {
+          "FY'23": 62, "FY'24": 60, "FY'25": 69, "FY'26": null
+        }
+      }
+    },
+    "operating_expenses": {
+      "total_operating_expenses": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 1.00, "Aug-24": 2.65, "Sep-24": 1.30, "Oct-24": 1.09, "Nov-24": 1.33, "Dec-24": 1.22,
+          "Jan-25": 1.21, "Feb-25": 1.11, "Mar-25": 1.35, "Apr-25": 1.36, "May-25": 1.24, "Jun-25": 1.22
+        },
+        "quarterly": {
+          "AMJ-24": 2.77, "JAS-24": 4.95, "OND-24": 3.64, "JFM-25": 3.66, "AMJ-25": 3.81
+        },
+        "annual": {
+          "FY'23": 2.65, "FY'24": 5.20, "FY'25": 7.47, "FY'26": null
+        }
+      },
+      "rd_expenses": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.26, "Aug-24": 0.32, "Sep-24": 0.30, "Oct-24": 0.30, "Nov-24": 0.40, "Dec-24": 0.28,
+          "Jan-25": 0.36, "Feb-25": 0.29, "Mar-25": 0.31, "Apr-25": 0.34, "May-25": 0.46, "Jun-25": 0.49
+        },
+        "quarterly": {
+          "AMJ-24": 0.80, "JAS-24": 0.88, "OND-24": 0.98, "JFM-25": 0.96, "AMJ-25": 1.29
+        },
+        "annual": {
+          "FY'23": 0.85, "FY'24": 1.49, "FY'25": 2.24, "FY'26": null
+        }
+      },
+      "sales_marketing": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.23, "Aug-24": 0.34, "Sep-24": 0.45, "Oct-24": 0.38, "Nov-24": 0.37, "Dec-24": 0.37,
+          "Jan-25": 0.48, "Feb-25": 0.41, "Mar-25": 0.60, "Apr-25": 0.52, "May-25": 0.47, "Jun-25": 0.30
+        },
+        "quarterly": {
+          "AMJ-24": 1.02, "JAS-24": 1.02, "OND-24": 1.12, "JFM-25": 1.49, "AMJ-25": 1.29
+        },
+        "annual": {
+          "FY'23": 0.76, "FY'24": 1.86, "FY'25": 2.78, "FY'26": null
+        }
+      },
+      "general_admin": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.51, "Aug-24": 1.98, "Sep-24": 0.55, "Oct-24": 0.41, "Nov-24": 0.56, "Dec-24": 0.57,
+          "Jan-25": 0.37, "Feb-25": 0.41, "Mar-25": 0.44, "Apr-25": 0.50, "May-25": 0.31, "Jun-25": 0.43
+        },
+        "quarterly": {
+          "AMJ-24": 0.95, "JAS-24": 3.04, "OND-24": 1.54, "JFM-25": 1.22, "AMJ-25": 1.23
+        },
+        "annual": {
+          "FY'23": 1.04, "FY'24": 1.85, "FY'25": 2.45, "FY'26": null
+        }
+      }
+    },
+    "profitability_metrics": {
+      "adjusted_ebitda": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": -0.05, "Aug-24": -1.82, "Sep-24": -0.27, "Oct-24": -0.01, "Nov-24": -0.02, "Dec-24": 0.16,
+          "Jan-25": 0.74, "Feb-25": 1.94, "Mar-25": -0.34, "Apr-25": -0.36, "May-25": -0.61, "Jun-25": -0.88
+        },
+        "quarterly": {
+          "AMJ-24": -0.24, "JAS-24": -2.13, "OND-24": 0.13, "JFM-25": 2.34, "AMJ-25": -1.85
+        },
+        "annual": {
+          "FY'23": -0.25, "FY'24": -0.10, "FY'25": 0.49, "FY'26": null
+        }
+      },
+      "adjusted_ebitda_margin": {
+        "unit": "percentage",
+        "monthly": {
+          "Jul-24": -3, "Aug-24": -119, "Sep-24": -16, "Oct-24": -1, "Nov-24": -1, "Dec-24": 8,
+          "Jan-25": 29, "Feb-25": 54, "Mar-25": -21, "Apr-25": -23, "May-25": -47, "Jun-25": -100
+        },
+        "quarterly": {
+          "AMJ-24": -6, "JAS-24": -45, "OND-24": 2, "JFM-25": 30, "AMJ-25": -49
+        },
+        "annual": {
+          "FY'23": -7, "FY'24": -1, "FY'25": 4, "FY'26": null
+        }
+      },
+      "esop_costs": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0, "Aug-24": 0, "Sep-24": 0, "Oct-24": 0, "Nov-24": 0, "Dec-24": 0,
+          "Jan-25": 2.61, "Feb-25": 0.01, "Mar-25": 0.32, "Apr-25": 0, "May-25": 0, "Jun-25": 0
+        },
+        "quarterly": {
+          "AMJ-24": 0, "JAS-24": 0, "OND-24": 0, "JFM-25": 2.95, "AMJ-25": 0
+        },
+        "annual": {
+          "FY'23": 0, "FY'24": 0, "FY'25": 2.95, "FY'26": null
+        }
+      },
+      "ebitda": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": -0.05, "Aug-24": -1.82, "Sep-24": -0.27, "Oct-24": -0.01, "Nov-24": -0.02, "Dec-24": 0.16,
+          "Jan-25": -1.87, "Feb-25": 1.93, "Mar-25": -0.66, "Apr-25": -0.36, "May-25": -0.61, "Jun-25": -0.88
+        },
+        "quarterly": {
+          "AMJ-24": -0.24, "JAS-24": -2.13, "OND-24": 0.13, "JFM-25": -0.61, "AMJ-25": -1.85
+        },
+        "annual": {
+          "FY'23": -0.25, "FY'24": -0.10, "FY'25": -2.46, "FY'26": null
+        }
+      },
+      "ebt": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": -0.05, "Aug-24": -1.73, "Sep-24": -0.29, "Oct-24": 0.04, "Nov-24": 0.02, "Dec-24": 0.24,
+          "Jan-25": -1.84, "Feb-25": 1.97, "Mar-25": -0.63, "Apr-25": -0.32, "May-25": -0.57, "Jun-25": -0.84
+        },
+        "quarterly": {
+          "AMJ-24": -0.30, "JAS-24": -2.07, "OND-24": 0.30, "JFM-25": -0.50, "AMJ-25": -1.74
+        },
+        "annual": {
+          "FY'23": -0.39, "FY'24": -0.20, "FY'25": -2.24, "FY'26": null
+        }
+      },
+      "pat": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": -0.05, "Aug-24": -1.73, "Sep-24": -0.29, "Oct-24": 0.04, "Nov-24": 0.02, "Dec-24": 0.24,
+          "Jan-25": -1.84, "Feb-25": 1.97, "Mar-25": -0.63, "Apr-25": -0.32, "May-25": -0.57, "Jun-25": -0.84
+        },
+        "quarterly": {
+          "AMJ-24": -0.30, "JAS-24": -2.07, "OND-24": 0.30, "JFM-25": -0.50, "AMJ-25": -1.74
+        },
+        "annual": {
+          "FY'23": -0.39, "FY'24": -0.20, "FY'25": -2.24, "FY'26": null
+        }
+      }
+    }
+  },
+  "performance_metrics": {
+    "arr_metrics": {
+      "closing_signed_arr_total": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 26.71, "Aug-24": 27.05, "Sep-24": 27.04, "Oct-24": 27.28, "Nov-24": 26.72, "Dec-24": 26.61,
+          "Jan-25": 26.52, "Feb-25": 26.49, "Mar-25": 26.49, "Apr-25": 27.12, "May-25": 27.12, "Jun-25": 26.72
+        },
+        "quarterly": {
+          "AMJ-24": 26.01, "JAS-24": 27.04, "OND-24": 26.61, "JFM-25": 26.49, "AMJ-25": 26.72
+        },
+        "annual": {
+          "FY'23": 23.12, "FY'24": 26.01, "FY'25": 26.72, "FY'26": null
+        }
+      },
+      "closing_signed_arr_license": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 18.89, "Aug-24": 19.16, "Sep-24": 19.16, "Oct-24": 19.38, "Nov-24": 19.53, "Dec-24": 19.62,
+          "Jan-25": 19.53, "Feb-25": 19.56, "Mar-25": 19.56, "Apr-25": 19.11, "May-25": 19.11, "Jun-25": 18.94
+        },
+        "quarterly": {
+          "AMJ-24": 18.18, "JAS-24": 19.16, "OND-24": 19.62, "JFM-25": 19.56, "AMJ-25": 18.94
+        },
+        "annual": {
+          "FY'23": 15.69, "FY'24": 18.18, "FY'25": 18.94, "FY'26": null
+        }
+      },
+      "closing_signed_arr_usage": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 7.82, "Aug-24": 7.89, "Sep-24": 7.87, "Oct-24": 7.89, "Nov-24": 7.19, "Dec-24": 6.99,
+          "Jan-25": 6.99, "Feb-25": 6.93, "Mar-25": 6.93, "Apr-25": 8.02, "May-25": 8.02, "Jun-25": 7.78
+        },
+        "quarterly": {
+          "AMJ-24": 7.82, "JAS-24": 7.87, "OND-24": 6.99, "JFM-25": 6.93, "AMJ-25": 7.78
+        },
+        "annual": {
+          "FY'23": 7.43, "FY'24": 7.82, "FY'25": 7.78, "FY'26": null
+        }
+      },
+      "closing_live_arr_total": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 18.46, "Aug-24": 18.56, "Sep-24": 18.54, "Oct-24": 19.31, "Nov-24": 18.46, "Dec-24": 19.03,
+          "Jan-25": 18.98, "Feb-25": 19.23, "Mar-25": 20.22, "Apr-25": 20.30, "May-25": 20.44, "Jun-25": 20.26
+        },
+        "quarterly": {
+          "AMJ-24": 17.87, "JAS-24": 18.54, "OND-24": 19.03, "JFM-25": 20.22, "AMJ-25": 20.26
+        },
+        "annual": {
+          "FY'23": 9.55, "FY'24": 17.87, "FY'25": 20.26, "FY'26": null
+        }
+      },
+      "net_new_signed_arr": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.70, "Aug-24": 0.34, "Sep-24": -0.02, "Oct-24": 0.24, "Nov-24": -0.56, "Dec-24": -0.11,
+          "Jan-25": -0.09, "Feb-25": -0.04, "Mar-25": 0.00, "Apr-25": 0.63, "May-25": 0.00, "Jun-25": -0.40
+        },
+        "quarterly": {
+          "AMJ-24": 0.50, "JAS-24": 1.03, "OND-24": -0.42, "JFM-25": -0.12, "AMJ-25": 0.23
+        },
+        "annual": {
+          "FY'23": 3.08, "FY'24": 1.56, "FY'25": 0.11, "FY'26": null
+        }
+      },
+      "net_new_live_arr": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.59, "Aug-24": 0.10, "Sep-24": -0.01, "Oct-24": 0.76, "Nov-24": -0.85, "Dec-24": 0.57,
+          "Jan-25": -0.05, "Feb-25": 0.26, "Mar-25": 0.99, "Apr-25": 0.07, "May-25": 0.14, "Jun-25": -0.18
+        },
+        "quarterly": {
+          "AMJ-24": 1.80, "JAS-24": 0.68, "OND-24": 0.48, "JFM-25": 1.20, "AMJ-25": 0.04
+        },
+        "annual": {
+          "FY'23": 3.75, "FY'24": 3.35, "FY'25": 1.23, "FY'26": null
+        }
+      }
+    },
+    "customer_metrics": {
+      "closing_signed_customers": {
+        "unit": "count",
+        "monthly": {
+          "Jul-24": 82, "Aug-24": 83, "Sep-24": 82, "Oct-24": 85, "Nov-24": 85, "Dec-24": 86,
+          "Jan-25": 86, "Feb-25": 83, "Mar-25": 83, "Apr-25": 78, "May-25": 78, "Jun-25": 77
+        },
+        "quarterly": {
+          "AMJ-24": 79, "JAS-24": 82, "OND-24": 86, "JFM-25": 83, "AMJ-25": 77
+        },
+        "annual": {
+          "FY'23": 70, "FY'24": 79, "FY'25": 77, "FY'26": null
+        }
+      },
+      "closing_live_customers": {
+        "unit": "count",
+        "monthly": {
+          "Jul-24": 70, "Aug-24": 70, "Sep-24": 70, "Oct-24": 70, "Nov-24": 68, "Dec-24": 68,
+          "Jan-25": 70, "Feb-25": 69, "Mar-25": 69, "Apr-25": 70, "May-25": 72, "Jun-25": 70
+        },
+        "quarterly": {
+          "AMJ-24": 69, "JAS-24": 70, "OND-24": 68, "JFM-25": 69, "AMJ-25": 70
+        },
+        "annual": {
+          "FY'23": 58, "FY'24": 69, "FY'25": 70, "FY'26": null
+        }
+      },
+      "new_signed_customers": {
+        "unit": "count",
+        "monthly": {
+          "Jul-24": 3, "Aug-24": 1, "Sep-24": 0, "Oct-24": 3, "Nov-24": 0, "Dec-24": 1,
+          "Jan-25": 1, "Feb-25": 0, "Mar-25": 0, "Apr-25": 1, "May-25": 0, "Jun-25": 0
+        },
+        "quarterly": {
+          "AMJ-24": 1, "JAS-24": 4, "OND-24": 4, "JFM-25": 1, "AMJ-25": 1
+        },
+        "annual": {
+          "FY'23": 6, "FY'24": 4, "FY'25": 2, "FY'26": null
+        }
+      },
+      "churned_signed_customers": {
+        "unit": "count",
+        "monthly": {
+          "Jul-24": 0, "Aug-24": 0, "Sep-24": 1, "Oct-24": 0, "Nov-24": 0, "Dec-24": 0,
+          "Jan-25": 1, "Feb-25": 3, "Mar-25": 0, "Apr-25": 6, "May-25": 0, "Jun-25": 1
+        },
+        "quarterly": {
+          "AMJ-24": 0, "JAS-24": 1, "OND-24": 0, "JFM-25": 4, "AMJ-25": 7
+        },
+        "annual": {
+          "FY'23": 0, "FY'24": 0, "FY'25": 11, "FY'26": null
+        }
+      }
+    },
+    "unit_economics": {
+      "lifetime_customer": {
+        "unit": "years",
+        "monthly": {
+          "Jul-24": 7.0, "Aug-24": 7.0, "Sep-24": 7.0, "Oct-24": 7.0, "Nov-24": 7.0, "Dec-24": 7.0,
+          "Jan-25": 7.0, "Feb-25": 7.0, "Mar-25": 7.0, "Apr-25": 7.0, "May-25": 7.0, "Jun-25": 7.0
+        },
+        "quarterly": {
+          "AMJ-24": 7, "JAS-24": 7, "OND-24": 7, "JFM-25": 7, "AMJ-25": 7
+        }
+      },
+      "arpc": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.33, "Aug-24": 0.33, "Sep-24": 0.33, "Oct-24": 0.32, "Nov-24": 0.31, "Dec-24": 0.31,
+          "Jan-25": 0.31, "Feb-25": 0.32, "Mar-25": 0.32, "Apr-25": 0.35, "May-25": 0.35, "Jun-25": 0.35
+        },
+        "quarterly": {
+          "AMJ-24": 0.33, "JAS-24": 0.33, "OND-24": 0.31, "JFM-25": 0.32, "AMJ-25": 0.35
+        }
+      },
+      "ltv_ttm": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 1.39, "Aug-24": 1.37, "Sep-24": 1.38, "Oct-24": 1.36, "Nov-24": 1.35, "Dec-24": 1.34,
+          "Jan-25": 1.36, "Feb-25": 1.44, "Mar-25": 1.46, "Apr-25": 1.59, "May-25": 1.56, "Jun-25": 1.52
+        },
+        "quarterly": {
+          "AMJ-24": 1.39, "JAS-24": 1.38, "OND-24": 1.34, "JFM-25": 1.47, "AMJ-25": 1.56
+        }
+      },
+      "cac_ttm": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.23, "Aug-24": 0.25, "Sep-24": 0.28, "Oct-24": 0.25, "Nov-24": 0.32, "Dec-24": 0.33,
+          "Jan-25": 0.35, "Feb-25": 0.40, "Mar-25": 0.46, "Apr-25": 0.48, "May-25": 0.50, "Jun-25": 0.49
+        },
+        "quarterly": {
+          "AMJ-24": 0.29, "JAS-24": 0.28, "OND-24": 0.33, "JFM-25": 0.46, "AMJ-25": 0.49
+        }
+      },
+      "ltv_cac_ratio_ttm": {
+        "unit": "ratio",
+        "monthly": {
+          "Jul-24": 6.1, "Aug-24": 5.6, "Sep-24": 4.9, "Oct-24": 5.5, "Nov-24": 4.2, "Dec-24": 4.0,
+          "Jan-25": 3.8, "Feb-25": 3.6, "Mar-25": 3.1, "Apr-25": 3.3, "May-25": 3.1, "Jun-25": 3.1
+        },
+        "quarterly": {
+          "AMJ-24": 4.8, "JAS-24": 4.9, "OND-24": 4.0, "JFM-25": 3.2, "AMJ-25": 3.2
+        }
+      },
+      "cac_payback_period_ttm": {
+        "unit": "months",
+        "monthly": {
+          "Jul-24": 14, "Aug-24": 17, "Sep-24": 16, "Oct-24": 14, "Nov-24": 19, "Dec-24": 18,
+          "Jan-25": 18, "Feb-25": 18, "Mar-25": 28, "Apr-25": 27, "May-25": 35, "Jun-25": 44
+        },
+        "quarterly": {
+          "AMJ-24": 18, "JAS-24": 17, "OND-24": 19, "JFM-25": 23, "AMJ-25": 33
+        },
+        "annual": {
+          "FY'23": 14, "FY'24": 19, "FY'25": 44, "FY'26": 0
+        }
+      }
+    }
+  },
+  "organizational_metrics": {
+    "headcount_by_department": {
+      "customer_success": {
+        "unit": "count",
+        "monthly": {
+          "Jul-24": 5, "Aug-24": 7, "Sep-24": 8, "Oct-24": 8, "Nov-24": 11, "Dec-24": 10,
+          "Jan-25": 8, "Feb-25": 9, "Mar-25": 9, "Apr-25": 7, "May-25": 6, "Jun-25": 7
+        },
+        "quarterly": {
+          "AMJ-24": 6, "JAS-24": 8, "OND-24": 10, "JFM-25": 9, "AMJ-25": 7
+        },
+        "annual": {
+          "FY'23": 2, "FY'24": 6, "FY'25": 7, "FY'26": null
+        }
+      },
+      "delivery": {
+        "unit": "count",
+        "monthly": {
+          "Jul-24": 39, "Aug-24": 39, "Sep-24": 38, "Oct-24": 41, "Nov-24": 42, "Dec-24": 41,
+          "Jan-25": 44, "Feb-25": 44, "Mar-25": 44, "Apr-25": 51, "May-25": 52, "Jun-25": 46
+        },
+        "quarterly": {
+          "AMJ-24": 39, "JAS-24": 38, "OND-24": 41, "JFM-25": 44, "AMJ-25": 46
+        },
+        "annual": {
+          "FY'23": 34, "FY'24": 39, "FY'25": 46, "FY'26": null
+        }
+      },
+      "ml_labeler": {
+        "unit": "count",
+        "monthly": {
+          "Jul-24": 36, "Aug-24": 35, "Sep-24": 35, "Oct-24": 35, "Nov-24": 35, "Dec-24": 35,
+          "Jan-25": 35, "Feb-25": 35, "Mar-25": 35, "Apr-25": 0, "May-25": 0, "Jun-25": 0
+        },
+        "quarterly": {
+          "AMJ-24": 37, "JAS-24": 35, "OND-24": 35, "JFM-25": 35, "AMJ-25": 0
+        },
+        "annual": {
+          "FY'23": 41, "FY'24": 37, "FY'25": 0, "FY'26": null
+        }
+      },
+      "sales": {
+        "unit": "count",
+        "monthly": {
+          "Jul-24": 12, "Aug-24": 11, "Sep-24": 12, "Oct-24": 10, "Nov-24": 12, "Dec-24": 11,
+          "Jan-25": 12, "Feb-25": 13, "Mar-25": 14, "Apr-25": 16, "May-25": 12, "Jun-25": 12
+        },
+        "quarterly": {
+          "AMJ-24": 15, "JAS-24": 12, "OND-24": 11, "JFM-25": 14, "AMJ-25": 12
+        },
+        "annual": {
+          "FY'23": 9, "FY'24": 15, "FY'25": 12, "FY'26": null
+        }
+      },
+      "marketing": {
+        "unit": "count",
+        "monthly": {
+          "Jul-24": 6, "Aug-24": 6, "Sep-24": 6, "Oct-24": 7, "Nov-24": 9, "Dec-24": 9,
+          "Jan-25": 10, "Feb-25": 10, "Mar-25": 10, "Apr-25": 10, "May-25": 9, "Jun-25": 9
+        },
+        "quarterly": {
+          "AMJ-24": 6, "JAS-24": 6, "OND-24": 9, "JFM-25": 10, "AMJ-25": 9
+        },
+        "annual": {
+          "FY'23": 8, "FY'24": 6, "FY'25": 9, "FY'26": null
+        }
+      },
+      "engineering": {
+        "unit": "count",
+        "monthly": {
+          "Jul-24": 43, "Aug-24": 44, "Sep-24": 43, "Oct-24": 46, "Nov-24": 49, "Dec-24": 47,
+          "Jan-25": 49, "Feb-25": 50, "Mar-25": 53, "Apr-25": 59, "May-25": 62, "Jun-25": 58
+        },
+        "quarterly": {
+          "AMJ-24": 41, "JAS-24": 43, "OND-24": 47, "JFM-25": 53, "AMJ-25": 58
+        },
+        "annual": {
+          "FY'23": 35, "FY'24": 41, "FY'25": 58, "FY'26": null
+        }
+      },
+      "product": {
+        "unit": "count",
+        "monthly": {
+          "Jul-24": 8, "Aug-24": 9, "Sep-24": 10, "Oct-24": 10, "Nov-24": 10, "Dec-24": 12,
+          "Jan-25": 11, "Feb-25": 12, "Mar-25": 12, "Apr-25": 13, "May-25": 12, "Jun-25": 9
+        },
+        "quarterly": {
+          "AMJ-24": 8, "JAS-24": 10, "OND-24": 12, "JFM-25": 12, "AMJ-25": 9
+        },
+        "annual": {
+          "FY'23": 3, "FY'24": 8, "FY'25": 9, "FY'26": null
+        }
+      },
+      "hr_operations_talent": {
+        "unit": "count",
+        "monthly": {
+          "Jul-24": 10, "Aug-24": 11, "Sep-24": 11, "Oct-24": 13, "Nov-24": 10, "Dec-24": 12,
+          "Jan-25": 10, "Feb-25": 10, "Mar-25": 9, "Apr-25": 13, "May-25": 13, "Jun-25": 9
+        },
+        "quarterly": {
+          "AMJ-24": 9, "JAS-24": 11, "OND-24": 12, "JFM-25": 9, "AMJ-25": 9
+        },
+        "annual": {
+          "FY'23": 11, "FY'24": 9, "FY'25": 9, "FY'26": null
+        }
+      },
+      "total_headcount": {
+        "unit": "count",
+        "monthly": {
+          "Jul-24": 169, "Aug-24": 171, "Sep-24": 172, "Oct-24": 180, "Nov-24": 189, "Dec-24": 186,
+          "Jan-25": 191, "Feb-25": 198, "Mar-25": 201, "Apr-25": 184, "May-25": 183, "Jun-25": 166
+        },
+        "quarterly": {
+          "AMJ-24": 171, "JAS-24": 172, "OND-24": 186, "JFM-25": 201, "AMJ-25": 166
+        },
+        "annual": {
+          "FY'23": 153, "FY'24": 171, "FY'25": 166, "FY'26": null
+        }
+      }
+    }
+  }
+},
+{
+  "metadata": {
+    "company_name": "interface.ai",
+    "sheet_name": "Balance Sheet",
+    "version": "V2.2",
+    "data_date": "June 2025",
+    "currency": "USD",
+    "reporting_periods": {
+      "monthly": ["Jul-24", "Aug-24", "Sep-24", "Oct-24", "Nov-24", "Dec-24", "Jan-25", "Feb-25", "Mar-25", "Apr-25", "May-25", "Jun-25"],
+      "quarterly": ["AMJ-24", "JAS-24", "OND-24", "JFM-25", "AMJ-25"]
+    },
+    "period_type": "multi_period",
+    "total_periods": {
+      "monthly": 12,
+      "quarterly": 5
+    }
+  },
+  "balance_sheet": {
+    "assets": {
+      "non_current_assets": {
+        "other_assets": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 0.24, "Aug-24": 0.25, "Sep-24": 0.25, "Oct-24": 0.25, "Nov-24": 0.25, "Dec-24": 0.25,
+            "Jan-25": 0.07, "Feb-25": 0.07, "Mar-25": 0.08, "Apr-25": 0.08, "May-25": 0.08, "Jun-25": 0.08
+          },
+          "quarterly": {
+            "AMJ-24": 0.23, "JAS-24": 0.25, "OND-24": 0.25, "JFM-25": 0.08, "AMJ-25": 0.08
+          }
+        },
+        "fixed_assets_net": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 0.07, "Aug-24": 0.08, "Sep-24": 0.08, "Oct-24": 0.08, "Nov-24": 0.08, "Dec-24": 0.08,
+            "Jan-25": 0.07, "Feb-25": 0.07, "Mar-25": 0.07, "Apr-25": 0.07, "May-25": 0.07, "Jun-25": 0.08
+          },
+          "quarterly": {
+            "AMJ-24": 0.07, "JAS-24": 0.08, "OND-24": 0.08, "JFM-25": 0.07, "AMJ-25": 0.08
+          }
+        },
+        "receivables_related_party": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 0.17, "Aug-24": 0.17, "Sep-24": 0.17, "Oct-24": 0.17, "Nov-24": 0.17, "Dec-24": 0.17,
+            "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+          },
+          "quarterly": {
+            "AMJ-24": 0.17, "JAS-24": 0.17, "OND-24": 0.17, "JFM-25": 0.00, "AMJ-25": 0.00
+          }
+        },
+        "other_non_current_assets": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 0.00, "Aug-24": 0.00, "Sep-24": 0.00, "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00,
+            "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+          },
+          "quarterly": {
+            "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.00
+          }
+        }
+      },
+      "current_assets": {
+        "total_current_assets": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 22.16, "Aug-24": 21.09, "Sep-24": 20.70, "Oct-24": 20.38, "Nov-24": 24.06, "Dec-24": 20.64,
+            "Jan-25": 20.45, "Feb-25": 22.74, "Mar-25": 22.43, "Apr-25": 21.85, "May-25": 21.31, "Jun-25": 20.29
+          },
+          "quarterly": {
+            "AMJ-24": 2.91, "JAS-24": 20.70, "OND-24": 20.64, "JFM-25": 22.43, "AMJ-25": 20.29
+          }
+        },
+        "cash_and_equivalents": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 20.35, "Aug-24": 19.12, "Sep-24": 18.33, "Oct-24": 17.72, "Nov-24": 21.07, "Dec-24": 17.97,
+            "Jan-25": 17.71, "Feb-25": 18.20, "Mar-25": 18.29, "Apr-25": 17.24, "May-25": 17.01, "Jun-25": 17.43
+          },
+          "quarterly": {
+            "AMJ-24": 0.36, "JAS-24": 18.33, "OND-24": 17.97, "JFM-25": 18.29, "AMJ-25": 17.43
+          }
+        },
+        "accounts_receivable": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 1.79, "Aug-24": 1.86, "Sep-24": 2.28, "Oct-24": 2.55, "Nov-24": 2.86, "Dec-24": 2.56,
+            "Jan-25": 1.54, "Feb-25": 2.95, "Mar-25": 2.46, "Apr-25": 2.91, "May-25": 2.91, "Jun-25": 1.40
+          },
+          "quarterly": {
+            "AMJ-24": 2.52, "JAS-24": 2.28, "OND-24": 2.56, "JFM-25": 2.46, "AMJ-25": 1.40
+          }
+        },
+        "other_current_assets": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 0.02, "Aug-24": 0.11, "Sep-24": 0.09, "Oct-24": 0.11, "Nov-24": 0.13, "Dec-24": 0.11,
+            "Jan-25": 1.19, "Feb-25": 1.59, "Mar-25": 1.68, "Apr-25": 1.69, "May-25": 1.39, "Jun-25": 1.46
+          },
+          "quarterly": {
+            "AMJ-24": 0.02, "JAS-24": 0.09, "OND-24": 0.11, "JFM-25": 1.68, "AMJ-25": 1.46
+          }
+        }
+      },
+      "total_assets": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 22.40, "Aug-24": 21.33, "Sep-24": 20.94, "Oct-24": 20.62, "Nov-24": 24.30, "Dec-24": 20.89,
+          "Jan-25": 20.52, "Feb-25": 22.81, "Mar-25": 22.50, "Apr-25": 21.92, "May-25": 21.39, "Jun-25": 20.37
+        },
+        "quarterly": {
+          "AMJ-24": 3.14, "JAS-24": 20.94, "OND-24": 20.89, "JFM-25": 22.50, "AMJ-25": 20.37
+        }
+      }
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "total_current_liabilities": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 1.71, "Aug-24": 2.35, "Sep-24": 2.24, "Oct-24": 2.01, "Nov-24": 5.38, "Dec-24": 5.26,
+            "Jan-25": 5.15, "Feb-25": 5.48, "Mar-25": 5.58, "Apr-25": 5.29, "May-25": 5.49, "Jun-25": 5.30
+          },
+          "quarterly": {
+            "AMJ-24": 1.89, "JAS-24": 2.24, "OND-24": 5.26, "JFM-25": 5.58, "AMJ-25": 5.30
+          }
+        },
+        "accounts_payable": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 1.58, "Aug-24": 2.22, "Sep-24": 2.11, "Oct-24": 1.69, "Nov-24": 1.73, "Dec-24": 1.62,
+            "Jan-25": 1.38, "Feb-25": 1.40, "Mar-25": 1.40, "Apr-25": 1.17, "May-25": 1.12, "Jun-25": 0.96
+          },
+          "quarterly": {
+            "AMJ-24": 1.75, "JAS-24": 2.11, "OND-24": 1.62, "JFM-25": 1.40, "AMJ-25": 0.96
+          }
+        },
+        "accrued_payroll_taxes": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 0.13, "Aug-24": 0.13, "Sep-24": 0.13, "Oct-24": 0.32, "Nov-24": 0.32, "Dec-24": 0.32,
+            "Jan-25": 0.44, "Feb-25": 0.74, "Mar-25": 0.84, "Apr-25": 0.79, "May-25": 1.04, "Jun-25": 1.00
+          },
+          "quarterly": {
+            "AMJ-24": 0.13, "JAS-24": 0.13, "OND-24": 0.32, "JFM-25": 0.84, "AMJ-25": 1.00
+          }
+        },
+        "line_of_credit": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 0.00, "Aug-24": 0.00, "Sep-24": 0.00, "Oct-24": 0.00, "Nov-24": 3.33, "Dec-24": 3.33,
+            "Jan-25": 3.33, "Feb-25": 3.33, "Mar-25": 3.33, "Apr-25": 3.33, "May-25": 3.33, "Jun-25": 3.33
+          },
+          "quarterly": {
+            "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 3.33, "JFM-25": 3.33, "AMJ-25": 3.33
+          }
+        }
+      },
+      "other_liabilities": {
+        "total_other_liabilities": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 3.64, "Aug-24": 3.67, "Sep-24": 3.68, "Oct-24": 3.57, "Nov-24": 3.87, "Dec-24": 0.33,
+            "Jan-25": 0.20, "Feb-25": 0.20, "Mar-25": 0.20, "Apr-25": 0.20, "May-25": 0.20, "Jun-25": 0.20
+          },
+          "quarterly": {
+            "AMJ-24": 4.16, "JAS-24": 3.68, "OND-24": 0.33, "JFM-25": 0.20, "AMJ-25": 0.20
+          }
+        },
+        "short_term_loans": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 0.00, "Aug-24": 0.00, "Sep-24": 0.00, "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00,
+            "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+          },
+          "quarterly": {
+            "AMJ-24": 0.02, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.00
+          }
+        },
+        "payables_related_party": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 0.33, "Aug-24": 0.33, "Sep-24": 0.33, "Oct-24": 0.33, "Nov-24": 0.33, "Dec-24": 0.328,
+            "Jan-25": 0.195, "Feb-25": 0.195, "Mar-25": 0.195, "Apr-25": 0.195, "May-25": 0.195, "Jun-25": 0.195
+          },
+          "quarterly": {
+            "AMJ-24": 0.33, "JAS-24": 0.33, "OND-24": 0.33, "JFM-25": 0.20, "AMJ-25": 0.20
+          }
+        },
+        "venture_debt": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 0.00, "Aug-24": 0.00, "Sep-24": 0.00, "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00,
+            "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+          },
+          "quarterly": {
+            "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.00
+          }
+        },
+        "bank_advances": {
+          "unit": "US$ M",
+          "monthly": {
+            "Jul-24": 3.32, "Aug-24": 3.34, "Sep-24": 3.36, "Oct-24": 3.24, "Nov-24": 3.54, "Dec-24": 0.00,
+            "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+          },
+          "quarterly": {
+            "AMJ-24": 3.81, "JAS-24": 3.36, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.00
+          }
+        }
+      },
+      "total_liabilities": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 5.35, "Aug-24": 6.02, "Sep-24": 5.93, "Oct-24": 5.58, "Nov-24": 9.25, "Dec-24": 5.59,
+          "Jan-25": 5.35, "Feb-25": 5.67, "Mar-25": 5.77, "Apr-25": 5.48, "May-25": 5.69, "Jun-25": 5.49
+        },
+        "quarterly": {
+          "AMJ-24": 6.05, "JAS-24": 5.93, "OND-24": 5.59, "JFM-25": 5.77, "AMJ-25": 5.49
+        }
+      }
+    },
+    "equity": {
+      "capital": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 20.00, "Aug-24": 20.00, "Sep-24": 20.00, "Oct-24": 20.00, "Nov-24": 20.00, "Dec-24": 20.00,
+          "Jan-25": 22.61, "Feb-25": 22.61, "Mar-25": 22.84, "Apr-25": 22.87, "May-25": 22.71, "Jun-25": 22.72
+        },
+        "quarterly": {
+          "AMJ-24": 0.00, "JAS-24": 20.00, "OND-24": 20.00, "JFM-25": 22.84, "AMJ-25": 22.72
+        }
+      },
+      "retained_earnings": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": -2.36, "Aug-24": -2.37, "Sep-24": -2.24, "Oct-24": -2.24, "Nov-24": -2.00, "Dec-24": -2.26,
+          "Jan-25": -3.37, "Feb-25": -7.44, "Mar-25": -7.44, "Apr-25": -7.44, "May-25": -7.44, "Jun-25": -7.44
+        },
+        "quarterly": {
+          "AMJ-24": -2.48, "JAS-24": -2.24, "OND-24": -2.26, "JFM-25": -7.44, "AMJ-25": -7.44
+        }
+      },
+      "net_income": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": -0.60, "Aug-24": -2.32, "Sep-24": -2.75, "Oct-24": -2.71, "Nov-24": -3.00, "Dec-24": -2.45,
+          "Jan-25": -4.08, "Feb-25": 1.97, "Mar-25": 1.34, "Apr-25": 1.01, "May-25": 0.44, "Jun-25": -0.40
+        },
+        "quarterly": {
+          "AMJ-24": -0.43, "JAS-24": -2.75, "OND-24": -2.45, "JFM-25": 1.34, "AMJ-25": -0.40
+        }
+      },
+      "total_stockholders_equity": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 17.04, "Aug-24": 15.31, "Sep-24": 15.02, "Oct-24": 15.05, "Nov-24": 15.06, "Dec-24": 15.29,
+          "Jan-25": 15.17, "Feb-25": 17.14, "Mar-25": 16.73, "Apr-25": 16.44, "May-25": 15.70, "Jun-25": 14.88
+        },
+        "quarterly": {
+          "AMJ-24": -2.91, "JAS-24": 15.02, "OND-24": 15.29, "JFM-25": 16.73, "AMJ-25": 14.88
+        }
+      }
+    },
+    "total_liabilities_equity": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 22.40, "Aug-24": 21.33, "Sep-24": 20.94, "Oct-24": 20.62, "Nov-24": 24.30, "Dec-24": 20.89,
+        "Jan-25": 20.52, "Feb-25": 22.81, "Mar-25": 22.50, "Apr-25": 21.92, "May-25": 21.39, "Jun-25": 20.37
+      },
+      "quarterly": {
+        "AMJ-24": 3.14, "JAS-24": 20.94, "OND-24": 20.89, "JFM-25": 22.50, "AMJ-25": 20.37
+      }
+    }
+  },
+  "financial_ratios": {
+    "liquidity_ratios": {
+      "accounts_receivable_days": {
+        "unit": "days",
+        "monthly": {
+          "Jul-24": 42, "Aug-24": 36, "Sep-24": 38, "Oct-24": 44, "Nov-24": 41, "Dec-24": 42,
+          "Jan-25": 24, "Feb-25": 19, "Mar-25": 50, "Apr-25": 50, "May-25": 68, "Jun-25": 74
+        },
+        "quarterly": {
+          "AMJ-24": 52, "JAS-24": 46, "OND-24": 39, "JFM-25": 29, "AMJ-25": 46
+        }
+      },
+      "ar_over_90_days": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.61, "Aug-24": 0.70, "Sep-24": 0.81, "Oct-24": 0.72, "Nov-24": 0.55, "Dec-24": 0.47,
+          "Jan-25": 0.41, "Feb-25": 0.55, "Mar-25": 0.77, "Apr-25": 0.82, "May-25": 1.87, "Jun-25": 0.73
+        },
+        "quarterly": {
+          "AMJ-24": 1.08, "JAS-24": 0.81, "OND-24": 0.47, "JFM-25": 0.77, "AMJ-25": 0.73
+        }
+      },
+      "ar_over_90_days_percentage": {
+        "unit": "percentage",
+        "quarterly": {
+          "AMJ-24": null, "JAS-24": 43, "OND-24": 35, "JFM-25": 18, "AMJ-25": 31
+        }
+      },
+      "accounts_payable_days": {
+        "unit": "days",
+        "monthly": {
+          "Jul-24": 91, "Aug-24": 27, "Sep-24": 81, "Oct-24": 95, "Nov-24": 98, "Dec-24": 67,
+          "Jan-25": 75, "Feb-25": 72, "Mar-25": 56, "Apr-25": 57, "May-25": 61, "Jun-25": 60
+        },
+        "quarterly": {
+          "AMJ-24": 131, "JAS-24": 51, "OND-24": 89, "JFM-25": 70, "AMJ-25": 61
+        }
+      }
+    }
+  },
+  "operational_summary": {
+    "total_revenue": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 1.54, "Aug-24": 1.52, "Sep-24": 1.65, "Oct-24": 1.64, "Nov-24": 1.97, "Dec-24": 1.96,
+        "Jan-25": 2.56, "Feb-25": 3.61, "Mar-25": 1.64, "Apr-25": 1.62, "May-25": 1.29, "Jun-25": 0.88
+      },
+      "quarterly": {
+        "AMJ-24": 4.29, "JAS-24": 4.70, "OND-24": 5.56, "JFM-25": 7.81, "AMJ-25": 3.79
+      }
+    },
+    "total_operating_expenses": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 0.55, "Aug-24": 2.08, "Sep-24": 0.81, "Oct-24": 0.60, "Nov-24": 0.52, "Dec-24": 0.75,
+        "Jan-25": 0.60, "Feb-25": 0.58, "Mar-25": 0.76, "Apr-25": 0.68, "May-25": 0.56, "Jun-25": 0.52
+      },
+      "quarterly": {
+        "AMJ-24": 1.22, "JAS-24": 3.43, "OND-24": 1.88, "JFM-25": 1.94, "AMJ-25": 1.75
+      }
+    }
+  },
+  "balance_sheet_validation": {
+    "check_status": "OK",
+    "delta": 0.00,
+    "note": "Balance sheet balances correctly across all periods"
+  }
+},
+{
+  "metadata": {
+    "company_name": "interface.ai",
+    "sheet_name": "Cash Flow Statement",
+    "version": "V2.2",
+    "data_date": "June 2025",
+    "currency": "USD",
+    "reporting_periods": {
+      "monthly": ["Oct-24", "Nov-24", "Dec-24", "Jan-25", "Feb-25", "Mar-25", "Apr-25", "May-25", "Jun-25"],
+      "quarterly": ["AMJ-24", "JAS-24", "OND-24", "JFM-25", "AMJ-25"]
+    },
+    "period_type": "multi_period",
+    "total_periods": {
+      "monthly": 9,
+      "quarterly": 5
+    }
+  },
+  "cash_flow_statement": {
+    "operating_activities": {
+      "net_income_loss": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": 0.04, "Nov-24": 0.02, "Dec-24": 0.24, "Jan-25": -1.84, "Feb-25": 1.97,
+          "Mar-25": -0.63, "Apr-25": -0.32, "May-25": -0.57, "Jun-25": -0.84
+        },
+        "quarterly": {
+          "AMJ-24": -0.30, "JAS-24": -2.07, "OND-24": 0.30, "JFM-25": -0.50, "AMJ-25": -1.74
+        }
+      },
+      "opening_balance_forex_difference": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": -0.90, "Nov-24": 0.00, "Dec-24": 0.00, "Jan-25": 0.00, "Feb-25": 0.00,
+          "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": -0.90, "JFM-25": 0.00, "AMJ-25": 0.00
+        }
+      },
+      "depreciation": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00, "Jan-25": 0.01, "Feb-25": 0.00,
+          "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.01, "AMJ-25": 0.00
+        }
+      },
+      "stock_based_compensation": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 2.61, "Jan-25": 0.00, "Feb-25": 0.22,
+          "Mar-25": 0.03, "Apr-25": -0.16, "May-25": 0.02, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 2.84, "AMJ-25": -0.11
+        }
+      },
+      "change_in_working_capital": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": -0.52, "Nov-24": -0.30, "Dec-24": 0.21, "Jan-25": -0.18, "Feb-25": -1.48,
+          "Mar-25": 0.50, "Apr-25": -0.75, "May-25": 0.51, "Jun-25": 1.25
+        },
+        "quarterly": {
+          "AMJ-24": -0.11, "JAS-24": 0.54, "OND-24": -0.61, "JFM-25": -1.16, "AMJ-25": 1.00
+        }
+      },
+      "total_operating_cash_flow": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": -0.48, "Nov-24": -0.28, "Dec-24": 0.45, "Jan-25": -0.29, "Feb-25": 0.49,
+          "Mar-25": 0.10, "Apr-25": -1.04, "May-25": -0.23, "Jun-25": 0.42
+        },
+        "quarterly": {
+          "AMJ-24": -0.41, "JAS-24": -1.53, "OND-24": -0.31, "JFM-25": 0.29, "AMJ-25": -0.84
+        }
+      }
+    },
+    "investing_activities": {
+      "capital_expenditures": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": -0.01, "Nov-24": -0.01, "Dec-24": -0.01, "Jan-25": -0.00, "Feb-25": -0.00,
+          "Mar-25": -0.00, "Apr-25": -0.00, "May-25": 0.00, "Jun-25": -0.00
+        },
+        "quarterly": {
+          "AMJ-24": -0.02, "JAS-24": -0.02, "OND-24": -0.02, "JFM-25": -0.01, "AMJ-25": -0.01
+        }
+      },
+      "investment_in_subsidiary": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00, "Jan-25": 0.00, "Feb-25": 0.00,
+          "Mar-25": -0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": -0.00, "AMJ-25": 0.00
+        }
+      },
+      "total_investing_cash_flow": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": -0.01, "Nov-24": -0.01, "Dec-24": -0.01, "Jan-25": -0.00, "Feb-25": -0.00,
+          "Mar-25": -0.01, "Apr-25": -0.00, "May-25": -0.00, "Jun-25": -0.00
+        },
+        "quarterly": {
+          "AMJ-24": -0.02, "JAS-24": -0.02, "OND-24": -0.02, "JFM-25": -0.01, "AMJ-25": -0.00
+        }
+      }
+    },
+    "financing_activities": {
+      "short_term_loan": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00, "Jan-25": 0.00, "Feb-25": 0.00,
+          "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "AMJ-24": 0.00, "JAS-24": -0.02, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.00
+        }
+      },
+      "line_of_credit": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": 0.00, "Nov-24": 3.33, "Dec-24": 0.00, "Jan-25": 0.00, "Feb-25": 0.00,
+          "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 3.33, "JFM-25": 0.00, "AMJ-25": 0.00
+        }
+      },
+      "loan_payable_related_party": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00, "Jan-25": -0.13, "Feb-25": 0.00,
+          "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": -0.13, "AMJ-25": 0.00
+        }
+      },
+      "receivables_related_party": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00, "Jan-25": 0.17, "Feb-25": 0.00,
+          "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.17, "AMJ-25": 0.00
+        }
+      },
+      "venture_debt_issuance": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00, "Jan-25": 0.00, "Feb-25": 0.00,
+          "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.00
+        }
+      },
+      "bank_advances": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": -0.12, "Nov-24": 0.30, "Dec-24": -3.54, "Jan-25": 0.00, "Feb-25": 0.00,
+          "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "AMJ-24": 0.50, "JAS-24": -0.46, "OND-24": -3.36, "JFM-25": 0.00, "AMJ-25": 0.00
+        }
+      },
+      "issuance_series_a_stock": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00, "Jan-25": 0.00, "Feb-25": 0.00,
+          "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "AMJ-24": 0.00, "JAS-24": 20.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.00
+        }
+      },
+      "total_financing_cash_flow": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": -0.12, "Nov-24": 3.63, "Dec-24": -3.54, "Jan-25": 0.03, "Feb-25": 0.00,
+          "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "AMJ-24": 0.50, "JAS-24": 19.52, "OND-24": -0.02, "JFM-25": 0.03, "AMJ-25": 0.00
+        }
+      }
+    },
+    "cash_flow_summary": {
+      "net_change_in_cash": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": -0.60, "Nov-24": 3.35, "Dec-24": -3.10, "Jan-25": -0.26, "Feb-25": 0.49,
+          "Mar-25": 0.09, "Apr-25": -1.04, "May-25": -0.23, "Jun-25": 0.42
+        },
+        "quarterly": {
+          "AMJ-24": 0.07, "JAS-24": 17.97, "OND-24": -0.36, "JFM-25": 0.32, "AMJ-25": -0.85
+        }
+      },
+      "beginning_cash_balance": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": 18.33, "Nov-24": 17.72, "Dec-24": 21.07, "Jan-25": 17.97, "Feb-25": 17.71,
+          "Mar-25": 18.20, "Apr-25": 18.29, "May-25": 17.24, "Jun-25": 17.01
+        },
+        "quarterly": {
+          "AMJ-24": 0.29, "JAS-24": 0.36, "OND-24": 18.33, "JFM-25": 17.98, "AMJ-25": 18.29
+        }
+      },
+      "ending_cash_balance": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": 17.72, "Nov-24": 21.07, "Dec-24": 17.97, "Jan-25": 17.71, "Feb-25": 18.20,
+          "Mar-25": 18.29, "Apr-25": 17.24, "May-25": 17.01, "Jun-25": 17.43
+        },
+        "quarterly": {
+          "AMJ-24": 0.36, "JAS-24": 18.33, "OND-24": 17.98, "JFM-25": 18.29, "AMJ-25": 17.44
+        }
+      }
+    }
+  },
+  "cash_flow_ratios": {
+    "runway_metrics": {
+      "gross_cash_runway": {
+        "unit": "months",
+        "monthly": {
+          "Oct-24": 8, "Nov-24": 9, "Dec-24": 12, "Jan-25": 6, "Feb-25": 6,
+          "Mar-25": 12, "Apr-25": 6, "May-25": 11, "Jun-25": 38
+        },
+        "quarterly": {
+          "AMJ-24": 0, "JAS-24": 9, "OND-24": 9, "JFM-25": 7, "AMJ-25": 11
+        }
+      },
+      "net_cash_runway": {
+        "unit": "months",
+        "monthly": {
+          "Oct-24": 37, "Nov-24": 75, "Dec-24": null, "Jan-25": 61, "Feb-25": null,
+          "Mar-25": null, "Apr-25": 17, "May-25": 74, "Jun-25": null
+        },
+        "quarterly": {
+          "AMJ-24": 3, "JAS-24": 36, "OND-24": 173, "JFM-25": null, "AMJ-25": 62
+        }
+      }
+    },
+    "burn_metrics": {
+      "total_revenue": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": 1.64, "Nov-24": 1.97, "Dec-24": 1.96, "Jan-25": 2.56, "Feb-25": 3.61,
+          "Mar-25": 1.64, "Apr-25": 1.62, "May-25": 1.29, "Jun-25": 0.88
+        },
+        "quarterly": {
+          "AMJ-24": 4.29, "JAS-24": 4.70, "OND-24": 5.56, "JFM-25": 7.81, "AMJ-25": 3.79
+        }
+      },
+      "gross_cash_burn_operating": {
+        "unit": "US$ M",
+        "monthly": {
+          "Oct-24": -2.12, "Nov-24": -2.25, "Dec-24": -1.51, "Jan-25": -2.85, "Feb-25": -3.13,
+          "Mar-25": -1.54, "Apr-25": -2.66, "May-25": -1.52, "Jun-25": -0.45
+        },
+        "quarterly": {
+          "AMJ-24": -4.70, "JAS-24": -6.23, "OND-24": -5.87, "JFM-25": -7.52, "AMJ-25": -4.63
+        }
+      }
+    }
+  },
+  "key_financing_events": {
+    "series_a_funding": {
+      "quarter": "JAS-24",
+      "amount": 20.00,
+      "description": "Series A stock issuance"
+    },
+    "line_of_credit_draw": {
+      "month": "Nov-24",
+      "amount": 3.33,
+      "description": "Line of credit utilization"
+    },
+    "stock_compensation_program": {
+      "quarter": "OND-24",
+      "amount": 2.61,
+      "description": "Stock-based compensation expense spike"
+    },
+    "bank_advances_settlement": {
+      "quarter": "OND-24",
+      "amount": -3.54,
+      "description": "Bank advances cleared in December"
+    }
+  }
+},
+{
+  "metadata": {
+    "company_name": "interface.ai",
+    "sheet_name": "Live ARR Summary",
+    "version": "V2.2",
+    "data_date": "June 2025",
+    "currency": "USD",
+    "reporting_periods": {
+      "monthly": [
+        "Jan-21", "Feb-21", "Mar-21", "Apr-21", "May-21", "Jun-21", "Jul-21", "Aug-21", "Sep-21", "Oct-21", "Nov-21", "Dec-21",
+        "Jan-22", "Feb-22", "Mar-22", "Apr-22", "May-22", "Jun-22", "Jul-22", "Aug-22", "Sep-22", "Oct-22", "Nov-22", "Dec-22",
+        "Jan-23", "Feb-23", "Mar-23", "Apr-23", "May-23", "Jun-23", "Jul-23", "Aug-23", "Sep-23", "Oct-23", "Nov-23", "Dec-23",
+        "Jan-24", "Feb-24", "Mar-24", "Apr-24", "May-24", "Jun-24", "Jul-24", "Aug-24", "Sep-24", "Oct-24", "Nov-24", "Dec-24",
+        "Jan-25", "Feb-25", "Mar-25", "Apr-25", "May-25", "Jun-25"
+      ],
+      "quarterly": ["JFM-24", "AMJ-24", "JAS-24", "OND-24", "JFM-25", "AMJ-25"]
+    },
+    "period_type": "comprehensive_time_series",
+    "total_periods": {
+      "monthly": 54,
+      "quarterly": 6
+    }
+  },
+  "arr_walk_analysis": {
+    "live_arr_progression": {
+      "beginning_of_period": {
+        "unit": "US$ M",
+        "latest_quarters": {
+          "JFM-24": 14.51, "AMJ-24": 16.07, "JAS-24": 17.87, "OND-24": 18.54, "JFM-25": 19.03, "AMJ-25": 20.22
+        },
+        "latest_months": {
+          "Jan-25": 18.98, "Feb-25": 19.23, "Mar-25": 20.22, "Apr-25": 20.30, "May-25": 20.44, "Jun-25": 20.26
+        }
+      },
+      "new_arr": {
+        "unit": "US$ M",
+        "latest_quarters": {
+          "JFM-24": 0.28, "AMJ-24": 0.18, "JAS-24": 0.10, "OND-24": 0.29, "JFM-25": 0.06, "AMJ-25": 0.45
+        },
+        "latest_months": {
+          "Jan-25": 0.03, "Feb-25": 0.00, "Mar-25": 0.18, "Apr-25": 0.27, "May-25": 0.00, "Jun-25": 0.00
+        }
+      },
+      "upsell_expansion": {
+        "unit": "US$ M",
+        "latest_quarters": {
+          "JFM-24": 2.36, "AMJ-24": 2.79, "JAS-24": 2.23, "OND-24": 2.47, "JFM-25": 2.24, "AMJ-25": 1.27
+        },
+        "latest_months": {
+          "Jan-25": 0.74, "Feb-25": 1.04, "Mar-25": 0.44, "Apr-25": 0.44, "May-25": 0.38, "Jun-25": 0.00
+        }
+      },
+      "contraction": {
+        "unit": "US$ M",
+        "latest_quarters": {
+          "JFM-24": -1.03, "AMJ-24": -0.91, "JAS-24": -1.52, "OND-24": -1.33, "JFM-25": -0.94, "AMJ-25": -1.52
+        },
+        "latest_months": {
+          "Jan-25": -0.40, "Feb-25": -0.05, "Mar-25": -0.55, "Apr-25": -0.57, "May-25": -0.41, "Jun-25": 0.00
+        }
+      },
+      "churn": {
+        "unit": "US$ M",
+        "latest_quarters": {
+          "JFM-24": -0.05, "AMJ-24": -0.26, "JAS-24": -0.13, "OND-24": -0.96, "JFM-25": -0.17, "AMJ-25": -0.15
+        },
+        "latest_months": {
+          "Jan-25": -0.11, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.00, "May-25": -0.15, "Jun-25": 0.00
+        }
+      },
+      "end_of_period": {
+        "unit": "US$ M",
+        "latest_quarters": {
+          "JFM-24": 16.07, "AMJ-24": 17.87, "JAS-24": 18.54, "OND-24": 19.03, "JFM-25": 20.22, "AMJ-25": 20.26
+        },
+        "latest_months": {
+          "Jan-25": 18.98, "Feb-25": 19.23, "Mar-25": 20.22, "Apr-25": 20.30, "May-25": 20.44, "Jun-25": 20.26
+        }
+      }
+    }
+  },
+  "product_breakdown": {
+    "product_1": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JFM-24": 1.85, "AMJ-24": 1.94, "JAS-24": 1.90, "OND-24": 1.88, "JFM-25": 1.83, "AMJ-25": 1.97
+      },
+      "latest_months": {
+        "Jan-25": 1.78, "Feb-25": 1.83, "Mar-25": 1.83, "Apr-25": 1.98, "May-25": 1.97, "Jun-25": 1.97
+      }
+    },
+    "product_2": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JFM-24": 0.16, "AMJ-24": 0.16, "JAS-24": 0.07, "OND-24": 0.07, "JFM-25": 0.07, "AMJ-25": 0.13
+      },
+      "latest_months": {
+        "Jan-25": 0.07, "Feb-25": 0.07, "Mar-25": 0.07, "Apr-25": 0.07, "May-25": 0.07, "Jun-25": 0.13
+      }
+    },
+    "product_3": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JFM-24": 0.86, "AMJ-24": 0.97, "JAS-24": 1.29, "OND-24": 1.29, "JFM-25": 1.58, "AMJ-25": 1.44
+      },
+      "latest_months": {
+        "Jan-25": 1.38, "Feb-25": 1.50, "Mar-25": 1.58, "Apr-25": 1.59, "May-25": 1.44, "Jun-25": 1.44
+      }
+    },
+    "product_4": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JFM-24": 13.16, "AMJ-24": 14.60, "JAS-24": 14.96, "OND-24": 15.12, "JFM-25": 16.03, "AMJ-25": 15.40
+      },
+      "latest_months": {
+        "Jan-25": 15.10, "Feb-25": 15.12, "Mar-25": 16.03, "Apr-25": 15.40, "May-25": 15.67, "Jun-25": 15.40
+      }
+    },
+    "product_5": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JFM-24": 0.00, "AMJ-24": 0.01, "JAS-24": 0.01, "OND-24": 0.01, "JFM-25": 0.01, "AMJ-25": 0.01
+      },
+      "latest_months": {
+        "Jan-25": 0.01, "Feb-25": 0.01, "Mar-25": 0.01, "Apr-25": 0.01, "May-25": 0.01, "Jun-25": 0.01
+      }
+    },
+    "product_6": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JFM-24": 0.04, "AMJ-24": 0.18, "JAS-24": 0.32, "OND-24": 0.66, "JFM-25": 0.71, "AMJ-25": 0.85
+      },
+      "latest_months": {
+        "Jan-25": 0.64, "Feb-25": 0.71, "Mar-25": 0.71, "Apr-25": 0.85, "May-25": 0.85, "Jun-25": 0.85
+      }
+    },
+    "product_8": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JFM-24": 0.00, "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.29
+      },
+      "latest_months": {
+        "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.22, "May-25": 0.25, "Jun-25": 0.29
+      }
+    },
+    "product_9": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JFM-24": 0.00, "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.54
+      },
+      "latest_months": {
+        "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.19, "May-25": 0.18, "Jun-25": 0.18
+      }
+    }
+  },
+  "revenue_type_breakdown": {
+    "license_revenue": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JFM-24": 11.14, "AMJ-24": 12.53, "JAS-24": 13.39, "OND-24": 13.83, "JFM-25": 14.62, "AMJ-25": 15.26
+      },
+      "latest_months": {
+        "Jan-25": 13.82, "Feb-25": 14.16, "Mar-25": 14.62, "Apr-25": 15.36, "May-25": 15.35, "Jun-25": 15.26
+      }
+    },
+    "usage_revenue": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JFM-24": 4.93, "AMJ-24": 5.34, "JAS-24": 5.15, "OND-24": 5.20, "JFM-25": 5.60, "AMJ-25": 5.00
+      },
+      "latest_months": {
+        "Jan-25": 5.15, "Feb-25": 5.07, "Mar-25": 5.60, "Apr-25": 4.94, "May-25": 5.09, "Jun-25": 5.00
+      }
+    },
+    "revenue_mix_percentages": {
+      "license_percentage": {
+        "latest_quarters": {
+          "JFM-24": 69, "AMJ-24": 70, "JAS-24": 72, "OND-24": 73, "JFM-25": 72, "AMJ-25": 75
+        },
+        "latest_months": {
+          "Jan-25": 73, "Feb-25": 74, "Mar-25": 72, "Apr-25": 76, "May-25": 75, "Jun-25": 75
+        }
+      },
+      "usage_percentage": {
+        "latest_quarters": {
+          "JFM-24": 31, "AMJ-24": 30, "JAS-24": 28, "OND-24": 27, "JFM-25": 28, "AMJ-25": 25
+        },
+        "latest_months": {
+          "Jan-25": 27, "Feb-25": 26, "Mar-25": 28, "Apr-25": 24, "May-25": 25, "Jun-25": 25
+        }
+      }
+    }
+  },
+  "customer_concentration_analysis": {
+    "arr_500k_plus": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JFM-24": 0, "AMJ-24": 0, "JAS-24": 0, "OND-24": 0, "JFM-25": 0, "AMJ-25": 0
+      }
+    },
+    "arr_400_499k": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JFM-24": 0, "AMJ-24": 0, "JAS-24": 3, "OND-24": 3, "JFM-25": 12, "AMJ-25": 9
+      }
+    },
+    "arr_300_399k": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JFM-24": 18, "AMJ-24": 21, "JAS-24": 20, "OND-24": 20, "JFM-25": 18, "AMJ-25": 22
+      }
+    },
+    "arr_200_299k": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JFM-24": 24, "AMJ-24": 30, "JAS-24": 31, "OND-24": 39, "JFM-25": 34, "AMJ-25": 28
+      }
+    },
+    "arr_100_199k": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JFM-24": 45, "AMJ-24": 38, "JAS-24": 38, "OND-24": 31, "JFM-25": 32, "AMJ-25": 38
+      }
+    },
+    "arr_0_99k": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JFM-24": 12, "AMJ-24": 11, "JAS-24": 8, "OND-24": 7, "JFM-25": 5, "AMJ-25": 3
+      }
+    }
+  },
+  "retention_metrics": {
+    "gross_retention_rate": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JFM-24": 93, "AMJ-24": 93, "JAS-24": 91, "OND-24": 88, "JFM-25": 94, "AMJ-25": 92
+      },
+      "latest_months": {
+        "Jan-25": 97, "Feb-25": 100, "Mar-25": 97, "Apr-25": 97, "May-25": 97, "Jun-25": 97
+      }
+    },
+    "net_retention_rate": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JFM-24": 109, "AMJ-24": 110, "JAS-24": 103, "OND-24": 101, "JFM-25": 106, "AMJ-25": 98
+      },
+      "latest_months": {
+        "Jan-25": 101, "Feb-25": 105, "Mar-25": 99, "Apr-25": 99, "May-25": 99, "Jun-25": 99
+      }
+    },
+    "gdr_ttm": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JFM-24": 51, "AMJ-24": 55, "JAS-24": 61, "OND-24": 57, "JFM-25": 61, "AMJ-25": 62
+      },
+      "latest_months": {
+        "Jan-25": 58, "Feb-25": 61, "Mar-25": 62, "Apr-25": 63, "May-25": 62, "Jun-25": 62
+      }
+    },
+    "ndr_ttm": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JFM-24": 184, "AMJ-24": 177, "JAS-24": 152, "OND-24": 125, "JFM-25": 122, "AMJ-25": 108
+      },
+      "latest_months": {
+        "Jan-25": 120, "Feb-25": 122, "Mar-25": 116, "Apr-25": 108, "May-25": 108, "Jun-25": 108
+      }
+    },
+    "customer_retention_rate": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JFM-24": 98, "AMJ-24": 96, "JAS-24": 97, "OND-24": 91, "JFM-25": 96, "AMJ-25": 97
+      },
+      "latest_months": {
+        "Jan-25": 97, "Feb-25": 100, "Mar-25": 100, "Apr-25": 100, "May-25": 97, "Jun-25": 97
+      }
+    },
+    "churn_rate": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JFM-24": 0, "AMJ-24": 2, "JAS-24": 1, "OND-24": 5, "JFM-25": 1, "AMJ-25": 1
+      },
+      "latest_months": {
+        "Jan-25": 1, "Feb-25": 0, "Mar-25": 0, "Apr-25": 0, "May-25": 1, "Jun-25": 1
+      }
+    },
+    "customer_churn": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JFM-24": 2, "AMJ-24": 4, "JAS-24": 3, "OND-24": 9, "JFM-25": 4, "AMJ-25": 3
+      },
+      "latest_months": {
+        "Jan-25": 3, "Feb-25": 0, "Mar-25": 0, "Apr-25": 0, "May-25": 3, "Jun-25": 3
+      }
+    }
+  },
+  "customer_count_metrics": {
+    "opening_customer_count": {
+      "unit": "count",
+      "latest_quarters": {
+        "JFM-24": 63, "AMJ-24": 68, "JAS-24": 69, "OND-24": 70, "JFM-25": 68, "AMJ-25": 69
+      },
+      "latest_months": {
+        "Jan-25": 70, "Feb-25": 69, "Mar-25": 69, "Apr-25": 70, "May-25": 72, "Jun-25": 70
+      }
+    },
+    "new_customers": {
+      "unit": "count",
+      "latest_quarters": {
+        "JFM-24": 6, "AMJ-24": 4, "JAS-24": 3, "OND-24": 4, "JFM-25": 4, "AMJ-25": 3
+      },
+      "latest_months": {
+        "Jan-25": 1, "Feb-25": 0, "Mar-25": 1, "Apr-25": 2, "May-25": 0, "Jun-25": 0
+      }
+    },
+    "churned_customers": {
+      "unit": "count",
+      "latest_quarters": {
+        "JFM-24": 1, "AMJ-24": 3, "JAS-24": 2, "OND-24": 6, "JFM-25": 3, "AMJ-25": 2
+      },
+      "latest_months": {
+        "Jan-25": 2, "Feb-25": 0, "Mar-25": 0, "Apr-25": 0, "May-25": 2, "Jun-25": 0
+      }
+    },
+    "closing_customer_count": {
+      "unit": "count",
+      "latest_quarters": {
+        "JFM-24": 68, "AMJ-24": 69, "JAS-24": 70, "OND-24": 68, "JFM-25": 69, "AMJ-25": 70
+      },
+      "latest_months": {
+        "Jan-25": 69, "Feb-25": 69, "Mar-25": 70, "Apr-25": 72, "May-25": 70, "Jun-25": 70
+      }
+    }
+  },
+  "key_performance_indicators": {
+    "arr_growth_trajectory": {
+      "total_arr_growth": {
+        "jan_21_to_jun_25": {
+          "starting_arr": 0.50,
+          "ending_arr": 20.26,
+          "total_growth_multiple": 40.5,
+          "cagr_approximate": "170%+"
+        }
+      },
+      "recent_trend_analysis": {
+        "q1_25_to_q2_25": {
+          "starting_arr": 20.22,
+          "ending_arr": 20.26,
+          "growth": 0.04,
+          "growth_rate": "0.2%"
+        }
+      }
+    },
+    "customer_unit_economics": {
+      "average_arr_per_customer": {
+        "latest_months": {
+          "Jan-25": 0.275, "Feb-25": 0.279, "Mar-25": 0.289, "Apr-25": 0.282, "May-25": 0.292, "Jun-25": 0.289
+        }
+      },
+      "customer_concentration_risk": {
+        "top_tier_concentration": "Low - No customers >$500K ARR",
+        "mid_tier_growth": "Growing presence in $300-499K segment",
+        "small_customer_dependency": "Reduced dependency on <$100K customers (3% vs 47% in early 2021)"
+      }
+    },
+    "product_diversification": {
+      "primary_product_dominance": "Product 4 represents ~75% of total ARR",
+      "emerging_products": "Products 6, 8, and 9 showing growth in recent quarters",
+      "revenue_stability": "License revenue maintaining 75% mix vs Usage at 25%"
+    }
+  },
+  "business_health_summary": {
+    "strengths": [
+      "40x ARR growth from Jan-21 to Jun-25",
+      "Stable customer base around 70 customers",
+      "Improving customer concentration (moving upmarket)",
+      "Strong license revenue foundation (75% of mix)",
+      "Diversifying product portfolio"
+    ],
+    "areas_of_focus": [
+      "NDR trending down from 184% to 108% (still healthy)",
+      "Recent growth plateau in Q1-Q2 2025",
+      "Churn management in larger customer segments",
+      "Continued product diversification to reduce Product 4 dependency"
+    ],
+    "current_scale": {
+      "arr_run_rate": "$20.3M as of Jun-25",
+      "customer_count": "70 active customers",
+      "average_customer_value": "$289K ARR",
+      "revenue_predictability": "75% license-based recurring revenue"
+    }
+  }
+},
+{
+  "metadata": {
+    "company_name": "interface.ai",
+    "sheet_name": "Revenue Summary",
+    "version": "V2.2",
+    "data_date": "June 2025",
+    "currency": "USD",
+    "reporting_periods": {
+      "monthly": ["Jul-24", "Aug-24", "Sep-24", "Oct-24", "Nov-24", "Dec-24", "Jan-25", "Feb-25", "Mar-25", "Apr-25", "May-25", "Jun-25"],
+      "quarterly": ["OND-23", "JFM-24", "AMJ-24", "JAS-24", "OND-24", "JFM-25", "AMJ-25"]
+    },
+    "period_type": "revenue_analytics",
+    "total_periods": {
+      "monthly": 12,
+      "quarterly": 7
+    }
+  },
+  "revenue_by_product": {
+    "product_1": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 0.16, "Aug-24": 0.16, "Sep-24": 0.16, "Oct-24": 0.16, "Nov-24": 0.16, "Dec-24": 0.16,
+        "Jan-25": 0.15, "Feb-25": 0.15, "Mar-25": 0.15, "Apr-25": 0.16, "May-25": 0.16, "Jun-25": 0.16
+      },
+      "quarterly": {
+        "OND-23": 0.46, "JFM-24": 0.47, "AMJ-24": 0.48, "JAS-24": 0.48, "OND-24": 0.48, "JFM-25": 0.45, "AMJ-25": 0.49
+      }
+    },
+    "product_2": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 0.01, "Aug-24": 0.01, "Sep-24": 0.01, "Oct-24": 0.01, "Nov-24": 0.01, "Dec-24": 0.01,
+        "Jan-25": 0.01, "Feb-25": 0.01, "Mar-25": 0.01, "Apr-25": 0.01, "May-25": 0.01, "Jun-25": 0.01
+      },
+      "quarterly": {
+        "OND-23": 0.02, "JFM-24": 0.03, "AMJ-24": 0.04, "JAS-24": 0.02, "OND-24": 0.02, "JFM-25": 0.02, "AMJ-25": 0.02
+      }
+    },
+    "product_3": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 0.09, "Aug-24": 0.10, "Sep-24": 0.11, "Oct-24": 0.11, "Nov-24": 0.11, "Dec-24": 0.11,
+        "Jan-25": 0.11, "Feb-25": 0.13, "Mar-25": 0.13, "Apr-25": 0.13, "May-25": 0.12, "Jun-25": 0.12
+      },
+      "quarterly": {
+        "OND-23": 0.16, "JFM-24": 0.20, "AMJ-24": 0.22, "JAS-24": 0.30, "OND-24": 0.33, "JFM-25": 0.37, "AMJ-25": 0.37
+      }
+    },
+    "product_4": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 1.26, "Aug-24": 1.26, "Sep-24": 1.25, "Oct-24": 1.29, "Nov-24": 1.21, "Dec-24": 1.26,
+        "Jan-25": 1.26, "Feb-25": 1.26, "Mar-25": 1.34, "Apr-25": 1.28, "May-25": 1.31, "Jun-25": 1.28
+      },
+      "quarterly": {
+        "OND-23": 2.68, "JFM-24": 3.16, "AMJ-24": 3.59, "JAS-24": 3.77, "OND-24": 3.76, "JFM-25": 3.85, "AMJ-25": 3.87
+      }
+    },
+    "product_5": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 0.00, "Aug-24": 0.00, "Sep-24": 0.00, "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00,
+        "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+      },
+      "quarterly": {
+        "OND-23": 0.00, "JFM-24": 0.00, "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.00
+      }
+    },
+    "product_6": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 0.02, "Aug-24": 0.02, "Sep-24": 0.03, "Oct-24": 0.04, "Nov-24": 0.05, "Dec-24": 0.06,
+        "Jan-25": 0.05, "Feb-25": 0.06, "Mar-25": 0.06, "Apr-25": 0.07, "May-25": 0.07, "Jun-25": 0.07
+      },
+      "quarterly": {
+        "OND-23": 0.02, "JFM-24": 0.02, "AMJ-24": 0.05, "JAS-24": 0.06, "OND-24": 0.15, "JFM-25": 0.17, "AMJ-25": 0.21
+      }
+    },
+    "product_7": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 0.00, "Aug-24": 0.00, "Sep-24": 0.00, "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00,
+        "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+      },
+      "quarterly": {
+        "OND-23": 0.00, "JFM-24": 0.00, "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.00
+      }
+    },
+    "product_8": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 0.00, "Aug-24": 0.00, "Sep-24": 0.00, "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00,
+        "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.02, "May-25": 0.02, "Jun-25": 0.02
+      },
+      "quarterly": {
+        "OND-23": 0.00, "JFM-24": 0.00, "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.06
+      }
+    },
+    "product_9": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 0.00, "Aug-24": 0.00, "Sep-24": 0.00, "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00,
+        "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.02, "May-25": 0.01, "Jun-25": 0.01
+      },
+      "quarterly": {
+        "OND-23": 0.00, "JFM-24": 0.00, "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.04
+      }
+    },
+    "product_10": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 0.00, "Aug-24": 0.00, "Sep-24": 0.00, "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00,
+        "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+      },
+      "quarterly": {
+        "OND-23": 0.00, "JFM-24": 0.00, "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.00
+      }
+    },
+    "product_11": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 0.00, "Aug-24": 0.00, "Sep-24": 0.00, "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00,
+        "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+      },
+      "quarterly": {
+        "OND-23": 0.00, "JFM-24": 0.00, "AMJ-24": 0.00, "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.00
+      }
+    },
+    "total_product_revenue": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 1.54, "Aug-24": 1.55, "Sep-24": 1.55, "Oct-24": 1.61, "Nov-24": 1.54, "Dec-24": 1.59,
+        "Jan-25": 1.58, "Feb-25": 1.60, "Mar-25": 1.69, "Apr-25": 1.69, "May-25": 1.70, "Jun-25": 1.69
+      },
+      "quarterly": {
+        "OND-23": 3.34, "JFM-24": 3.89, "AMJ-24": 4.39, "JAS-24": 4.63, "OND-24": 4.73, "JFM-25": 4.87, "AMJ-25": 5.04
+      }
+    }
+  },
+  "revenue_by_type": {
+    "license_revenue": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 1.06, "Aug-24": 1.08, "Sep-24": 1.12, "Oct-24": 1.16, "Nov-24": 1.15, "Dec-24": 1.15,
+        "Jan-25": 1.15, "Feb-25": 1.18, "Mar-25": 1.22, "Apr-25": 1.28, "May-25": 1.28, "Jun-25": 1.27
+      },
+      "quarterly": {
+        "OND-23": 2.32, "JFM-24": 2.71, "AMJ-24": 3.03, "JAS-24": 3.25, "OND-24": 3.46, "JFM-25": 3.55, "AMJ-25": 3.83
+      }
+    },
+    "usage_revenue": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 0.48, "Aug-24": 0.46, "Sep-24": 0.43, "Oct-24": 0.45, "Nov-24": 0.39, "Dec-24": 0.43,
+        "Jan-25": 0.43, "Feb-25": 0.42, "Mar-25": 0.47, "Apr-25": 0.41, "May-25": 0.42, "Jun-25": 0.42
+      },
+      "quarterly": {
+        "OND-23": 1.02, "JFM-24": 1.18, "AMJ-24": 1.36, "JAS-24": 1.37, "OND-24": 1.28, "JFM-25": 1.32, "AMJ-25": 1.25
+      }
+    },
+    "total_revenue": {
+      "unit": "US$ M",
+      "monthly": {
+        "Jul-24": 1.54, "Aug-24": 1.55, "Sep-24": 1.55, "Oct-24": 1.61, "Nov-24": 1.54, "Dec-24": 1.59,
+        "Jan-25": 1.58, "Feb-25": 1.60, "Mar-25": 1.69, "Apr-25": 1.69, "May-25": 1.70, "Jun-25": 1.69
+      },
+      "quarterly": {
+        "OND-23": 3.34, "JFM-24": 3.89, "AMJ-24": 4.39, "JAS-24": 4.63, "OND-24": 4.73, "JFM-25": 4.87, "AMJ-25": 5.08
+      }
+    }
+  },
+  "revenue_mix_percentages": {
+    "license_percentage": {
+      "unit": "percentage",
+      "monthly": {
+        "Jul-24": 69, "Aug-24": 70, "Sep-24": 72, "Oct-24": 72, "Nov-24": 75, "Dec-24": 73,
+        "Jan-25": 73, "Feb-25": 74, "Mar-25": 72, "Apr-25": 76, "May-25": 75, "Jun-25": 75
+      },
+      "quarterly": {
+        "OND-23": 70, "JFM-24": 70, "AMJ-24": 69, "JAS-24": 70, "OND-24": 73, "JFM-25": 73, "AMJ-25": 75
+      }
+    },
+    "usage_percentage": {
+      "unit": "percentage",
+      "monthly": {
+        "Jul-24": 31, "Aug-24": 30, "Sep-24": 28, "Oct-24": 28, "Nov-24": 25, "Dec-24": 27,
+        "Jan-25": 27, "Feb-25": 26, "Mar-25": 28, "Apr-25": 24, "May-25": 25, "Jun-25": 25
+      },
+      "quarterly": {
+        "OND-23": 30, "JFM-24": 30, "AMJ-24": 31, "JAS-24": 30, "OND-24": 27, "JFM-25": 27, "AMJ-25": 25
+      }
+    }
+  },
+  "customer_concentration_metrics": {
+    "top_5_customers": {
+      "unit": "percentage",
+      "monthly": {
+        "Jul-24": 17, "Aug-24": 16, "Sep-24": 16, "Oct-24": 16, "Nov-24": 15, "Dec-24": 15,
+        "Jan-25": 15, "Feb-25": 16, "Mar-25": 17, "Apr-25": 16, "May-25": 16, "Jun-25": 16
+      },
+      "quarterly": {
+        "OND-23": 23, "JFM-24": 20, "AMJ-24": 17, "JAS-24": 15, "OND-24": 15, "JFM-25": 16, "AMJ-25": 16
+      }
+    },
+    "top_10_customers": {
+      "unit": "percentage",
+      "monthly": {
+        "Jul-24": 29, "Aug-24": 27, "Sep-24": 27, "Oct-24": 27, "Nov-24": 27, "Dec-24": 28,
+        "Jan-25": 28, "Feb-25": 28, "Mar-25": 29, "Apr-25": 28, "May-25": 28, "Jun-25": 27
+      },
+      "quarterly": {
+        "OND-23": 36, "JFM-24": 32, "AMJ-24": 29, "JAS-24": 28, "OND-24": 27, "JFM-25": 28, "AMJ-25": 28
+      }
+    },
+    "top_20_customers": {
+      "unit": "percentage",
+      "monthly": {
+        "Jul-24": 49, "Aug-24": 47, "Sep-24": 47, "Oct-24": 48, "Nov-24": 48, "Dec-24": 48,
+        "Jan-25": 49, "Feb-25": 48, "Mar-25": 48, "Apr-25": 47, "May-25": 46, "Jun-25": 46
+      },
+      "quarterly": {
+        "OND-23": 56, "JFM-24": 53, "AMJ-24": 50, "JAS-24": 48, "OND-24": 48, "JFM-25": 48, "AMJ-25": 47
+      }
+    },
+    "top_50_customers": {
+      "unit": "percentage",
+      "monthly": {
+        "Jul-24": 87, "Aug-24": 86, "Sep-24": 85, "Oct-24": 86, "Nov-24": 87, "Dec-24": 87,
+        "Jan-25": 87, "Feb-25": 87, "Mar-25": 87, "Apr-25": 85, "May-25": 84, "Jun-25": 84
+      },
+      "quarterly": {
+        "OND-23": 92, "JFM-24": 89, "AMJ-24": 87, "JAS-24": 86, "OND-24": 86, "JFM-25": 87, "AMJ-25": 84
+      }
+    }
+  },
+  "customer_revenue_breakdown": {
+    "license_revenue_by_customer": {
+      "customer_2": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.00, "Aug-24": 0.00, "Sep-24": 0.00, "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00,
+          "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "OND-23": 0.01, "JFM-24": 0.01, "AMJ-24": 0.01, "JAS-24": 0.01, "OND-24": 0.01, "JFM-25": 0.00, "AMJ-25": 0.00
+        }
+      },
+      "customer_4": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.01, "Aug-24": 0.01, "Sep-24": 0.01, "Oct-24": 0.01, "Nov-24": 0.01, "Dec-24": 0.01,
+          "Jan-25": 0.01, "Feb-25": 0.01, "Mar-25": 0.01, "Apr-25": 0.01, "May-25": 0.01, "Jun-25": 0.01
+        },
+        "quarterly": {
+          "OND-23": 0.02, "JFM-24": 0.02, "AMJ-24": 0.02, "JAS-24": 0.02, "OND-24": 0.02, "JFM-25": 0.02, "AMJ-25": 0.02
+        }
+      },
+      "customer_5": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.02, "Aug-24": 0.02, "Sep-24": 0.02, "Oct-24": 0.02, "Nov-24": 0.02, "Dec-24": 0.02,
+          "Jan-25": 0.02, "Feb-25": 0.02, "Mar-25": 0.02, "Apr-25": 0.02, "May-25": 0.02, "Jun-25": 0.02
+        },
+        "quarterly": {
+          "OND-23": 0.07, "JFM-24": 0.06, "AMJ-24": 0.07, "JAS-24": 0.07, "OND-24": 0.07, "JFM-25": 0.07, "AMJ-25": 0.07
+        }
+      },
+      "customer_75": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.01, "Aug-24": 0.01, "Sep-24": 0.01, "Oct-24": 0.01, "Nov-24": 0.01, "Dec-24": 0.01,
+          "Jan-25": 0.01, "Feb-25": 0.01, "Mar-25": 0.02, "Apr-25": 0.02, "May-25": 0.02, "Jun-25": 0.02
+        },
+        "quarterly": {
+          "OND-23": 0.00, "JFM-24": 0.02, "AMJ-24": 0.03, "JAS-24": 0.02, "OND-24": 0.02, "JFM-25": 0.03, "AMJ-25": 0.05
+        }
+      },
+      "total_license_by_customers": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 1.06, "Aug-24": 1.08, "Sep-24": 1.12, "Oct-24": 1.16, "Nov-24": 1.15, "Dec-24": 1.15,
+          "Jan-25": 1.15, "Feb-25": 1.18, "Mar-25": 1.22, "Apr-25": 1.28, "May-25": 1.28, "Jun-25": 1.27
+        },
+        "quarterly": {
+          "OND-23": 2.32, "JFM-24": 2.71, "AMJ-24": 3.03, "JAS-24": 3.25, "OND-24": 3.46, "JFM-25": 3.55, "AMJ-25": 3.83
+        }
+      }
+    },
+    "usage_revenue_by_customer": {
+      "customer_5": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.02, "Aug-24": 0.02, "Sep-24": 0.02, "Oct-24": 0.01, "Nov-24": 0.01, "Dec-24": 0.01,
+          "Jan-25": 0.01, "Feb-25": 0.01, "Mar-25": 0.01, "Apr-25": 0.01, "May-25": 0.01, "Jun-25": 0.01
+        },
+        "quarterly": {
+          "OND-23": 0.05, "JFM-24": 0.07, "AMJ-24": 0.06, "JAS-24": 0.05, "OND-24": 0.04, "JFM-25": 0.04, "AMJ-25": 0.04
+        }
+      },
+      "total_usage_by_customers": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.48, "Aug-24": 0.46, "Sep-24": 0.43, "Oct-24": 0.45, "Nov-24": 0.39, "Dec-24": 0.43,
+          "Jan-25": 0.43, "Feb-25": 0.42, "Mar-25": 0.47, "Apr-25": 0.41, "May-25": 0.42, "Jun-25": 0.42
+        },
+        "quarterly": {
+          "OND-23": 1.02, "JFM-24": 1.18, "AMJ-24": 1.36, "JAS-24": 1.37, "OND-24": 1.28, "JFM-25": 1.32, "AMJ-25": 1.25
+        }
+      }
+    },
+    "total_revenue_by_customer": {
+      "customer_2": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.00, "Aug-24": 0.00, "Sep-24": 0.00, "Oct-24": 0.00, "Nov-24": 0.00, "Dec-24": 0.00,
+          "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        },
+        "quarterly": {
+          "OND-23": 0.01, "JFM-24": 0.01, "AMJ-24": 0.01, "JAS-24": 0.01, "OND-24": 0.01, "JFM-25": 0.00, "AMJ-25": 0.00
+        }
+      },
+      "customer_4": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.01, "Aug-24": 0.01, "Sep-24": 0.01, "Oct-24": 0.01, "Nov-24": 0.01, "Dec-24": 0.01,
+          "Jan-25": 0.01, "Feb-25": 0.01, "Mar-25": 0.01, "Apr-25": 0.01, "May-25": 0.01, "Jun-25": 0.01
+        },
+        "quarterly": {
+          "OND-23": 0.02, "JFM-24": 0.02, "AMJ-24": 0.02, "JAS-24": 0.02, "OND-24": 0.02, "JFM-25": 0.02, "AMJ-25": 0.02
+        }
+      },
+      "customer_5": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 0.04, "Aug-24": 0.04, "Sep-24": 0.04, "Oct-24": 0.04, "Nov-24": 0.03, "Dec-24": 0.04,
+          "Jan-25": 0.04, "Feb-25": 0.04, "Mar-25": 0.04, "Apr-25": 0.04, "May-25": 0.04, "Jun-25": 0.04
+        },
+        "quarterly": {
+          "OND-23": 0.12, "JFM-24": 0.13, "AMJ-24": 0.13, "JAS-24": 0.12, "OND-24": 0.11, "JFM-25": 0.11, "AMJ-25": 0.11
+        }
+      },
+      "total_revenue_all_customers": {
+        "unit": "US$ M",
+        "monthly": {
+          "Jul-24": 1.54, "Aug-24": 1.55, "Sep-24": 1.55, "Oct-24": 1.61, "Nov-24": 1.54, "Dec-24": 1.59,
+          "Jan-25": 1.58, "Feb-25": 1.60, "Mar-25": 1.69, "Apr-25": 1.69, "May-25": 1.70, "Jun-25": 1.69
+        },
+        "quarterly": {
+          "OND-23": 3.34, "JFM-24": 3.89, "AMJ-24": 4.39, "JAS-24": 4.63, "OND-24": 4.73, "JFM-25": 4.87, "AMJ-25": 5.08
+        }
+      }
+    }
+  },
+  "revenue_analytics_insights": {
+    "product_performance": {
+      "dominant_product": {
+        "product": "Product 4",
+        "revenue_share": "~77% of total revenue",
+        "quarterly_trend": "Consistent $3.7-3.9M quarterly revenue"
+      },
+      "growth_products": [
+        {
+          "product": "Product 6",
+          "growth_pattern": "Accelerating from $0.02M (OND-23) to $0.21M (AMJ-25)",
+          "growth_rate": "10x growth over 6 quarters"
+        },
+        {
+          "product": "Product 8",
+          "launch_timing": "Apr-25",
+          "initial_revenue": "$0.06M quarterly run-rate"
+        },
+        {
+          "product": "Product 9",
+          "launch_timing": "Apr-25",
+          "initial_revenue": "$0.04M quarterly run-rate"
+        }
+      ],
+      "stable_products": [
+        {
+          "product": "Product 1",
+          "revenue_range": "$0.45-0.49M quarterly",
+          "consistency": "Stable performer"
+        },
+        {
+          "product": "Product 3",
+          "growth_trend": "Steady growth from $0.16M to $0.37M quarterly"
+        }
+      ]
+    },
+    "revenue_mix_trends": {
+      "license_usage_evolution": {
+        "license_trend": "Increasing from 69% to 75% of revenue",
+        "usage_trend": "Decreasing from 31% to 25% of revenue",
+        "strategic_implication": "More predictable revenue base"
+      },
+      "quarterly_revenue_growth": {
+        "OND-23_to_AMJ-25": {
+          "starting_revenue": 3.34,
+          "ending_revenue": 5.08,
+          "growth_rate": "52% over 6 quarters",
+          "cagr": "~7.4% quarterly"
+        }
+      }
+    },
+    "customer_concentration_evolution": {
+      "concentration_reduction": {
+        "top_5_trend": "Decreased from 23% to 16% (healthier distribution)",
+        "top_10_trend": "Decreased from 36% to 28%",
+        "top_20_trend": "Decreased from 56% to 47%",
+        "risk_assessment": "Lower customer concentration risk over time"
+      },
+      "revenue_diversification": {
+        "trend": "More balanced customer revenue distribution",
+        "implication": "Reduced dependency on top customers"
+      }
+    },
+    "key_customer_insights": {
+      "customer_5": {
+        "revenue_type": "Mixed (License + Usage)",
+        "stability": "Consistent ~$0.11M quarterly revenue",
+        "usage_trend": "Declining usage component"
+      },
+      "customer_75": {
+        "growth_pattern": "Growing from $0.02M to $0.05M quarterly",
+        "revenue_type": "License-focused"
+      },
+      "overall_customer_health": {
+        "revenue_per_customer": "Improving average customer value",
+        "concentration_risk": "Decreasing (positive trend)"
+      }
+    }
+  },
+  "business_health_summary": {
+    "revenue_stability": {
+      "monthly_consistency": "Revenue range $1.54-1.70M monthly",
+      "growth_trajectory": "Steady quarterly growth to $5.08M",
+      "predictability": "75% license-based recurring revenue"
+    },
+    "product_portfolio": {
+      "core_strength": "Product 4 provides stable foundation",
+      "innovation_pipeline": "Products 8 & 9 launched successfully",
+      "diversification": "6 active revenue-generating products"
+    },
+    "customer_dynamics": {
+      "concentration_risk": "Decreasing - healthy trend",
+      "revenue_distribution": "More balanced across customer base",
+      "growth_sustainability": "Less dependent on top customers"
+    }
+  }
+},
+{
+  "metadata": {
+    "company_name": "interface.ai",
+    "sheet_name": "Departmental KPIs",
+    "version": "V2.2",
+    "data_date": "July 2025",
+    "reporting_periods": [
+      "Apr-24", "May-24", "Jun-24", "Jul-24", "Aug-24", "Sep-24", "Oct-24", "Nov-24", "Dec-24",
+      "Jan-25", "Feb-25", "Mar-25", "Apr-25", "May-25", "Jun-25", "Jul-25"
+    ],
+    "period_type": "monthly_operational_kpis",
+    "total_periods": 16,
+    "data_maturity_note": "Customer Success metrics actively tracked; other departments show limited KPI implementation"
+  },
+  "departmental_kpis": {
+    "customer_success": {
+      "department_code": "A",
+      "data_status": "active_tracking",
+      "metrics": {
+        "csat_score": {
+          "kpi_id": 1,
+          "name": "CSAT (Customer Satisfaction Score)",
+          "unit": "percentage",
+          "data_quality": "consistent",
+          "monthly_values": {
+            "Apr-24": 80, "May-24": 85, "Jun-24": 80, "Jul-24": 80, "Aug-24": 85, "Sep-24": 80,
+            "Oct-24": 80, "Nov-24": 85, "Dec-24": 80, "Jan-25": 80, "Feb-25": 85, "Mar-25": 80,
+            "Apr-25": 80, "May-25": 85, "Jun-25": 80, "Jul-25": 80
+          },
+          "trend_analysis": {
+            "pattern": "Alternating between 80% and 85%",
+            "average": 81.9,
+            "stability": "Very stable with predictable pattern"
+          }
+        },
+        "net_promoter_score": {
+          "kpi_id": 2,
+          "name": "NPS (Net Promoter Score)",
+          "unit": "score",
+          "data_quality": "consistent",
+          "monthly_values": {
+            "Apr-24": 59, "May-24": 63, "Jun-24": 63, "Jul-24": 63, "Aug-24": 64, "Sep-24": 59,
+            "Oct-24": 66, "Nov-24": 66, "Dec-24": 63, "Jan-25": 69, "Feb-25": 70, "Mar-25": 67,
+            "Apr-25": 71, "May-25": 73, "Jun-25": 69, "Jul-25": 72
+          },
+          "trend_analysis": {
+            "pattern": "Improving trend from 59 to 72",
+            "average": 66.1,
+            "improvement": "22% increase from start to end period",
+            "quality_assessment": "Good NPS scores (>50 considered excellent)"
+          }
+        },
+        "ticket_resolution_rate": {
+          "kpi_id": 3,
+          "name": "Ticket Resolution Rate",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "All periods show 0% - metric not active"
+        },
+        "first_contact_resolution": {
+          "kpi_id": 4,
+          "name": "First Contact Resolution (FCR)",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "All periods show 0% - metric not active"
+        },
+        "repeat_contact_rate": {
+          "kpi_id": 5,
+          "name": "Repeat Contact Rate",
+          "unit": "percentage",
+          "data_quality": "consistent",
+          "monthly_values": {
+            "Apr-24": 21, "May-24": 22, "Jun-24": 18, "Jul-24": 17, "Aug-24": 21, "Sep-24": 21,
+            "Oct-24": 14, "Nov-24": 19, "Dec-24": 17, "Jan-25": 11, "Feb-25": 15, "Mar-25": 13,
+            "Apr-25": 9, "May-25": 12, "Jun-25": 11, "Jul-25": 8
+          },
+          "trend_analysis": {
+            "pattern": "Decreasing trend - improvement",
+            "starting_rate": 21,
+            "ending_rate": 8,
+            "improvement": "62% reduction in repeat contacts",
+            "quality_assessment": "Positive trend - fewer repeat contacts indicates better initial resolution"
+          }
+        },
+        "support_ticket_volume": {
+          "kpi_id": 6,
+          "name": "Support Ticket Volume",
+          "unit": "count",
+          "data_quality": "not_tracked",
+          "status": "No data available across all periods"
+        },
+        "average_handling_time": {
+          "kpi_id": 7,
+          "name": "Average Handling Time (AHT)",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "All periods show 0% - metric not active"
+        }
+      }
+    },
+    "sales": {
+      "department_code": "B",
+      "data_status": "not_implemented",
+      "metrics": {
+        "sales_conversion_rate": {
+          "kpi_id": 1,
+          "name": "Sales Conversion Rate",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "All periods show 0% - requires implementation"
+        },
+        "sales_cycle_length": {
+          "kpi_id": 2,
+          "name": "Sales Cycle Length",
+          "unit": "days",
+          "data_quality": "not_tracked",
+          "status": "No data available - critical metric missing"
+        },
+        "revenue_pipeline": {
+          "kpi_id": 3,
+          "name": "Revenue Pipeline with Probability",
+          "unit": "USD",
+          "data_quality": "not_tracked",
+          "status": "No pipeline visibility - requires CRM integration"
+        },
+        "lead_to_opportunity_ratio": {
+          "kpi_id": 4,
+          "name": "Lead-to-Opportunity Ratio",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "Sales funnel metrics not tracked"
+        },
+        "opportunity_win_rate": {
+          "kpi_id": 5,
+          "name": "Opportunity Win Rate",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "Win/loss tracking not implemented"
+        },
+        "average_deal_size": {
+          "kpi_id": 6,
+          "name": "Average Deal Size",
+          "unit": "USD",
+          "data_quality": "not_tracked",
+          "status": "Deal size analytics missing"
+        },
+        "upsell_crosssell_rate": {
+          "kpi_id": 7,
+          "name": "Upsell/Cross-sell Rate",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "Account expansion metrics not tracked"
+        },
+        "quota_attainment": {
+          "kpi_id": 8,
+          "name": "Quota Attainment",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "Sales performance against targets not tracked"
+        },
+        "deal_velocity": {
+          "kpi_id": 9,
+          "name": "Avg. Deal Size / Sales Cycle Duration",
+          "unit": "USD",
+          "data_quality": "not_tracked",
+          "status": "Deal velocity calculation requires foundational metrics"
+        },
+        "win_loss_ratio": {
+          "kpi_id": 10,
+          "name": "Win/Loss Ratio",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "Competitive analysis metrics missing"
+        }
+      }
+    },
+    "legal_compliance": {
+      "department_code": "C",
+      "data_status": "not_implemented",
+      "metrics": {
+        "compliance_audit_score": {
+          "kpi_id": 1,
+          "name": "Compliance Audit Score",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "Compliance scoring framework not established"
+        },
+        "audit_closure_time": {
+          "kpi_id": 2,
+          "name": "Audit Closure Time",
+          "unit": "days",
+          "data_quality": "not_tracked",
+          "status": "Audit process timing not measured"
+        },
+        "contracts_closed_monthly": {
+          "kpi_id": 3,
+          "name": "Contracts Closed / Month",
+          "unit": "count",
+          "data_quality": "not_tracked",
+          "status": "Contract throughput not monitored"
+        },
+        "legal_turnaround_time": {
+          "kpi_id": 4,
+          "name": "Legal Turnaround Time",
+          "unit": "days",
+          "data_quality": "not_tracked",
+          "status": "Legal review cycle time not measured"
+        },
+        "compliance_pass_rate": {
+          "kpi_id": 5,
+          "name": "Compliance Audit Pass Rate",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "Compliance success rate not tracked"
+        }
+      }
+    },
+    "people_culture": {
+      "department_code": "D",
+      "data_status": "not_implemented",
+      "metrics": {
+        "time_to_hire": {
+          "kpi_id": 1,
+          "name": "Time to Hire",
+          "unit": "days",
+          "data_quality": "not_tracked",
+          "status": "Recruitment efficiency not measured"
+        },
+        "employee_retention_rate": {
+          "kpi_id": 2,
+          "name": "Employee Retention Rate",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "Critical HR metric missing"
+        },
+        "training_completion_rate": {
+          "kpi_id": 3,
+          "name": "Training Completion Rate",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "Learning & development tracking not active"
+        },
+        "employee_satisfaction": {
+          "kpi_id": 4,
+          "name": "Employee Satisfaction Score",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "Employee engagement surveys not implemented"
+        },
+        "cost_per_hire": {
+          "kpi_id": 5,
+          "name": "Cost per hire",
+          "unit": "USD",
+          "data_quality": "not_tracked",
+          "status": "Recruitment cost efficiency not calculated"
+        },
+        "hiring_per_ta": {
+          "kpi_id": 6,
+          "name": "Hiring per TA",
+          "unit": "count",
+          "data_quality": "not_tracked",
+          "status": "Talent acquisition productivity not measured"
+        },
+        "offer_acceptance_rate": {
+          "kpi_id": 7,
+          "name": "Offer Acceptance Rate",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "Recruitment success rate not tracked"
+        },
+        "offer_to_joining_ratio": {
+          "kpi_id": 8,
+          "name": "Offer-to-Joining Ratio",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "Onboarding conversion not measured"
+        },
+        "onboarding_satisfaction": {
+          "kpi_id": 9,
+          "name": "Onboarding Satisfaction Score",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "New hire experience not evaluated"
+        },
+        "learning_hours_per_employee": {
+          "kpi_id": 10,
+          "name": "Learning & Development Hours per Employee",
+          "unit": "hours_per_month",
+          "data_quality": "not_tracked",
+          "status": "Professional development tracking not active"
+        }
+      }
+    },
+    "marketing": {
+      "department_code": "E",
+      "data_status": "not_implemented",
+      "metrics": {
+        "lead_generation_volume": {
+          "kpi_id": 1,
+          "name": "Lead Generation Volume",
+          "unit": "count",
+          "data_quality": "not_tracked",
+          "status": "Lead tracking system not implemented"
+        },
+        "cost_per_lead": {
+          "kpi_id": 2,
+          "name": "Cost per Lead (CPL)",
+          "unit": "USD",
+          "data_quality": "not_tracked",
+          "status": "Marketing ROI measurement missing"
+        },
+        "website_analytics": {
+          "visits": {
+            "name": "Website Visits",
+            "unit": "count",
+            "data_quality": "not_tracked",
+            "status": "Web analytics not integrated"
+          },
+          "bounce_rate": {
+            "name": "Bounce Rate",
+            "unit": "percentage",
+            "data_quality": "not_tracked",
+            "status": "User engagement metrics missing"
+          },
+          "session_duration": {
+            "name": "Average Session Duration",
+            "unit": "minutes",
+            "data_quality": "not_tracked",
+            "status": "Website engagement not measured"
+          }
+        },
+        "campaign_roi": {
+          "kpi_id": 4,
+          "name": "Campaign ROI",
+          "unit": "percentage",
+          "data_quality": "not_implemented",
+          "status": "Marketing campaign effectiveness not measured"
+        },
+        "marketing_qualified_leads": {
+          "kpi_id": 5,
+          "name": "Marketing Qualified Leads (MQLs)",
+          "unit": "count",
+          "data_quality": "not_tracked",
+          "status": "Lead qualification process not implemented"
+        },
+        "channel_performance": {
+          "cpl_by_channel": {
+            "name": "CPL by Channel",
+            "unit": "USD",
+            "data_quality": "not_tracked",
+            "status": "Channel-specific performance not tracked"
+          },
+          "cac_by_channel": {
+            "name": "CAC by Channel",
+            "unit": "USD",
+            "data_quality": "not_tracked",
+            "status": "Customer acquisition cost by channel not calculated"
+          }
+        }
+      }
+    }
+  },
+  "operational_insights": {
+    "data_maturity_assessment": {
+      "mature_departments": [
+        {
+          "department": "Customer Success",
+          "maturity_level": "Intermediate",
+          "active_metrics": 3,
+          "total_metrics": 7,
+          "implementation_rate": "43%",
+          "key_strengths": [
+            "Consistent CSAT tracking with stable performance",
+            "Improving NPS trend (59→72)",
+            "Decreasing repeat contact rate (good trend)"
+          ]
+        }
+      ],
+      "developing_departments": [
+        {
+          "department": "Sales",
+          "maturity_level": "Not Implemented",
+          "active_metrics": 0,
+          "total_metrics": 10,
+          "implementation_rate": "0%",
+          "priority_metrics": [
+            "Sales Cycle Length",
+            "Revenue Pipeline",
+            "Average Deal Size",
+            "Win Rate"
+          ]
+        },
+        {
+          "department": "Legal & Compliance",
+          "maturity_level": "Not Implemented",
+          "active_metrics": 0,
+          "total_metrics": 5,
+          "implementation_rate": "0%",
+          "priority_metrics": [
+            "Contract Turnaround Time",
+            "Compliance Audit Score"
+          ]
+        },
+        {
+          "department": "People & Culture",
+          "maturity_level": "Not Implemented",
+          "active_metrics": 0,
+          "total_metrics": 10,
+          "implementation_rate": "0%",
+          "priority_metrics": [
+            "Employee Retention Rate",
+            "Time to Hire",
+            "Employee Satisfaction"
+          ]
+        },
+        {
+          "department": "Marketing",
+          "maturity_level": "Not Implemented",
+          "active_metrics": 0,
+          "total_metrics": 8,
+          "implementation_rate": "0%",
+          "priority_metrics": [
+            "Lead Generation Volume",
+            "Cost per Lead",
+            "Website Analytics",
+            "MQLs"
+          ]
+        }
+      ]
+    },
+    "performance_highlights": {
+      "customer_success_excellence": {
+        "nps_improvement": {
+          "trend": "22% improvement from 59 to 72",
+          "benchmark": "Score of 72 is considered excellent (>50)",
+          "consistency": "Steady upward trajectory"
+        },
+        "repeat_contact_reduction": {
+          "improvement": "62% reduction from 21% to 8%",
+          "impact": "Better first-time resolution",
+          "efficiency_gain": "Reduced support burden"
+        },
+        "csat_stability": {
+          "performance": "Consistent 80-85% satisfaction",
+          "pattern": "Predictable alternating pattern",
+          "reliability": "Stable customer experience"
+        }
+      }
+    },
+    "implementation_priorities": {
+      "immediate_high_impact": [
+        {
+          "department": "Sales",
+          "metric": "Revenue Pipeline Tracking",
+          "impact": "Critical for revenue forecasting",
+          "effort": "Medium - requires CRM setup"
+        },
+        {
+          "department": "People & Culture",
+          "metric": "Employee Retention Rate",
+          "impact": "High - affects all operations",
+          "effort": "Low - basic HR analytics"
+        },
+        {
+          "department": "Marketing",
+          "metric": "Lead Generation Volume",
+          "impact": "Essential for sales pipeline",
+          "effort": "Medium - marketing automation setup"
+        }
+      ],
+      "medium_term_strategic": [
+        {
+          "department": "Sales",
+          "metric": "Sales Cycle Length & Win Rate",
+          "impact": "Sales process optimization",
+          "effort": "High - process documentation required"
+        },
+        {
+          "department": "Customer Success",
+          "metric": "Support Ticket Volume & Resolution",
+          "impact": "Complete customer service picture",
+          "effort": "Medium - ticketing system integration"
+        }
+      ]
+    }
+  },
+  "kpi_framework_recommendations": {
+    "overall_strategy": {
+      "current_state": "Limited operational visibility - only Customer Success partially implemented",
+      "target_state": "Comprehensive departmental KPI tracking across all functions",
+      "implementation_approach": "Phased rollout starting with highest-impact metrics"
+    },
+    "success_metrics": {
+      "implementation_success": "Customer Success department shows consistent tracking",
+      "improvement_evidence": "NPS and repeat contact rate trends demonstrate value",
+      "expansion_opportunity": "Apply Customer Success approach to other departments"
+    },
+    "technology_requirements": {
+      "sales": "CRM system integration for pipeline and performance tracking",
+      "marketing": "Marketing automation and web analytics platform",
+      "hr": "HRIS system with analytics capabilities",
+      "legal": "Contract management and compliance tracking system"
+    }
+  }
+},
+{
+  "metadata": {
+    "company_name": "interface.ai",
+    "sheet_name": "Signed ARR Summary",
+    "version": "V2.2",
+    "data_date": "June 2025",
+    "currency": "USD",
+    "reporting_periods": {
+      "monthly": [
+        "Jan-21", "Feb-21", "Mar-21", "Apr-21", "May-21", "Jun-21", "Jul-21", "Aug-21", "Sep-21", "Oct-21", "Nov-21", "Dec-21",
+        "Jan-22", "Feb-22", "Mar-22", "Apr-22", "May-22", "Jun-22", "Jul-22", "Aug-22", "Sep-22", "Oct-22", "Nov-22", "Dec-22",
+        "Jan-23", "Feb-23", "Mar-23", "Apr-23", "May-23", "Jun-23", "Jul-23", "Aug-23", "Sep-23", "Oct-23", "Nov-23", "Dec-23",
+        "Jan-24", "Feb-24", "Mar-24", "Apr-24", "May-24", "Jun-24", "Jul-24", "Aug-24", "Sep-24", "Oct-24", "Nov-24", "Dec-24",
+        "Jan-25", "Feb-25", "Mar-25", "Apr-25", "May-25", "Jun-25"
+      ],
+      "quarterly": ["JAS-24", "OND-24", "JFM-25", "AMJ-25"]
+    },
+    "period_type": "comprehensive_signed_arr_analysis",
+    "total_periods": {
+      "monthly": 54,
+      "quarterly": 4
+    }
+  },
+  "signed_arr_walk_analysis": {
+    "arr_movement_components": {
+      "beginning_of_period": {
+        "unit": "US$ M",
+        "latest_quarters": {
+          "JAS-24": 26.01, "OND-24": 27.04, "JFM-25": 26.61, "AMJ-25": 26.49
+        },
+        "latest_months": {
+          "Jan-25": 26.52, "Feb-25": 26.49, "Mar-25": 26.49, "Apr-25": 27.12, "May-25": 27.12, "Jun-25": 26.72
+        }
+      },
+      "new_arr_additions": {
+        "unit": "US$ M",
+        "latest_quarters": {
+          "JAS-24": 0.86, "OND-24": 0.29, "JFM-25": 0.00, "AMJ-25": 0.28
+        },
+        "latest_months": {
+          "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.28, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        }
+      },
+      "upsell_expansion": {
+        "unit": "US$ M",
+        "latest_quarters": {
+          "JAS-24": 0.19, "OND-24": 0.21, "JFM-25": 0.04, "AMJ-25": 2.00
+        },
+        "latest_months": {
+          "Jan-25": 0.04, "Feb-25": 0.00, "Mar-25": 2.00, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        }
+      },
+      "contraction": {
+        "unit": "US$ M",
+        "latest_quarters": {
+          "JAS-24": 0.00, "OND-24": -0.92, "JFM-25": -0.04, "AMJ-25": -0.58
+        },
+        "latest_months": {
+          "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": -0.58, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+        }
+      },
+      "churn": {
+        "unit": "US$ M",
+        "latest_quarters": {
+          "JAS-24": -0.02, "OND-24": 0.00, "JFM-25": -0.13, "AMJ-25": -1.47
+        },
+        "latest_months": {
+          "Jan-25": -0.08, "Feb-25": 0.00, "Mar-25": -1.07, "Apr-25": 0.00, "May-25": -0.40, "Jun-25": 0.00
+        }
+      },
+      "end_of_period": {
+        "unit": "US$ M",
+        "latest_quarters": {
+          "JAS-24": 27.04, "OND-24": 26.61, "JFM-25": 26.49, "AMJ-25": 26.72
+        },
+        "latest_months": {
+          "Jan-25": 26.52, "Feb-25": 26.49, "Mar-25": 26.49, "Apr-25": 27.12, "May-25": 27.12, "Jun-25": 26.72
+        }
+      }
+    }
+  },
+  "signed_arr_by_product": {
+    "product_1": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 2.04, "OND-24": 2.15, "JFM-25": 2.06, "AMJ-25": 1.94
+      },
+      "latest_months": {
+        "Jan-25": 2.06, "Feb-25": 2.06, "Mar-25": 2.06, "Apr-25": 1.94, "May-25": 1.94, "Jun-25": 1.94
+      }
+    },
+    "product_2": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 0.69, "OND-24": 0.69, "JFM-25": 0.69, "AMJ-25": 0.51
+      },
+      "latest_months": {
+        "Jan-25": 0.69, "Feb-25": 0.69, "Mar-25": 0.69, "Apr-25": 0.51, "May-25": 0.51, "Jun-25": 0.51
+      }
+    },
+    "product_3": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 2.36, "OND-24": 2.36, "JFM-25": 2.36, "AMJ-25": 2.27
+      },
+      "latest_months": {
+        "Jan-25": 2.36, "Feb-25": 2.36, "Mar-25": 2.36, "Apr-25": 2.27, "May-25": 2.27, "Jun-25": 2.27
+      }
+    },
+    "product_4": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 20.40, "OND-24": 19.75, "JFM-25": 19.71, "AMJ-25": 19.60
+      },
+      "latest_months": {
+        "Jan-25": 19.75, "Feb-25": 19.71, "Mar-25": 19.71, "Apr-25": 20.00, "May-25": 20.00, "Jun-25": 19.60
+      }
+    },
+    "product_5": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 0.30, "OND-24": 0.30, "JFM-25": 0.30, "AMJ-25": 0.33
+      },
+      "latest_months": {
+        "Jan-25": 0.30, "Feb-25": 0.30, "Mar-25": 0.30, "Apr-25": 0.33, "May-25": 0.33, "Jun-25": 0.33
+      }
+    },
+    "product_6": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 1.11, "OND-24": 1.22, "JFM-25": 1.23, "AMJ-25": 1.14
+      },
+      "latest_months": {
+        "Jan-25": 1.23, "Feb-25": 1.23, "Mar-25": 1.23, "Apr-25": 1.14, "May-25": 1.14, "Jun-25": 1.14
+      }
+    },
+    "product_7": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 0.14, "OND-24": 0.14, "JFM-25": 0.14, "AMJ-25": 0.14
+      },
+      "latest_months": {
+        "Jan-25": 0.14, "Feb-25": 0.14, "Mar-25": 0.14, "Apr-25": 0.14, "May-25": 0.14, "Jun-25": 0.14
+      }
+    },
+    "product_8": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.43
+      },
+      "latest_months": {
+        "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.43, "May-25": 0.43, "Jun-25": 0.43
+      }
+    },
+    "product_9": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.79
+      },
+      "latest_months": {
+        "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.26, "May-25": 0.26, "Jun-25": 0.26
+      }
+    },
+    "product_10": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.11
+      },
+      "latest_months": {
+        "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.04, "May-25": 0.04, "Jun-25": 0.04
+      }
+    },
+    "product_11": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 0.00, "OND-24": 0.00, "JFM-25": 0.00, "AMJ-25": 0.17
+      },
+      "latest_months": {
+        "Jan-25": 0.00, "Feb-25": 0.00, "Mar-25": 0.00, "Apr-25": 0.06, "May-25": 0.06, "Jun-25": 0.06
+      }
+    },
+    "total_signed_arr": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 27.04, "OND-24": 26.61, "JFM-25": 26.49, "AMJ-25": 26.72
+      },
+      "latest_months": {
+        "Jan-25": 26.52, "Feb-25": 26.49, "Mar-25": 26.49, "Apr-25": 27.12, "May-25": 27.12, "Jun-25": 26.72
+      }
+    }
+  },
+  "revenue_type_breakdown": {
+    "license_revenue": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 19.16, "OND-24": 19.62, "JFM-25": 19.56, "AMJ-25": 18.94
+      },
+      "latest_months": {
+        "Jan-25": 19.53, "Feb-25": 19.56, "Mar-25": 19.56, "Apr-25": 19.11, "May-25": 19.11, "Jun-25": 18.94
+      }
+    },
+    "usage_revenue": {
+      "unit": "US$ M",
+      "latest_quarters": {
+        "JAS-24": 7.87, "OND-24": 6.99, "JFM-25": 6.93, "AMJ-25": 7.78
+      },
+      "latest_months": {
+        "Jan-25": 6.99, "Feb-25": 6.93, "Mar-25": 6.93, "Apr-25": 8.02, "May-25": 8.02, "Jun-25": 7.78
+      }
+    },
+    "revenue_mix_percentages": {
+      "license_percentage": {
+        "latest_quarters": {
+          "JAS-24": 71, "OND-24": 74, "JFM-25": 74, "AMJ-25": 71
+        },
+        "latest_months": {
+          "Jan-25": 74, "Feb-25": 74, "Mar-25": 74, "Apr-25": 70, "May-25": 70, "Jun-25": 71
+        }
+      },
+      "usage_percentage": {
+        "latest_quarters": {
+          "JAS-24": 29, "OND-24": 26, "JFM-25": 26, "AMJ-25": 29
+        },
+        "latest_months": {
+          "Jan-25": 26, "Feb-25": 26, "Mar-25": 26, "Apr-25": 30, "May-25": 30, "Jun-25": 29
+        }
+      }
+    }
+  },
+  "customer_concentration_analysis": {
+    "arr_500k_plus": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 18, "OND-24": 17, "JFM-25": 17, "AMJ-25": 24
+      }
+    },
+    "arr_400_499k": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 14, "OND-24": 13, "JFM-25": 13, "AMJ-25": 7
+      }
+    },
+    "arr_300_399k": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 12, "OND-24": 12, "JFM-25": 12, "AMJ-25": 17
+      }
+    },
+    "arr_200_299k": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 32, "OND-24": 32, "JFM-25": 32, "AMJ-25": 28
+      }
+    },
+    "arr_100_199k": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 23, "OND-24": 23, "JFM-25": 23, "AMJ-25": 23
+      }
+    },
+    "arr_0_99k": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 1, "OND-24": 2, "JFM-25": 2, "AMJ-25": 1
+      }
+    }
+  },
+  "retention_and_churn_metrics": {
+    "gross_retention_rate": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 100, "OND-24": 97, "JFM-25": 99, "AMJ-25": 92
+      },
+      "latest_months": {
+        "Jan-25": 100, "Feb-25": 100, "Mar-25": 100, "Apr-25": 94, "May-25": 100, "Jun-25": 99
+      }
+    },
+    "net_retention_rate": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 101, "OND-24": 97, "JFM-25": 100, "AMJ-25": 100
+      },
+      "latest_months": {
+        "Jan-25": 100, "Feb-25": 100, "Mar-25": 100, "Apr-25": 101, "May-25": 100, "Jun-25": 99
+      }
+    },
+    "gdr_ttm": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 100, "OND-24": 96, "JFM-25": 96, "AMJ-25": 88
+      },
+      "latest_months": {
+        "Jan-25": 100, "Feb-25": 97, "Mar-25": 96, "Apr-25": 96, "May-25": 95, "Jun-25": 96
+      }
+    },
+    "ndr_ttm": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 107, "OND-24": 103, "JFM-25": 99, "AMJ-25": 97
+      },
+      "latest_months": {
+        "Jan-25": 106, "Feb-25": 104, "Mar-25": 103, "Apr-25": 102, "May-25": 101, "Jun-25": 99
+      }
+    },
+    "customer_retention_rate": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 99, "OND-24": 100, "JFM-25": 95, "AMJ-25": 92
+      }
+    },
+    "churn_rate": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 0, "OND-24": 0, "JFM-25": 0, "AMJ-25": 6
+      },
+      "latest_months": {
+        "Jan-25": 0, "Feb-25": 0, "Mar-25": 0, "Apr-25": 4, "May-25": 0, "Jun-25": 1
+      }
+    },
+    "customer_churn": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 1, "OND-24": 0, "JFM-25": 5, "AMJ-25": 8
+      }
+    },
+    "churn_rate_ttm": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 0, "OND-24": 0, "JFM-25": -1, "AMJ-25": -6
+      },
+      "latest_months": {
+        "Jan-25": 0, "Feb-25": 0, "Mar-25": 0, "Apr-25": 0, "May-25": -1, "Jun-25": -1
+      }
+    },
+    "customer_churn_ttm": {
+      "unit": "percentage",
+      "latest_quarters": {
+        "JAS-24": 1, "OND-24": 1, "JFM-25": 6, "AMJ-25": 15
+      },
+      "latest_months": {
+        "Jan-25": 1, "Feb-25": 1, "Mar-25": 1, "Apr-25": 3, "May-25": 6, "Jun-25": 6
+      }
+    }
+  },
+  "customer_metrics": {
+    "average_arr_per_customer": {
+      "unit": "USD thousands",
+      "latest_quarters": {
+        "JAS-24": 243, "OND-24": 234, "JFM-25": 236, "AMJ-25": 247
+      },
+      "latest_months": {
+        "Jan-25": 236, "Feb-25": 236, "Mar-25": 236, "Apr-25": 246, "May-25": 246, "Jun-25": 247
+      }
+    },
+    "customer_count_dynamics": {
+      "opening_customer_count": {
+        "unit": "count",
+        "latest_quarters": {
+          "JAS-24": 79, "OND-24": 82, "JFM-25": 86, "AMJ-25": 83
+        },
+        "latest_months": {
+          "Jan-25": 86, "Feb-25": 83, "Mar-25": 83, "Apr-25": 78, "May-25": 78, "Jun-25": 77
+        }
+      },
+      "new_customers": {
+        "unit": "count",
+        "latest_quarters": {
+          "JAS-24": 4, "OND-24": 4, "JFM-25": 1, "AMJ-25": 1
+        },
+        "latest_months": {
+          "Jan-25": 1, "Feb-25": 0, "Mar-25": 0, "Apr-25": 1, "May-25": 0, "Jun-25": 0
+        }
+      },
+      "churned_customers": {
+        "unit": "count",
+        "latest_quarters": {
+          "JAS-24": 1, "OND-24": 0, "JFM-25": 4, "AMJ-25": 7
+        },
+        "latest_months": {
+          "Jan-25": 1, "Feb-25": 3, "Mar-25": 0, "Apr-25": 6, "May-25": 0, "Jun-25": 1
+        }
+      },
+      "closing_customer_count": {
+        "unit": "count",
+        "latest_quarters": {
+          "JAS-24": 82, "OND-24": 86, "JFM-25": 83, "AMJ-25": 77
+        },
+        "latest_months": {
+          "Jan-25": 86, "Feb-25": 83, "Mar-25": 83, "Apr-25": 78, "May-25": 78, "Jun-25": 77
+        }
+      }
+    }
+  },
+  "individual_customer_analysis": {
+    "top_customers_signed_arr": {
+      "customer_2": {
+        "license_revenue": {
+          "latest_months": {
+            "Jan-25": 0.06, "Feb-25": 0.06, "Mar-25": 0.06, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+          },
+          "status": "Churned in Apr-25"
+        },
+        "total_revenue": {
+          "latest_months": {
+            "Jan-25": 0.06, "Feb-25": 0.06, "Mar-25": 0.06, "Apr-25": 0.00, "May-25": 0.00, "Jun-25": 0.00
+          }
+        }
+      },
+      "customer_4": {
+        "license_revenue": {
+          "latest_months": {
+            "Jan-25": 0.30, "Feb-25": 0.30, "Mar-25": 0.30, "Apr-25": 0.11, "May-25": 0.11, "Jun-25": 0.11
+          },
+          "status": "Contracted in Apr-25"
+        },
+        "total_revenue": {
+          "latest_months": {
+            "Jan-25": 0.30, "Feb-25": 0.30, "Mar-25": 0.30, "Apr-25": 0.11, "May-25": 0.11, "Jun-25": 0.11
+          }
+        }
+      },
+      "customer_5": {
+        "license_revenue": {
+          "latest_months": {
+            "Jan-25": 0.37, "Feb-25": 0.37, "Mar-25": 0.37, "Apr-25": 0.37, "May-25": 0.37, "Jun-25": 0.37
+          },
+          "status": "Stable"
+        },
+        "usage_revenue": {
+          "latest_months": {
+            "Jan-25": 0.16, "Feb-25": 0.16, "Mar-25": 0.16, "Apr-25": 0.18, "May-25": 0.18, "Jun-25": 0.18
+          },
+          "status": "Slight increase in usage"
+        },
+        "total_revenue": {
+          "latest_months": {
+            "Jan-25": 0.53, "Feb-25": 0.53, "Mar-25": 0.53, "Apr-25": 0.55, "May-25": 0.55, "Jun-25": 0.55
+          }
+        }
+      }
+    }
+  },
+  "business_performance_insights": {
+    "signed_vs_live_arr_comparison": {
+      "signed_arr_jun_25": 26.72,
+      "live_arr_jun_25": 20.26,
+      "conversion_rate": "75.8%",
+      "interpretation": "Strong contract backlog with 24.2% not yet live"
+    },
+    "arr_growth_trajectory": {
+      "total_growth_jan21_jun25": {
+        "starting_arr": 1.14,
+        "ending_arr": 26.72,
+        "growth_multiple": "23.4x",
+        "period": "4.5 years"
+      },
+      "recent_quarter_trends": {
+        "q2_24_to_q2_25": {
+          "starting_arr": 27.04,
+          "ending_arr": 26.72,
+          "change": -0.32,
+          "trend": "Slight decline (-1.2%)"
+        }
+      }
+    },
+    "product_portfolio_evolution": {
+      "dominant_product": {
+        "product": "Product 4",
+        "current_share": "73.4% of signed ARR",
+        "value": "$19.6M"
+      },
+      "emerging_products": [
+        {
+          "product": "Product 9",
+          "launch_quarter": "AMJ-25",
+          "current_value": "$0.26M",
+          "growth_potential": "New product scaling"
+        },
+        {
+          "product": "Product 8",
+          "launch_quarter": "AMJ-25",
+          "current_value": "$0.43M",
+          "growth_potential": "New product scaling"
+        }
+      ],
+      "mature_products": [
+        {
+          "product": "Product 3",
+          "current_value": "$2.27M",
+          "trend": "Stable performer"
+        },
+        {
+          "product": "Product 1",
+          "current_value": "$1.94M",
+          "trend": "Slight decline"
+        }
+      ]
+    },
+    "customer_health_indicators": {
+      "concentration_risk": {
+        "high_value_customers": "24% of ARR from $500K+ customers",
+        "mid_tier_strength": "45% of ARR from $200-499K customers",
+        "small_customer_dependency": "Only 1% from <$100K customers"
+      },
+      "retention_trends": {
+        "ndr_decline": "NDR decreased from 107% to 97% (still healthy)",
+        "customer_churn_increase": "Customer churn increased to 8% (concern)",
+        "arr_churn_manageable": "ARR churn at -6% TTM"
+      },
+      "customer_base_evolution": {
+        "count_stability": "Customer count stable around 77-86",
+        "arpc_improvement": "ARPC increased to $247K",
+        "quality_over_quantity": "Focus on higher-value customers"
+      }
+    }
+  },
+  "strategic_insights": {
+    "contract_execution": {
+      "signed_to_live_gap": "26.7M signed vs 20.3M live = $6.4M implementation backlog",
+      "implications": "Strong sales pipeline with implementation capacity needed"
+    },
+    "revenue_predictability": {
+      "license_dominance": "71% license vs 29% usage = high predictability",
+      "product_concentration": "73% revenue from Product 4 = concentration risk",
+      "customer_diversification": "Good distribution across customer tiers"
+    },
+    "growth_challenges": {
+      "recent_plateau": "Signed ARR declining slightly in recent quarters",
+      "retention_pressure": "Increasing customer churn needs attention",
+      "implementation_capacity": "$6.4M backlog suggests delivery constraints"
+    },
+    "opportunities": {
+      "new_product_launch": "Products 8 & 9 launched successfully",
+      "customer_expansion": "Strong base for upselling to existing customers",
+      "market_position": "Premium positioning with $247K ARPC"
+    }
+  }
+}
+]

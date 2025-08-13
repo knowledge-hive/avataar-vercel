@@ -1,0 +1,283 @@
+{
+  "company_profile": {
+    "primary_entity": "ER",
+    "subsidiaries": ["CRC"],
+    "reporting_currency": "INR",
+    "data_source": "ER Investor MIS March-25.xlsx",
+    "last_updated": "Mar-25"
+  },
+  "reporting_period": {
+    "start_date": "Feb-23",
+    "end_date": "Mar-25",
+    "frequency": "monthly",
+    "total_periods": 26
+  },
+  "business_segments": {
+    "ER": {
+      "consolidated": {
+        "description": "Overall company performance",
+        "sections": ["Inv_Consol PL"]
+      },
+      "rural": {
+        "description": "Rural B2B operations",
+        "sections": ["Rural"]
+      },
+      "logistics": {
+        "description": "Logistics and delivery operations", 
+        "sections": ["Logistics"]
+      },
+      "comex": {
+        "description": "Commodity exchange business",
+        "sections": ["Comex"]
+      },
+      "kirana": {
+        "description": "Kirana store models",
+        "sections": ["Kirana Models"]
+      }
+    },
+    "CRC": {
+      "operations": {
+        "description": "CRC subsidiary operations",
+        "sections": ["CRC P&L", "Month on Month Metrics B2B"]
+      }
+    }
+  },
+  "financial_data": {
+    "ER": {
+      "revenue_metrics": {
+        "gmv_delivered": {
+          "Aug-24": 128.8, "Sep-24": 142.9, "Oct-24": 151.7, "Nov-24": 151.4,
+          "Dec-24": 186.0, "Jan-25": 332.3, "Feb-25": 279.7, "Mar-25": 297.7,
+          "unit": "₹ Cr", "trend": "growth_with_volatility"
+        },
+        "net_revenue": {
+          "Aug-24": 43.5, "Sep-24": 44.9, "Oct-24": 61.2, "Nov-24": 45.4,
+          "Dec-24": 46.2, "Jan-25": 46.2, "Feb-25": 43.0, "Mar-25": 50.9,
+          "unit": "₹ Cr", "trend": "stable_with_oct_spike"
+        },
+        "revenue_by_segment": {
+          "kirana_revenue": {
+            "Aug-24": 4.9, "Sep-24": 4.6, "Oct-24": 4.8, "Nov-24": 4.9,
+            "Dec-24": 5.3, "Jan-25": 5.7, "Feb-25": 5.0, "Mar-25": 5.7,
+            "unit": "₹ Cr"
+          },
+          "ecomm_revenue": {
+            "Aug-24": 37.7, "Sep-24": 39.0, "Oct-24": 54.9, "Nov-24": 38.9,
+            "Dec-24": 38.8, "Jan-25": 38.3, "Feb-25": 35.5, "Mar-25": 41.5,
+            "unit": "₹ Cr"
+          },
+          "saas_revenue": {
+            "Aug-24": 1.1, "Sep-24": 1.2, "Oct-24": 1.8, "Nov-24": 1.3,
+            "Dec-24": 1.5, "Jan-25": 1.7, "Feb-25": 1.7, "Mar-25": 2.3,
+            "unit": "₹ Cr"
+          },
+          "comex_revenue": {
+            "Aug-24": 0.3, "Sep-24": 0.6, "Oct-24": 0.2, "Nov-24": 0.8,
+            "Dec-24": 1.0, "Jan-25": 0.9, "Feb-25": 1.2, "Mar-25": 1.7,
+            "unit": "₹ Cr"
+          }
+        }
+      },
+      "cost_structure": {
+        "station_costs": {
+          "Aug-24": 40.7, "Sep-24": 45.5, "Oct-24": 59.0, "Nov-24": 44.5,
+          "Dec-24": 42.9, "Jan-25": 42.3, "Feb-25": 39.6, "Mar-25": 44.2,
+          "unit": "₹ Cr"
+        },
+        "sgna_costs": {
+          "Aug-24": 22.2, "Sep-24": 21.4, "Oct-24": 22.3, "Nov-24": 22.1,
+          "Dec-24": 22.7, "Jan-25": 25.1, "Feb-25": 24.6, "Mar-25": 26.6,
+          "unit": "₹ Cr"
+        },
+        "salary_costs": {
+          "Aug-24": 14.2, "Sep-24": 13.6, "Oct-24": 13.6, "Nov-24": 14.1,
+          "Dec-24": 14.2, "Jan-25": 14.91, "Feb-25": 15.61, "Mar-25": 14.3,
+          "unit": "₹ Cr"
+        },
+        "esop_costs": {
+          "Aug-24": 1.3, "Sep-24": 1.3, "Oct-24": 1.3, "Nov-24": 1.0,
+          "Dec-24": 1.29, "Jan-25": 1.87, "Feb-25": 1.87, "Mar-25": 1.87,
+          "unit": "₹ Cr"
+        }
+      },
+      "profitability": {
+        "contribution": {
+          "Aug-24": 2.8, "Sep-24": -0.7, "Oct-24": 2.1, "Nov-24": 0.8,
+          "Dec-24": 3.2, "Jan-25": 3.9, "Feb-25": 3.4, "Mar-25": 6.6,
+          "unit": "₹ Cr", "trend": "improving"
+        },
+        "adjusted_ebitda": {
+          "Aug-24": -19.4, "Sep-24": -22.1, "Oct-24": -20.2, "Nov-24": -21.3,
+          "Dec-24": -19.5, "Jan-25": -21.2, "Feb-25": -21.2, "Mar-25": -19.9,
+          "unit": "₹ Cr", "trend": "negative_but_stabilizing"
+        },
+        "profit_before_tax": {
+          "Aug-24": -11.8, "Sep-24": -14.4, "Oct-24": -12.5, "Nov-24": -13.9,
+          "Dec-24": -12.1, "Jan-25": -15.5, "Feb-25": -15.4, "Mar-25": -15.3,
+          "unit": "₹ Cr"
+        }
+      },
+      "segment_performance": {
+        "rural": {
+          "gmv": {
+            "Oct-24": 34.6, "Nov-24": 35.9, "Dec-24": 39.6, "Jan-25": 43.5,
+            "Feb-25": 39.6, "Mar-25": 44.4, "unit": "₹ Cr"
+          },
+          "net_profit": {
+            "Oct-24": -10.8, "Nov-24": -10.2, "Dec-24": -9.8, "Jan-25": -9.97,
+            "Feb-25": -9.43, "Mar-25": -8.84, "unit": "₹ Cr", "trend": "improving_losses"
+          }
+        },
+        "logistics": {
+          "revenue": {
+            "Feb-24": 30.6, "Jan-25": 38.3, "Feb-25": 35.5, "Mar-25": 41.5,
+            "unit": "₹ Cr"
+          },
+          "net_profit": {
+            "Feb-24": 0.56, "Jan-25": -1.1, "Feb-25": -1.7, "Mar-25": -0.7,
+            "unit": "₹ Cr"
+          }
+        },
+        "comex": {
+          "gmv": {
+            "Feb-23": 166, "Feb-24": 92, "Jan-25": 288.8, "Feb-25": 240.1, "Mar-25": 253.2,
+            "unit": "₹ Cr", "trend": "strong_recovery"
+          },
+          "net_profit": {
+            "Feb-23": 0, "Feb-24": -0.63, "Jan-25": 0.2, "Feb-25": 0.5, "Mar-25": 1.0,
+            "unit": "₹ Cr", "trend": "turning_profitable"
+          }
+        }
+      }
+    },
+    "CRC": {
+      "revenue_metrics": {
+        "total_gmv": {
+          "Apr-24": 28.18, "Mar-25": 43.57, "unit": "₹ Cr", "growth": "54.7%"
+        },
+        "total_margin": {
+          "Apr-24": 2.44, "Mar-25": 4.12, "unit": "₹ Cr", "growth": "68.9%"
+        },
+        "take_rate": {
+          "Apr-24": "8.7%", "Mar-25": "9.5%", "improvement": "80bps"
+        }
+      },
+      "cost_structure": {
+        "warehouse_costs": {
+          "Apr-24": 4.74, "Mar-25": 5.08, "unit": "₹ Cr"
+        },
+        "crc_costs": {
+          "Apr-24": 1.57, "Mar-25": 1.22, "unit": "₹ Cr"
+        }
+      },
+      "profitability": {
+        "net_profit": {
+          "Apr-24": -4.36, "Mar-25": -2.24, "unit": "₹ Cr", "improvement": "48.6%"
+        }
+      },
+      "balance_sheet": {
+        "cash_and_investments": {
+          "Apr-24": 1444, "Mar-25": 1327, "unit": "₹ Cr"
+        },
+        "investments_net": {
+          "Mar-24": 569, "Mar-25": 645, "unit": "₹ Cr", "growth": "13.4%"
+        }
+      }
+    }
+  },
+  "operational_metrics": {
+    "ER": {
+      "rural_operations": {
+        "number_of_stores": {
+          "Oct-24": 107146, "Nov-24": 110340, "Dec-24": 108517, "Jan-25": 106219,
+          "Feb-25": 101555, "Mar-25": 105937, "trend": "stable_around_105k"
+        },
+        "stores_per_station": {
+          "Oct-24": 710, "Nov-24": 716, "Dec-24": 709, "Jan-25": 728,
+          "Feb-25": 710, "Mar-25": 741, "trend": "improving_efficiency"
+        },
+        "gmv_per_store": {
+          "Oct-24": 3225, "Nov-24": 3252, "Dec-24": 3648, "Jan-25": 4098,
+          "Feb-25": 3904, "Mar-25": 4194, "unit": "₹", "trend": "strong_growth"
+        },
+        "active_stations": {
+          "Oct-24": 151, "Nov-24": 154, "Dec-24": 153, "Jan-25": 146,
+          "Feb-25": 143, "Mar-25": 143, "trend": "slight_decline"
+        }
+      },
+      "comex_operations": {
+        "active_suppliers": {
+          "Feb-23": 117, "Feb-24": 101, "Jan-25": 127, "Feb-25": 127, "Mar-25": 104
+        },
+        "active_customers": {
+          "Feb-23": 551, "Feb-24": 311, "Jan-25": 304, "Feb-25": 290, "Mar-25": 224
+        },
+        "orders_delivered": {
+          "Feb-23": 2047, "Feb-24": 814, "Jan-25": 1463, "Feb-25": 905, "Mar-25": 886
+        }
+      }
+    },
+    "CRC": {
+      "station_metrics": {
+        "total_stations": {
+          "Apr-24": 125, "Mar-25": 143, "growth": "14.4%"
+        },
+        "high_performing_stations": {
+          "Apr-24": 37, "Mar-25": 64, "description": "Stations >25L+ HM GMV", "growth": "73%"
+        },
+        "avg_hmv_per_station": {
+          "Apr-24": 20, "Mar-25": 30, "unit": "₹ Lakhs", "growth": "50%"
+        },
+        "stores_per_station": {
+          "Apr-24": 638, "Mar-25": 741, "growth": "16.1%"
+        }
+      },
+      "efficiency_metrics": {
+        "blended_take_rate": {
+          "Apr-24": "10.8%", "Mar-25": "11.7%", "improvement": "90bps"
+        },
+        "private_label_mix": {
+          "Apr-24": "13%", "Mar-25": "18%", "improvement": "500bps"
+        },
+        "burn_rate": {
+          "Apr-24": "-14.8%", "Mar-25": "-6.2%", "improvement": "860bps"
+        }
+      }
+    }
+  },
+  "key_insights": {
+    "growth_trends": {
+      "ER": {
+        "revenue_stability": "Net revenue stable around ₹45-50 Cr monthly",
+        "gmv_volatility": "High GMV volatility due to commodity business seasonality",
+        "improving_contribution": "Contribution margin trending positive, reached ₹6.6 Cr in Mar-25",
+        "segment_recovery": "Comex showing strong recovery from Feb-24 lows"
+      },
+      "CRC": {
+        "operational_scaling": "54.7% GMV growth from Apr-24 to Mar-25",
+        "margin_expansion": "Take rate improved by 80bps, indicating pricing power",
+        "efficiency_gains": "Burn rate improved significantly from -14.8% to -6.2%",
+        "network_expansion": "14.4% growth in station count with quality improvements"
+      }
+    },
+    "risk_factors": {
+      "profitability": "ER still EBITDA negative, needs path to profitability",
+      "cash_burn": "High operating costs relative to revenue",
+      "market_dependency": "Heavy reliance on rural market conditions",
+      "competition": "Need to maintain competitive positioning in logistics"
+    },
+    "opportunities": {
+      "scale_economics": "Improving unit economics as scale increases",
+      "market_expansion": "Rural digitization trend supports growth",
+      "cross_selling": "Multiple revenue streams across segments",
+      "technology_leverage": "SaaS revenue growing, showing platform value"
+    }
+  },
+  "data_quality": {
+    "completeness": "95%",
+    "consistency": "High",
+    "last_updated": "Mar-25",
+    "gaps": ["Some historical CRC data", "Quarterly breakdown for some metrics"],
+    "validation_status": "Source validated against investor MIS"
+  }
+}

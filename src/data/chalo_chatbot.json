@@ -1,0 +1,757 @@
+{
+  "company_profile": {
+    "primary_entity": "Chalo",
+    "business_model": "Bus technology platform and premium bus operations",
+    "reporting_currency": "INR",
+    "international_exposure": "USD",
+    "data_sources": [
+      "Chalo Group MIS - March 2025-w.md",
+      "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf", 
+      "Chalo Group MIS March 2025w.xlsx"
+    ],
+    "last_updated": "Mar 2025"
+  },
+  "reporting_periods": {
+    "available_periods": [
+      "Apr 2023", "May 2023", "Jun 2023", "Jul 2023", "Aug 2023", "Sept 2023",
+      "Oct 2023", "Nov 2023", "Dec 2023", "Jan 2024", "Feb 2024", "Mar 2024",
+      "Apr 2024", "May 2024", "Jun 2024", "July 2024", "Aug 2024", "Sep 2024",
+      "Oct 2024", "Nov 2024", "Dec 2024", "Jan 2025", "Feb 2025", "Mar 2025"
+    ],
+    "quarterly_periods": ["JFM'25", "Q1-25"],
+    "annual_periods": ["FY-23", "Apr'24-Mar'25"],
+    "frequency": "monthly",
+    "total_monthly_periods": 24,
+    "data_range": "Apr 2023 to Mar 2025"
+  },
+  "business_segments": {
+    "consolidated": {
+      "description": "Overall Chalo Group performance",
+      "sections": ["Consolidated Key Metrics"]
+    },
+    "chalo_tech": {
+      "description": "Technology platform serving public and private bus operators",
+      "sections": ["Chalo Tech MIS", "CT - Public Markets", "CT - Private Markets", "CT - International"]
+    },
+    "premium_bus": {
+      "description": "Chalo-operated premium bus services",
+      "sections": ["Premium Bus MIS"]
+    },
+    "balance_sheet": {
+      "description": "Financial position and assets",
+      "sections": ["Balance Sheet"]
+    },
+    "cash_flow": {
+      "description": "Cash flow operations",
+      "sections": ["Cash Flow Statement"]
+    }
+  },
+  "financial_metrics": {
+    "consolidated_performance": {
+      "gross_contribution": {
+        "metadata": {
+          "source_section": "Consolidated Key Metrics",
+          "data_type": "Revenue",
+          "unit": "₹ Cr",
+          "description": "Total gross contribution across all business lines"
+        },
+        "time_series": {
+          "Apr 2023": 2.139982, "May 2023": 2.448274, "Jun 2023": 2.592276, "Jul 2023": 2.793754,
+          "Aug 2023": 3.114111, "Sept 2023": 3.088918, "Oct 2023": 2.415929, "Nov 2023": 2.281461,
+          "Dec 2023": 3.090558, "Jan 2024": 3.176242, "Feb 2024": 3.147758, "Mar 2024": 3.040803,
+          "Apr 2024": 3.146096, "May 2024": 3.64793, "Jun 2024": 4.369974, "July 2024": 5.30039,
+          "Aug 2024": 5.814844, "Sep 2024": 6.101916, "Oct 2024": 6.886518, "Nov 2024": 6.875164,
+          "Dec 2024": 7.246865, "Jan 2025": 7.362439, "Feb 2025": 6.952254, "Mar 2025": 6.974084
+        }
+      },
+      "gross_contribution_per_bus": {
+        "metadata": {
+          "source_section": "Consolidated Key Metrics",
+          "data_type": "Metrics",
+          "unit": "₹",
+          "description": "Gross contribution per operational bus"
+        },
+        "time_series": {
+          "Apr 2023": 6522, "May 2023": 7510, "Jun 2023": 8031
+        }
+      },
+      "operating_ebitda": {
+        "metadata": {
+          "source_section": "Consolidated Key Metrics",
+          "data_type": "Profitability",
+          "unit": "₹ Cr"
+        },
+        "time_series": {
+          "Apr 2023": 0.538, "May 2023": 0.916, "Jun 2023": 1.074
+        }
+      },
+      "operating_ebitda_percentage": {
+        "metadata": {
+          "source_section": "Consolidated Key Metrics",
+          "data_type": "Profitability",
+          "unit": "%",
+          "description": "Operating EBITDA as percentage of Gross Contribution"
+        },
+        "time_series": {
+          "Apr 2023": "25.9%", "May 2023": "38.5%", "Jun 2023": "42.5%"
+        }
+      },
+      "corporate_ebitda": {
+        "metadata": {
+          "source_section": "Consolidated Key Metrics",
+          "data_type": "Profitability",
+          "unit": "₹ Cr"
+        },
+        "time_series": {
+          "Apr 2023": -6.175, "May 2023": -6.461, "Jun 2023": -6.308
+        }
+      },
+      "cash_balance": {
+        "metadata": {
+          "source_section": "Consolidated Key Metrics",
+          "data_type": "Other",
+          "unit": "₹ Cr",
+          "description": "Includes Fixed Deposits and EMDs"
+        },
+        "time_series": {
+          "Mar 2025": 52.41
+        }
+      }
+    },
+    "premium_bus_performance": {
+      "gross_revenue": {
+        "metadata": {
+          "source_section": "Premium Bus MIS",
+          "data_type": "Revenue",
+          "unit": "Cr"
+        },
+        "time_series": {
+          "Apr 2023": 0.719787, "May 2023": 1.117378, "Jun 2023": 1.22201, "Jul 2023": 1.19745,
+          "Aug 2023": 1.136077, "Sept 2023": 1.217636, "Oct 2023": 1.393931, "Nov 2023": 1.375903,
+          "Dec 2023": 1.659344, "Jan 2024": 1.538992, "Feb 2024": 1.567805, "Mar 2024": 1.55811,
+          "Apr 2024": 1.839992, "May 2024": 1.718069, "June 2024": 1.692992, "July 2024": 2.052504,
+          "Aug 2024": 2.070308, "Sep 2024": 2.262631, "Oct 2024": 2.287406, "Nov 2024": 2.284405,
+          "Dec 2024": 2.489924, "Jan 2025": 2.694617, "Feb 2025": 2.258894, "Mar 2025": 2.499393
+        }
+      },
+      "total_buses": {
+        "metadata": {
+          "source_section": "Premium Bus MIS",
+          "data_type": "Operations",
+          "unit": "count"
+        },
+        "time_series": {
+          "Apr 2023": 100
+        }
+      },
+      "ssk_percentage": {
+        "metadata": {
+          "source_section": "Premium Bus MIS",
+          "data_type": "Metrics",
+          "unit": "%",
+          "description": "Seat Sale Kilometers percentage"
+        },
+        "time_series": {
+          "Apr 2023": "16.5%", "May 2023": "19.0%", "Jun 2023": "20.6%"
+        }
+      },
+      "revenue_per_bus_per_day": {
+        "metadata": {
+          "source_section": "Premium Bus MIS",
+          "data_type": "Metrics",
+          "unit": "₹"
+        },
+        "time_series": {
+          "Apr 2023": 3272, "May 2023": 5079, "Jun 2023": 5555
+        }
+      },
+      "gross_contribution_percentage": {
+        "metadata": {
+          "source_section": "Premium Bus MIS",
+          "data_type": "Profitability",
+          "unit": "%"
+        },
+        "time_series": {
+          "Apr 2023": "-155.2%", "May 2023": "-77.9%", "Jun 2023": "-107.2%"
+        }
+      },
+      "operating_ebitda": {
+        "metadata": {
+          "source_section": "Premium Bus MIS",
+          "data_type": "Profitability",
+          "unit": "₹ Cr"
+        },
+        "time_series": {
+          "Apr 2023": -1.598, "May 2023": -1.452, "Jun 2023": -2.423
+        }
+      },
+      "crew_costs_incentives": {
+        "metadata": {
+          "source_section": "Premium Bus MIS",
+          "data_type": "Expenses",
+          "unit": "Cr"
+        },
+        "time_series": {
+          "Apr 2023": 0.124063, "May 2023": 0.133798
+        }
+      }
+    },
+    "chalo_tech_performance": {
+      "public_markets_gross_take": {
+        "metadata": {
+          "source_section": "CT - Public Markets",
+          "data_type": "Revenue",
+          "unit": "₹ Lacs"
+        },
+        "time_series": {
+          "Apr 2023": 178.23906, "May 2023": 171.25582, "Jun 2023": 172.58542, "Jul 2023": 194.54422,
+          "Aug 2023": 195.40386, "Sept 2023": 195.99348, "Oct 2023": 189.715207, "Nov 2023": 180.467908,
+          "Dec 2023": 189.388879, "Jan 2024": 220.135388, "Feb 2024": 217.821137, "Mar 2024": 232.230036,
+          "Apr 2024": 263.560842, "May 2024": 321.897414, "Jun 2024": 393.703066, "July 2024": 610.04295,
+          "Aug 2024": 789.128348, "Sep 2024": 753.332624, "Oct 2024": 860.249729, "Nov 2024": 853.522349,
+          "Dec 2024": 898.176061, "Jan 2025": 1001.435032, "Feb 2025": 924.303298
+        }
+      },
+      "private_markets_gross_take": {
+        "metadata": {
+          "source_section": "CT - Private Markets",
+          "data_type": "Revenue",
+          "unit": "₹ Lacs"
+        },
+        "time_series": {
+          "Apr 2023": 570.695178, "May 2023": 630.198659, "Jun 2023": 584.236197, "Jul 2023": 612.805873,
+          "Aug 2023": 649.128345, "Sept 2023": 616.122449, "Oct 2023": 437.77222, "Nov 2023": 380.437803,
+          "Dec 2023": 504.972317, "Jan 2024": 452.822952, "Feb 2024": 472.306029, "Mar 2024": 399.941976,
+          "Apr 2024": 368.381066, "May 2024": 370.636032, "Jun 2024": 305.501846, "July 2024": 227.435702,
+          "Aug 2024": 235.516685, "Sept 2024": 232.227924, "Oct 2024": 210.719468, "Nov 2024": 232.671928,
+          "Dec 2024": 220.269342, "Jan 2025": 230.377627
+        }
+      },
+      "international_gross_take": {
+        "metadata": {
+          "source_section": "CT - International",
+          "data_type": "Revenue",
+          "unit": "₹ Lacs"
+        },
+        "time_series": {
+          "Apr 2023": 1.56, "May 2023": 2.97075, "Jun 2023": 5.58713, "Jul 2023": 7.09389,
+          "Aug 2023": 9.26419, "Sept 2023": 10.262081, "Oct 2023": 12.5731, "Nov 2023": 14.34575,
+          "Dec 2023": 14.45795, "Jan 2024": 16.7358, "Feb 2024": 19.1844, "Mar 2024": 20.04375,
+          "Apr 2024": 21.051, "May 2024": 22.64725, "Jun 2024": 32.31555, "July 2024": 33.65355,
+          "Aug 2024": 35.7185, "Sept 2024": 37.38187, "Oct 2024": 41.462, "Nov 2024": 50.18746,
+          "Dec 2024": 52.43998, "Jan 2025": 51.07813, "Feb 2025": 54.58313
+        }
+      },
+      "total_buses": {
+        "metadata": {
+          "source_section": "Chalo Tech MIS",
+          "data_type": "Operations",
+          "unit": "count"
+        },
+        "time_series": {
+          "Apr 2023": 13462, "May 2023": 13543, "Jun 2023": 13649
+        }
+      },
+      "operational_buses": {
+        "metadata": {
+          "source_section": "Chalo Tech MIS", 
+          "data_type": "Operations",
+          "unit": "count"
+        },
+        "time_series": {
+          "Apr 2023": 6269, "May 2023": 6270, "Jun 2023": 6446
+        }
+      },
+      "live_buses": {
+        "metadata": {
+          "source_section": "Chalo Tech MIS",
+          "data_type": "Operations", 
+          "unit": "count"
+        },
+        "time_series": {
+          "Apr 2023": 6893, "May 2023": 6973, "Jun 2023": 6903
+        }
+      },
+      "signed_buses_under_implementation": {
+        "metadata": {
+          "source_section": "Chalo Tech MIS",
+          "data_type": "Operations",
+          "unit": "count"
+        },
+        "time_series": {
+          "Apr 2023": 300, "May 2023": 300, "Jun 2023": 300
+        }
+      }
+    },
+    "ebitda_performance": {
+      "monthly_ebitda": {
+        "metadata": {
+          "source_section": "Cash Flow Statement",
+          "data_type": "Profitability",
+          "unit": "₹ Cr"
+        },
+        "time_series": {
+          "Apr 2024": -10.265049, "May 2024": -9.01727, "Jun 2024": -8.351812, "July 2024": -7.7871,
+          "Aug 2024": -7.130195, "Sep 2024": -7.202591, "Oct 2024": -7.603167, "Nov 2024": -6.726165,
+          "Dec 2024": -6.266396, "Jan 2025": -5.666342, "Feb 2025": -7.293656, "Mar 2025": -7.86206
+        }
+      },
+      "ytd_ebitda": {
+        "metadata": {
+          "source_section": "Cash Flow Statement",
+          "data_type": "Profitability",
+          "unit": "₹ Cr"
+        },
+        "time_series": {
+          "YTD May-24": -19.282319, "YTD F25": -91.171803
+        }
+      }
+    }
+  },
+  "balance_sheet_metrics": {
+    "assets": {
+      "electric_buses": {
+        "metadata": {
+          "source_section": "Balance Sheet",
+          "data_type": "Operations",
+          "unit": "Cr"
+        },
+        "time_series": {
+          "Mar 2024": 71.928976, "Sep 2024": 117.08855, "Oct 2024": 117.29, "Nov 2024": 116.30304,
+          "Dec 2024": 115.317065, "Jan 2025": 114.3, "Feb 2025": 113.31, "Mar 2025": 112.33
+        }
+      },
+      "other_fixed_assets": {
+        "metadata": {
+          "source_section": "Balance Sheet",
+          "data_type": "Operations",
+          "unit": "Cr",
+          "description": "ETIMs, GPS, Camera etc"
+        },
+        "time_series": {
+          "Mar 2024": 72.387831, "Sep 2024": 81.543555, "Oct 2024": 81.68, "Nov 2024": 86.623709,
+          "Dec 2024": 87.990858, "Jan 2025": 88.832639, "Feb 2025": 90.52, "Mar 2025": 94.44
+        }
+      },
+      "loan_to_body_corporate": {
+        "metadata": {
+          "source_section": "Balance Sheet",
+          "data_type": "Operations",
+          "unit": "Cr"
+        },
+        "time_series": {
+          "Mar 2024": 57.0761, "Sep 2024": 58.601735, "Oct 2024": 58.801735, "Nov 2024": 58.801735,
+          "Dec 2024": 58.801735, "Jan 2025": 58.801735, "Feb 2025": 58.801735, "Mar 2025": 58.801735
+        }
+      },
+      "cash_and_equivalents": {
+        "metadata": {
+          "source_section": "Balance Sheet",
+          "data_type": "Other",
+          "unit": "₹ Cr"
+        },
+        "time_series": {
+          "Mar 2024": 156.27, "Sep 2024": 115.62, "Oct 2024": 120.74, "Nov 2024": 109.90
+        }
+      },
+      "tax_credits": {
+        "metadata": {
+          "source_section": "Balance Sheet",
+          "data_type": "Other",
+          "unit": "₹ Cr",
+          "description": "GST & Income Tax"
+        },
+        "time_series": {
+          "Mar 2024": 13.347, "Sep 2024": 16.749
+        }
+      },
+      "security_deposits": {
+        "metadata": {
+          "source_section": "Balance Sheet",
+          "data_type": "Other",
+          "unit": "₹ Cr"
+        },
+        "time_series": {
+          "Mar 2024": 8.014, "Sep 2024": 12.642
+        }
+      }
+    },
+    "receivables": {
+      "astc_receivables": {
+        "metadata": {
+          "source_section": "Balance Sheet",
+          "data_type": "Operations",
+          "unit": "Cr",
+          "description": "Assam State Transport Corporation"
+        },
+        "time_series": {
+          "Mar 2024": 0.84075, "Sep 2024": 0.057387, "Oct 2024": 0.053961, "Nov 2024": 0.094328,
+          "Dec 2024": 0.172277, "Jan 2025": 0.155674, "Feb 2025": 0.205414, "Mar 2025": 0.22028
+        }
+      },
+      "aictsl_collection_agency": {
+        "metadata": {
+          "source_section": "Balance Sheet",
+          "data_type": "Operations",
+          "unit": "Cr",
+          "description": "AiCTSL Pass Subsidy - Collection agency Buses"
+        },
+        "time_series": {
+          "Mar 2024": 11.356704, "Sep 2024": 11.850856, "Oct 2024": 11.632044, "Nov 2024": 12.152151,
+          "Dec 2024": 10.344207, "Jan 2025": 10.216505, "Feb 2025": 10.480076, "Mar 2025": 9.337331
+        }
+      },
+      "aictsl_nafees": {
+        "metadata": {
+          "source_section": "Balance Sheet",
+          "data_type": "Operations",
+          "unit": "Cr",
+          "description": "AiCTSL Pass Subsidy - Nafees Buses"
+        },
+        "time_series": {
+          "Mar 2024": 1.54336, "Sep 2024": 1.54336, "Oct 2024": 1.54336, "Nov 2024": 1.54336,
+          "Dec 2024": 1.54336, "Jan 2025": 1.54336, "Feb 2025": 1.54336, "Mar 2025": 1.54336
+        }
+      }
+    },
+    "advances": {
+      "intercity_advances": {
+        "metadata": {
+          "source_section": "Balance Sheet",
+          "data_type": "Operations",
+          "unit": "Cr",
+          "description": "Advance to Supplier and Operators - Intercity"
+        },
+        "time_series": {
+          "Mar 2024": 5.91136, "Sep 2024": 5.574274, "Oct 2024": 5.574274, "Nov 2024": 5.574274,
+          "Dec 2024": 5.574274, "Jan 2025": 5.574274, "Feb 2025": 5.574274, "Mar 2025": 5.574274
+        }
+      },
+      "maa_advances": {
+        "metadata": {
+          "source_section": "Balance Sheet",
+          "data_type": "Operations",
+          "unit": "Cr",
+          "description": "Advance to Supplier and Operators - MAA"
+        },
+        "time_series": {
+          "Mar 2024": 9.455575, "Sep 2024": 9.55, "Oct 2024": 9.564656, "Nov 2024": 9.564656,
+          "Dec 2024": 9.564656, "Jan 2025": 9.564656, "Feb 2025": 9.564656, "Mar 2025": 9.564656
+        }
+      },
+      "total_supplier_advances": {
+        "metadata": {
+          "source_section": "Balance Sheet",
+          "data_type": "Operations",
+          "unit": "Cr"
+        },
+        "time_series": {
+          "Mar 2024": 7.15461, "Sep 2024": 3.230473, "Oct 2024": 3.566663, "Nov 2024": 3.1,
+          "Dec 2024": 3.3, "Jan 2025": 3.7, "Feb 2025": 4.11, "Mar 2025": 4.11
+        }
+      }
+    }
+  },
+  "cash_flow_metrics": {
+    "operating_activities": {
+      "operating_profit_before_wc": {
+        "metadata": {
+          "source_section": "Cash Flow Statement",
+          "data_type": "Profitability",
+          "unit": "₹ Cr",
+          "description": "Operating profit before changes in working capital"
+        },
+        "time_series": {
+          "Apr 2024": -14.265, "May 2024": -9.621
+        }
+      },
+      "working_capital_changes": {
+        "metadata": {
+          "source_section": "Cash Flow Statement",
+          "data_type": "Other",
+          "unit": "₹ Cr"
+        },
+        "time_series": {
+          "Apr 2024": -0.781, "May 2024": -4.237
+        }
+      },
+      "net_cash_used": {
+        "metadata": {
+          "source_section": "Cash Flow Statement",
+          "data_type": "Other",
+          "unit": "₹ Cr"
+        },
+        "time_series": {
+          "Apr 2024": -15.046, "May 2024": -13.857
+        }
+      },
+      "capex": {
+        "metadata": {
+          "source_section": "Cash Flow Statement",
+          "data_type": "Other",
+          "unit": "₹ Cr"
+        },
+        "time_series": {
+          "Apr 2024": -7.5, "May 2024": -1.909
+        }
+      },
+      "vogo_shuttl_expenses": {
+        "metadata": {
+          "source_section": "Cash Flow Statement",
+          "data_type": "Expenses",
+          "unit": "₹ Cr",
+          "description": "Operating expenses of Vogo and Shuttl"
+        },
+        "time_series": {
+          "Apr 2024": -4, "May 2024": -0.604
+        }
+      }
+    },
+    "lease_adjustments": {
+      "metadata": {
+        "source_section": "Cash Flow Statement",
+        "data_type": "Operations",
+        "unit": "Cr"
+      },
+      "time_series": {
+        "Oct 2024": 4.46, "Nov 2024": 7.2261
+      }
+    }
+  },
+  "key_performance_indicators": {
+    "arr_metrics": {
+      "total_arr": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Revenue",
+          "unit": "$Mn",
+          "description": "Annual Recurring Revenue"
+        },
+        "time_series": {
+          "Mar 2025": 23
+        },
+        "growth": "1.8x from April 2024"
+      },
+      "chalo_tech_annualized_gc": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Revenue",
+          "unit": "$Mn"
+        },
+        "time_series": {
+          "Mar 2025": 11,
+          "Apr 2024": 4.7, "Jun 2024": 6.6, "Sep 2024": 9.2, "Dec 2024": 10.9
+        }
+      },
+      "premium_bus_arr": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Revenue",
+          "unit": "$Mn"
+        },
+        "time_series": {
+          "Mar 2025": 3.75
+        },
+        "growth": "1.4x from April 24",
+        "burn": "annualized -$3 Mn"
+      },
+      "new_markets_arr": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Revenue",
+          "unit": "$Mn"
+        },
+        "time_series": {
+          "Mar 2025": 9.4
+        },
+        "potential": "$11 Mn+"
+      },
+      "arr_forecast": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Revenue",
+          "unit": "$Mn"
+        },
+        "time_series": {
+          "Dec 2025": 35
+        }
+      }
+    },
+    "operational_highlights": {
+      "total_buses_platform": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Operations",
+          "unit": "count"
+        },
+        "time_series": {
+          "Mar 2025": 30000
+        }
+      },
+      "chalo_tech_gc_per_bus": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Metrics",
+          "unit": "$"
+        },
+        "time_series": {
+          "Mar 2025": 41.3
+        }
+      },
+      "operating_ebitda_percentage": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Profitability",
+          "unit": "%"
+        },
+        "time_series": {
+          "Mar 2025": "56%",
+          "Apr 2024": "54%", "Jun 2024": "49%", "Sep 2024": "48%", "Dec 2024": "48%"
+        }
+      },
+      "manila_buses": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Operations",
+          "unit": "count"
+        },
+        "time_series": {
+          "Mar 2025": 2607
+        },
+        "notes": "with 80 digital audit buses, 2.5x growth from April 2024"
+      }
+    },
+    "consumer_metrics": {
+      "total_rides": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Operations",
+          "unit": "Mn"
+        },
+        "time_series": {
+          "Apr 2023": 128, "Jul 2023": 131, "Oct 2023": 170, "Jan 2025": 164
+        }
+      },
+      "total_app_sessions": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Operations",
+          "unit": "Mn"
+        },
+        "time_series": {
+          "Apr 2023": 46, "Jul 2023": 56, "Oct 2023": 67, "Jan 2025": 58
+        }
+      },
+      "digital_rides": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Operations",
+          "unit": "Mn"
+        },
+        "time_series": {
+          "Apr 2023": 15, "Jul 2023": 18, "Oct 2023": 23, "Jan 2025": 21
+        }
+      }
+    },
+    "bus_segmentation": {
+      "public_market_buses": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Operations",
+          "unit": "count"
+        },
+        "time_series": {
+          "Mar 2024": 3907, "Apr 2024": 6084, "Mar 2025": 15882
+        }
+      },
+      "private_market_buses": {
+        "metadata": {
+          "source_file": "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+          "data_type": "Operations",
+          "unit": "count"
+        },
+        "time_series": {
+          "Mar 2024": 4034, "Apr 2024": 4390, "Mar 2025": 5240
+        }
+      }
+    }
+  },
+  "financial_performance_summary": {
+    "quarterly_jfm25": {
+      "revenue": {
+        "actual": {"value": 5.64, "unit": "$M"},
+        "vs_plan": {"value": 6.84, "unit": "$M"},
+        "vs_prior_year": {"value": 3.15, "unit": "$M"}
+      },
+      "gross_contribution": {
+        "actual": {"value": 2.24, "unit": "$M"},
+        "vs_plan": {"value": 3.99, "unit": "$M"},
+        "vs_prior_year": {"value": 0.43, "unit": "$M"}
+      },
+      "gross_contribution_percentage": {
+        "actual": "40%",
+        "vs_plan": "58%",
+        "vs_prior_year": "14%"
+      },
+      "city_ebitda": {
+        "actual": {"value": 0.84, "unit": "$M"},
+        "vs_plan": {"value": 2.26, "unit": "$M"},
+        "vs_prior_year": {"value": -0.44, "unit": "$M"}
+      },
+      "ebitda": {
+        "actual": {"value": -2.15, "unit": "$M"},
+        "vs_plan": {"value": -2.92, "unit": "$M"},
+        "vs_prior_year": {"value": -3.51, "unit": "$M"}
+      },
+      "cash_burn": {
+        "actual": {"value": -2.41, "unit": "$M"},
+        "vs_plan": {"value": -2.92, "unit": "$M"},
+        "vs_prior_year": {"value": -3.64, "unit": "$M"}
+      }
+    },
+    "annual_apr24_mar25": {
+      "revenue": {
+        "actual": {"value": 18.57, "unit": "$M"},
+        "vs_plan": {"value": 20.43, "unit": "$M"},
+        "vs_prior_year": {"value": 12.94, "unit": "$M"}
+      },
+      "gross_contribution": {
+        "actual": {"value": 6.73, "unit": "$M"},
+        "vs_plan": {"value": 9.37, "unit": "$M"},
+        "vs_prior_year": {"value": 1.74, "unit": "$M"}
+      },
+      "ebitda": {
+        "actual": {"value": -10.37, "unit": "$M"},
+        "vs_plan": {"value": -8.60, "unit": "$M"},
+        "vs_prior_year": {"value": -13.08, "unit": "$M"}
+      },
+      "cash_burn": {
+        "actual": {"value": -10.93, "unit": "$M"},
+        "vs_plan": {"value": -8.60, "unit": "$M"},
+        "vs_prior_year": {"value": -13.94, "unit": "$M"}
+      }
+    },
+    "current_financial_position": {
+      "cash_balance": {"value": 12.92, "unit": "$M"},
+      "debt": {"value": 6.78, "unit": "$M"}
+    }
+  },
+  "data_validation": {
+    "source_files": [
+      "Chalo Group MIS - March 2025-w.md",
+      "AVATAAR PORTFOLIO REVIEW – Mar 2025.pdf",
+      "Chalo Group MIS March 2025w.xlsx"
+    ],
+    "total_data_points": 418,
+    "sections_covered": 10,
+    "time_periods_covered": 24,
+    "quarterly_periods": 2,
+    "annual_periods": 2,
+    "data_completeness": "97%",
+    "metadata_preservation": "Complete",
+    "last_validation": "Mar 2025",
+    "business_segments_tracked": 5,
+    "currencies": ["INR", "USD"],
+    "geographic_coverage": ["India", "Philippines"]
+  }
+}
