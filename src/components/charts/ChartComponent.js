@@ -104,6 +104,8 @@ export const ChartComponent = ({
 
     switch (type) {
       case "bar":
+      case "grouped_bar":  // ADD THIS LINE
+      case "column": 
         return (
           <BarChart {...commonProps} style={chartStyle}>
             {config.showGrid && (
@@ -181,6 +183,8 @@ export const ChartComponent = ({
         );
 
       case "line":
+      case "multi_line":
+      case "trend": 
         return (
           <LineChart {...commonProps} style={chartStyle}>
             {config.showGrid && (
