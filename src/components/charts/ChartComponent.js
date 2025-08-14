@@ -104,7 +104,8 @@ export const ChartComponent = ({
 
     switch (type) {
       case "bar":
-      case "grouped_bar":  // ADD THIS LINE
+      case "grouped_bar":
+      case "groupedBar":
       case "column": 
         return (
           <BarChart {...commonProps} style={chartStyle}>
