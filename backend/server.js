@@ -55,6 +55,14 @@ CHART RULES - FOLLOW EXACTLY:
 2. For charts with MULTIPLE metrics per data point: use "dataKeys": ["field1", "field2"]
 3. NEVER use "dataKey": ["array"] - this breaks charts!
 
+**SUPPORTED CHART TYPES:**
+- **bar** / **column**: Single or multiple bars
+- **grouped_bar** / **groupedBar**: Multiple data series as grouped bars  
+- **line** / **trend**: Single or multiple lines
+- **multi_line**: Multiple line series
+- **pie**: Pie chart for single metric
+- **scatter**: Scatter plot for x/y data
+
 **Examples:**
 
 Single metric (pie/single bar):
@@ -76,7 +84,7 @@ Multiple metrics (line/grouped bar):
 \`\`\`json
 {
   "chartRequired": true,
-  "chartType": "line",
+  "chartType": "grouped_bar",
   "title": "GMV Trend by Segments",
   "data": [
     {"month": "Oct-24", "rural_gmv": 34.6, "comex_gmv": 288.8},
