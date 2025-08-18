@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { LineChart, Line, BarChart, Bar, PieChart, Pie, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, ComposedChart, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar } from 'recharts';
 import { TrendingUp, TrendingDown, Users, DollarSign, Target, AlertTriangle, CheckCircle, Activity, Shield, Star, Lightbulb, Eye, ThumbsUp, ThumbsDown, Zap, Award, Brain, Bus, Globe, ExternalLink } from 'lucide-react';
 import Chatbot from './chatbot/Chatbot';
+import { DynamicChartGenerator } from './charts/DynamicChartGenerator';
 import chaloData from '../data/chalo_progress.json';
 import chaloChatbotData from '../data/chalo_chatbot.json';
 
@@ -1346,6 +1347,16 @@ const ChaloDashboardEnhanced = () => {
             </div>
           </>
         )}
+
+        {/* Dynamic Chart Generator */}
+        <div className="mb-6">
+          <DynamicChartGenerator
+            businessData={chaloData}
+            companyName="Chalo"
+            theme="dark"
+            className="w-full"
+          />
+        </div>
 
         <Chatbot data={chaloChatbotData} companyName="Chalo" />
       </div>

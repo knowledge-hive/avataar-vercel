@@ -8,6 +8,7 @@ import {
   Cell,
   ScatterChart,
   Scatter,
+  ComposedChart,
   XAxis,
   YAxis,
   CartesianGrid,
@@ -34,6 +35,27 @@ export const ChartComponent = ({
   ...props
 }) => {
   console.log('ChartComponent props:', { type, data, config });
+  
+  // Debug mixed chart configuration
+  if (type === 'mix' || type === 'mixed') {
+    console.log('Mixed chart config debug:', {
+      barKeys: config.barKeys,
+      lineKeys: config.lineKeys,
+      dataKeys: config.dataKeys,
+      dataKey: config.dataKey,
+      sampleData: data[0]
+    });
+  }
+  
+  // Debug table configuration
+  if (type === 'table') {
+    console.log('Table config debug:', {
+      columns: config.columns,
+      columnsType: typeof config.columns?.[0],
+      sampleData: data[0],
+      dataKeys: Object.keys(data[0] || {})
+    });
+  }
   
   const chartClasses = classNames(
     styles.chartComponent,
@@ -79,9 +101,7 @@ export const ChartComponent = ({
   const tooltipTextColor = theme === 'light' ? '#1f2937' : '#FFFFFF';
 
   const commonProps = {
-    data,
-    width: undefined,
-    height: undefined,
+    data
   };
 
   // Animation state
@@ -374,6 +394,241 @@ export const ChartComponent = ({
               animationEasing="ease-out"
             />
           </ScatterChart>
+        );
+
+      case "mixed":
+      case "mix":
+      case "composed":
+      case "line_bar":
+      case "bar_line":
+        return (
+          <ComposedChart {...commonProps} style={chartStyle}>
+            {config.showGrid && (
+              <CartesianGrid strokeDasharray="3 3" stroke={gridColor} />
+            )}
+            <XAxis
+              dataKey={config.xAxisKey || "name"}
+              stroke={textColor}
+              fontSize={compact ? 10 : 12}
+              tickLine={false}
+              axisLine={false}
+            />
+            <YAxis
+              stroke={textColor}
+              fontSize={compact ? 10 : 12}
+              tickLine={false}
+              axisLine={false}
+            />
+            {config.showTooltip && (
+              <Tooltip
+                contentStyle={{
+                  backgroundColor: tooltipBg,
+                  border: `1px solid ${tooltipBorder}`,
+                  borderRadius: "8px",
+                  color: tooltipTextColor,
+                  fontSize: compact ? "12px" : "14px",
+                  boxShadow: "0 10px 25px rgba(0,0,0,0.1)",
+                  transition: "all 0.3s ease",
+                }}
+                animationDuration={300}
+                animationEasing="ease-out"
+              />
+            )}
+            {config.showLegend && (
+              <Legend 
+                wrapperStyle={{ 
+                  color: textColor,
+                  fontSize: compact ? "11px" : "12px"
+                }} 
+              />
+            )}
+            {/* Render bars first */}
+            {(config.barKeys || []).map((key, index) => (
+              <Bar
+                key={key}
+                dataKey={key}
+                fill={colors[index % colors.length]}
+                radius={[2, 2, 0, 0]}
+                animationDuration={1200}
+                animationBegin={200 + (index * 100)}
+                animationEasing="ease-out"
+                name={key.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+              />
+            ))}
+            {/* Render lines on top */}
+            {(config.lineKeys || []).map((key, index) => (
+              <Line
+                key={key}
+                type="monotone"
+                dataKey={key}
+                stroke={colors[(config.barKeys?.length || 0) + index] || colors[index % colors.length]}
+                strokeWidth={compact ? 2 : 3}
+                dot={{ fill: colors[(config.barKeys?.length || 0) + index] || colors[index % colors.length], strokeWidth: 2, r: compact ? 3 : 4 }}
+                activeDot={{ 
+                  r: compact ? 4 : 6, 
+                  fill: colors[(config.barKeys?.length || 0) + index] || colors[index % colors.length],
+                  stroke: colors[(config.barKeys?.length || 0) + index] || colors[index % colors.length],
+                  strokeWidth: 2,
+                }}
+                animationDuration={1500}
+                animationBegin={300 + (index * 100)}
+                animationEasing="ease-out"
+                name={key.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+              />
+            ))}
+            {/* Fallback: if no barKeys/lineKeys, use dataKeys */}
+            {(!config.barKeys && !config.lineKeys && config.dataKeys) && config.dataKeys.map((key, index) => {
+              // First half as bars, second half as lines
+              const isBar = index < Math.ceil(config.dataKeys.length / 2);
+              return isBar ? (
+                <Bar
+                  key={key}
+                  dataKey={key}
+                  fill={colors[index % colors.length]}
+                  radius={[2, 2, 0, 0]}
+                  animationDuration={1200}
+                  animationBegin={200 + (index * 100)}
+                  animationEasing="ease-out"
+                  name={key.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+                />
+              ) : (
+                <Line
+                  key={key}
+                  type="monotone"
+                  dataKey={key}
+                  stroke={colors[index % colors.length]}
+                  strokeWidth={compact ? 2 : 3}
+                  dot={{ fill: colors[index % colors.length], strokeWidth: 2, r: compact ? 3 : 4 }}
+                  activeDot={{ 
+                    r: compact ? 4 : 6, 
+                    fill: colors[index % colors.length],
+                    stroke: colors[index % colors.length],
+                    strokeWidth: 2,
+                  }}
+                  animationDuration={1500}
+                  animationBegin={300 + (index * 100)}
+                  animationEasing="ease-out"
+                  name={key.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+                />
+              );
+            })}
+          </ComposedChart>
+        );
+
+      case "table":
+        if (!data || data.length === 0) {
+          return (
+            <div className="p-8 text-center" style={chartStyle}>
+              <p className={`text-lg ${theme === 'dark' ? 'text-gray-400' : 'text-gray-600'}`}>
+                No data available for table
+              </p>
+            </div>
+          );
+        }
+        
+        return (
+          <div className="overflow-x-auto" style={chartStyle}>
+            <table className={`w-full text-sm ${theme === 'dark' ? 'text-gray-300' : 'text-gray-700'}`}>
+              <thead>
+                <tr className={`border-b ${theme === 'dark' ? 'border-gray-700 bg-gray-800' : 'border-gray-200 bg-gray-50'}`}>
+                  {config.columns && config.columns.length > 0 ? 
+                    config.columns.map((column, index) => {
+                      // Handle both string columns and object columns
+                      let columnName;
+                      if (typeof column === 'string') {
+                        columnName = column;
+                      } else if (typeof column === 'object' && column.key) {
+                        columnName = column.key;
+                      } else if (typeof column === 'object' && column.name) {
+                        columnName = column.name;
+                      } else {
+                        // If it's an object but we can't determine the key, just use the data keys
+                        columnName = Object.keys(data[0] || {})[index] || `Column ${index + 1}`;
+                      }
+                      
+                      return (
+                        <th
+                          key={index}
+                          className={`px-4 py-3 text-left font-semibold ${
+                            theme === 'dark' ? 'text-gray-200' : 'text-gray-900'
+                          }`}
+                        >
+                          {columnName.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+                        </th>
+                      );
+                    }) : 
+                    // Fallback to data keys
+                    Object.keys(data[0] || {}).map((key, index) => (
+                      <th
+                        key={index}
+                        className={`px-4 py-3 text-left font-semibold ${
+                          theme === 'dark' ? 'text-gray-200' : 'text-gray-900'
+                        }`}
+                      >
+                        {key.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+                      </th>
+                    ))
+                  }
+                </tr>
+              </thead>
+              <tbody>
+                {(data || []).map((row, rowIndex) => (
+                  <tr
+                    key={rowIndex}
+                    className={`border-b ${
+                      theme === 'dark' 
+                        ? 'border-gray-700 hover:bg-gray-800' 
+                        : 'border-gray-200 hover:bg-gray-50'
+                    } transition-colors`}
+                  >
+                    {config.columns && config.columns.length > 0 ?
+                      config.columns.map((column, colIndex) => {
+                        // Get the actual key name for data access
+                        let dataKey;
+                        if (typeof column === 'string') {
+                          dataKey = column;
+                        } else if (typeof column === 'object' && column.key) {
+                          dataKey = column.key;
+                        } else if (typeof column === 'object' && column.name) {
+                          dataKey = column.name;
+                        } else {
+                          dataKey = Object.keys(row || {})[colIndex] || '';
+                        }
+                        
+                        return (
+                          <td
+                            key={colIndex}
+                            className={`px-4 py-3 ${
+                              typeof row?.[dataKey] === 'number' ? 'font-medium' : ''
+                            }`}
+                          >
+                            {typeof row?.[dataKey] === 'number' 
+                              ? row[dataKey].toLocaleString() 
+                              : (row?.[dataKey] ?? '-')
+                            }
+                          </td>
+                        );
+                      }) :
+                      // Fallback to data keys
+                      Object.keys(row || {}).map((key, colIndex) => (
+                        <td
+                          key={colIndex}
+                          className={`px-4 py-3 ${
+                            typeof row?.[key] === 'number' ? 'font-medium' : ''
+                          }`}
+                        >
+                          {typeof row?.[key] === 'number' 
+                            ? row[key].toLocaleString() 
+                            : (row?.[key] ?? '-')
+                          }
+                        </td>
+                      ))
+                    }
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
         );
 
       default:

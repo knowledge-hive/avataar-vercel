@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { LineChart, Line, BarChart, Bar, PieChart, Pie, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, ComposedChart, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar } from 'recharts';
 import { TrendingUp, TrendingDown, Users, DollarSign, Target, AlertTriangle, CheckCircle, Activity, Shield, Star, Lightbulb, Eye, ThumbsUp, ThumbsDown, Zap, Award, Bot, Brain, MessageCircle, ExternalLink } from 'lucide-react';
 import Chatbot from './chatbot/Chatbot';
+import { DynamicChartGenerator } from './charts/DynamicChartGenerator';
 import interfaceData from '../data/interface_progress.json';
 import interfaceChatbotData from '../data/interface_chatbot.json';
 
@@ -1529,6 +1530,16 @@ const InterfaceDashboardEnhanced = () => {
             </div>
           </>
         )}
+
+        {/* Dynamic Chart Generator */}
+        <div className="mb-6">
+          <DynamicChartGenerator
+            businessData={interfaceData}
+            companyName="Interface.ai"
+            theme="dark"
+            className="w-full"
+          />
+        </div>
 
         <Chatbot data={interfaceChatbotData} companyName="Interface.ai" />
       </div>

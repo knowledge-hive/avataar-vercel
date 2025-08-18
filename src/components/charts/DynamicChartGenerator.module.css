@@ -1,0 +1,54 @@
+.dynamicChartGenerator {
+  width: 100%;
+}
+
+.chartContainer {
+  background: transparent;
+}
+
+/* Animation for chart generation */
+.dynamicChartGenerator .chartContainer {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Loading state styles */
+.loading {
+  pointer-events: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .dynamicChartGenerator textarea {
+    min-height: 60px;
+  }
+}
+
+/* Focus states */
+.dynamicChartGenerator textarea:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+/* Button hover effects */
+.dynamicChartGenerator button:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Chart container styling */
+.dynamicChartGenerator .chartContainer {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}

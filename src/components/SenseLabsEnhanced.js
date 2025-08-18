@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { LineChart, Line, AreaChart, Area, BarChart, Bar, PieChart, Pie, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, ComposedChart, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar } from 'recharts';
 import { TrendingUp, TrendingDown, Users, DollarSign, Target, AlertTriangle, CheckCircle, Activity, Shield, Star, Lightbulb, Eye, ThumbsUp, ThumbsDown, Zap, Award, Building, Code, Cpu, ExternalLink  } from 'lucide-react';
 import Chatbot from './chatbot/Chatbot';
+import { DynamicChartGenerator } from './charts/DynamicChartGenerator';
 import { senseData } from '../utils/senseData';
 
 const SenseLabsEnhanced = () => {
@@ -727,6 +728,16 @@ staffingIndustryTrends: [
                   }) || []}
                 </div>
               </div>
+            </div>
+
+            {/* Dynamic Chart Generator */}
+            <div className="mb-6">
+              <DynamicChartGenerator
+                businessData={senseData}
+                companyName="Sense Labs"
+                theme="dark"
+                className="w-full"
+              />
             </div>
           </>
         )}

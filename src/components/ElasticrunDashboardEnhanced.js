@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { LineChart, Line, BarChart, Bar, PieChart, Pie, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, ComposedChart, AreaChart, Area } from 'recharts';
 import { TrendingUp, TrendingDown, Users, DollarSign, Target, AlertTriangle, CheckCircle, Activity, Shield, Star, Lightbulb, Eye, ThumbsUp, ThumbsDown, Zap, Award, Bot, Brain, MessageCircle, ExternalLink, Package, Truck, Store, ShoppingCart } from 'lucide-react';
 import Chatbot from './chatbot/Chatbot';
+import { DynamicChartGenerator } from './charts/DynamicChartGenerator';
 import elasticrunData from '../data/ER_progress_new.json';
 import erChatbotData from '../data/er_chatbot.json';
 
@@ -993,6 +994,18 @@ const ElasticrunDashboardEnhanced = () => {
             </div>
           </div>
         )}
+
+        {/* Dynamic Chart Generator */}
+        <div className="mb-6">
+          <DynamicChartGenerator
+            businessData={elasticrunData}
+            companyName="Elasticrun"
+            theme="dark"
+            className="w-full"
+          />
+        </div>
+
+        <Chatbot data={erChatbotData} companyName="Elasticrun" />
       </div>
     </div>
   );

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { LineChart, Line, BarChart, Bar, PieChart, Pie, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, ComposedChart, AreaChart, Area } from 'recharts';
 import { TrendingUp, TrendingDown, Users, DollarSign, Target, Building, Award, Activity, Globe, Zap, ArrowRight, ExternalLink } from 'lucide-react';
+import { DynamicChartGenerator } from './charts/DynamicChartGenerator';
 import { senseData } from '../utils/senseData';
 import chaloData from '../data/chalo_progress.json';
 import interfaceData from '../data/interface_progress.json';
@@ -447,6 +448,16 @@ const InvestorView = () => {
               </div>
             </div>
           </div>
+        </div>
+
+        {/* Dynamic Chart Generator for Portfolio Analytics */}
+        <div className="mb-8">
+          <DynamicChartGenerator
+            businessData={portfolioData?.overview}
+            companyName="Portfolio Analytics"
+            theme="dark"
+            className="w-full"
+          />
         </div>
 
         {/* Data Source Note */}

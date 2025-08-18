@@ -48,6 +48,7 @@ RESPONSE FORMAT:
 - **Supporting Chart**: Include when it enhances understanding (max 1-2 charts)
 - **CONCISE RESPONSES**: Keep textual responses under 200 words. Be direct and actionable.
 - **NO REPETITION**: Avoid redundant explanations or verbose descriptions
+
 CHART RULES - FOLLOW EXACTLY:
 
 **CRITICAL: Chart Configuration Rules**
@@ -63,6 +64,7 @@ CHART RULES - FOLLOW EXACTLY:
 - **pie**: Pie chart for single metric
 - **scatter**: Scatter plot for x/y data
 
+You must use the exact chart type names as listed above. Do not use any other names or variations.
 **Examples:**
 
 Single metric (pie/single bar):
@@ -84,6 +86,7 @@ Multiple metrics (line/grouped bar):
 \`\`\`json
 {
   "chartRequired": true,
+  "chartType": "grouped_bar",
   "chartType": "grouped_bar",
   "title": "GMV Trend by Segments",
   "data": [
@@ -210,6 +213,150 @@ app.post('/api/chat', async (req, res) => {
     res.status(500).json({ error: 'Internal server error' });
   }
 });
+// Dedicated chart generation endpoint
+app.post('/api/chart', async (req, res) => {
+  const { message, senseData, companyName } = req.body;
+  
+  console.log('Chart request received:', {
+    message: message ? message.substring(0, 50) : 'undefined',
+    companyName: companyName || 'undefined'
+  });
+
+  try {
+    const chartPrompt = `
+You are a data visualization specialist for ${companyName || 'Business'} data analysis. 
+Generate ONLY a visualization configuration based on the user's request.
+
+USER REQUEST: "${message}"
+
+IMPORTANT: Analyze the user's request for these keywords to determine visualization type:
+- If request contains "table", "tabular", "breakdown table", "show in table", "list" → use "table" type
+- If request contains "mixed", "mix", "combined", "vs", "compared with", "bars and lines" → use "mixed" type  
+- Otherwise use appropriate chart type (bar, line, pie, scatter)
+
+AVAILABLE DATA: ${senseData ? JSON.stringify(senseData).substring(0, 20000) : 'No data provided'}
+
+RESPONSE REQUIREMENTS:
+1. First determine if user wants TABLE or CHART based on keywords above
+2. Analyze the user's request and available data
+3. Generate ONLY a JSON visualization configuration
+4. Use the exact field names from the provided data
+5. Follow the configuration rules exactly
+
+SUPPORTED VISUALIZATION TYPES:
+- **bar** / **column**: Single or multiple bars
+- **grouped_bar** / **groupedBar**: Multiple data series as grouped bars  
+- **line** / **trend**: Single or multiple lines
+- **multi_line**: Multiple line series
+- **pie**: Pie chart for single metric
+- **scatter**: Scatter plot for x/y data
+- **mixed** / **mix** / **composed** / **line_bar** / **bar_line**: Mixed chart with bars and lines
+- **table**: Data table format for detailed viewing
+
+CRITICAL CONFIGURATION RULES:
+1. For charts with ONE metric per data point: use "dataKey": "fieldname" 
+2. For charts with MULTIPLE metrics per data point: use "dataKeys": ["field1", "field2"]
+3. For MIXED charts: use "barKeys": ["field1"] and "lineKeys": ["field2"]
+4. For TABLES: use "columns": ["field1", "field2"] to specify column order
+5. Field names: use snake_case or camelCase (no spaces!)
+6. No null values in data - exclude incomplete data points
+
+RESPONSE FORMAT EXAMPLES:
+
+Single metric chart:
+\`\`\`json
+{
+  "chartRequired": true,
+  "chartType": "line",
+  "title": "Revenue Trend",
+  "data": [{"month": "Jan", "revenue": 100}, {"month": "Feb", "revenue": 120}],
+  "config": {"xAxisKey": "month", "dataKey": "revenue", "showGrid": true, "showTooltip": true, "showLegend": true}
+}
+\`\`\`
+
+Mixed chart (bars + lines) - IMPORTANT format:
+\`\`\`json
+{
+  "chartRequired": true,
+  "chartType": "mixed",
+  "title": "Revenue vs EBITDA",
+  "data": [{"quarter": "Q1", "revenue": 100, "ebitda_percent": 15}, {"quarter": "Q2", "revenue": 120, "ebitda_percent": 18}],
+  "config": {
+    "xAxisKey": "quarter", 
+    "barKeys": ["revenue"], 
+    "lineKeys": ["ebitda_percent"], 
+    "showGrid": true, 
+    "showTooltip": true, 
+    "showLegend": true
+  }
+}
+\`\`\`
+
+CRITICAL: For mixed charts, you MUST use "barKeys" array for bar metrics and "lineKeys" array for line metrics. DO NOT use "dataKeys" for mixed charts.
+
+Table format - USE FOR: "breakdown table", "show in table", "tabular format":
+\`\`\`json
+{
+  "chartRequired": true,
+  "chartType": "table",
+  "title": "Customer Segment Breakdown",
+  "data": [{"segment": "Enterprise", "count": 45, "revenue": 1200000}, {"segment": "SMB", "count": 158, "revenue": 800000}],
+  "config": {"columns": ["segment", "count", "revenue"]}
+}
+\`\`\`
+
+EXAMPLES OF TABLE REQUESTS:
+- "Customer segment breakdown table" → TABLE
+- "Show quarterly metrics in table" → TABLE  
+- "List of top customers" → TABLE
+- "Breakdown table of revenue by region" → TABLE
+
+STEP BY STEP:
+1. Check if user request contains table keywords → If YES, use "chartType": "table"
+2. If not table, check for mixed chart keywords → If YES, use "chartType": "mixed" 
+3. Otherwise choose appropriate chart type (bar, line, pie, scatter)
+
+Generate the visualization configuration now:`;
+
+    const response = await fetch('https://api.openai.com/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        model: 'gpt-4.1-mini',
+        messages: [
+          {
+            role: 'system',
+            content: `You are a chart configuration generator. Return only valid JSON chart configurations.`
+          },
+          {
+            role: 'user',
+            content: chartPrompt
+          }
+        ],
+        max_tokens: 2000,
+        temperature: 0.3,
+      }),
+    });
+
+    const data = await response.json();
+    
+    if (data.choices && data.choices.length > 0) {
+      res.json({
+        response: data.choices[0].message.content
+      });
+    } else {
+      console.error('No choices in chart API response:', data);
+      res.status(500).json({ error: 'Invalid API response' });
+    }
+  } catch (error) {
+    console.error('Chart API Error:', error);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
 app.post('/api/generate-questions', async (req, res) => {
   const { botResponse, userQuestion, companyName, dataContext } = req.body;
   
